@@ -54,7 +54,7 @@ normalize_names <- function(full_names){
 
     if (length(remaining)==0) remaining <- ''
 
-    data.frame(clean_full_name=paste0(x, collapse=" "), last_name=last_name, first_name=first_name, remaining=remaining, stringsAsFactors=F)
+    data.frame(clean_full_name=paste0(x, collapse=" "), clean_first_last=paste(first_name, last_name), last_name=last_name, first_name=first_name, remaining=remaining, stringsAsFactors=F)
   }
 
   full_names %>%

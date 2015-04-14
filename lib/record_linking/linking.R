@@ -7,13 +7,13 @@ find_probable_name_matches <- function(names_by_pcode) {
   link_probabilities <- compare.linkage(
     names_by_pcode, names_by_pcode,
     blockfld="postal_code",
-    exclude=c("full_name", "postal_code", "remaining", "clean_full_name"),
-    strcmp=c("first_name", "last_name")
+    exclude=c("full_name", "first_name", "last_name", "postal_code", "remaining", "clean_full_name"),
+    strcmp=c("clean_first_last")
   )
 
   print("Classifying link probabilities...")
   link_probabilities <- epiWeights(link_probabilities)
-  link_probabilities <- epiClassify(link_probabilities, 0.7)
+  link_probabilities <- epiClassify(link_probabilities, 0.9)
 
   # define a subset of record pairs that are probable links
   probable_links <- with(link_probabilities, {

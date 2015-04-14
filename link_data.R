@@ -5,8 +5,11 @@ source("lib/record_linking/linking.R")
 library(GetoptLong)
 library(plyr); library(dplyr)
 
-target_dir_name <- "linked_data/as_reviewed_training_set"
-source_dir_name <- "cleaned_data/as_reviewed_training_set"
+data_store <- commandArgs(TRUE)
+data_store_subdir <- switch(data_store[1], mock="0_mock_data", reviewed="as_reviewed_training_set", "as_submitted")
+
+source_dir_name <- paste("cleaned_data/", data_store_subdir, sep="")
+target_dir_name <- paste("linked_data/", data_store_subdir, sep="")
 data_set <- read.csv(GetoptLong::qq("@{source_dir_name}/@{all_data_csv_file_name}"), encoding="UTF-8")
 
 print("Subsetting unique names by postal code...")
