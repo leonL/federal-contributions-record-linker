@@ -12,13 +12,17 @@ source_dir_name <- paste("cleaned_data/", data_store_subdir, sep="")
 target_dir_name <- paste("linked_data/", data_store_subdir, sep="")
 data_set <- read.csv(GetoptLong::qq("@{source_dir_name}/@{all_data_csv_file_name}"), encoding="UTF-8")
 
-print("Subsetting unique names by postal code...")
-name_and_postal_data <- data_set[,c("full_name", "postal_code")]
-unique_name_and_postal <- name_and_postal_data[!duplicated(name_and_postal_data),]
+print("create canonical table of normalized names (first and last only)...")
+names_data <- data.frame(full_name=levels(data_set$full_name))
+normed_first_last <- normalize_names(names_data$full_name)
+names_data <- cbind(names_data, normed_first_last)
 
-print("Normalizing unique contribtutor names...")
-normed_names <- normalize_names(unique_name_and_postal$full_name)
-unique_normed_names_and_postal <- cbind(unique_name_and_postal, normed_names)
+print("merge normalized names into main data set...")
+data_set <- merge(data_set, names_data)
+
+print("Subsetting unique names by postal code...")
+name_and_postal_data <- data_set[,c("clean_first_last_name", "postal_code")]
+unique_name_and_postal <- name_and_postal_data[!duplicated(name_and_postal_data),]
 
 print("Match similiar names...")
 probable_links <- find_probable_name_matches(unique_normed_names_and_postal)

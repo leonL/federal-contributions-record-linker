@@ -11,6 +11,7 @@ normalize_names <- function(full_names){
 
   library(dplyr)
   library(magrittr)
+  library(stringr)
 
   ## iterate gsub over a vector of patterns (i.e. set of special characters)
   gsub2 <- function(pattern, replacement, x, ...) {
@@ -37,8 +38,12 @@ normalize_names <- function(full_names){
 
     normalized <- gsub2(from, to, names)
 
-    # Replace non alphabetical characters by an empty string
+    # Replace titles and non-alphabetical characters by an empty string and trim
+    normalized <- gsub("(^|\\s)((dr|ms|mr|mrs))(\\W|\\s)|(prof(essor)?|miss)\\s", " ", normalized, ignore.case=TRUE)
+    normalized <- gsub("(^|\\s)((dr|ms|mr|mrs))(\\W|\\s)|(prof(essor)?|miss)\\s", " ", normalized, ignore.case=TRUE) # repeat title substition to catch secondary titles not preceded by white spaces
+    normalized <- gsub("(^|\\s)(and|or)\\s", " ", normalized, ignore.case=TRUE)
     normalized <- gsub("[^a-z| ]", "", normalized, ignore.case=TRUE)
+    normalized <- str_trim(normalized)
 
     return(normalized)
   }
@@ -49,12 +54,13 @@ normalize_names <- function(full_names){
 
     n <- length(x)
     first_name <- x[1]
-    last_name <- x[n]
+    last_name <- ifelse(n > 1, x[n], "")
     remaining <- paste0(x[-c(1,n)], collapse=' ')
 
     if (length(remaining)==0) remaining <- ''
 
-    data.frame(clean_full_name=paste0(x, collapse=" "), clean_first_last=paste(first_name, last_name), last_name=last_name, first_name=first_name, remaining=remaining, stringsAsFactors=F)
+    # data.frame(clean_full_name=paste0(x, collapse=" "), clean_first_last_name=paste(first_name, last_name), last_name=last_name, first_name=first_name, remaining=remaining, stringsAsFactors=F)
+    data.frame(clean_first_last_name=paste(first_name, last_name), stringsAsFactors=F)
   }
 
   full_names %>%
