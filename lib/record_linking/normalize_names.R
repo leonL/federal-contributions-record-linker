@@ -38,35 +38,45 @@ normalize_names <- function(full_names){
 
     normalized <- gsub2(from, to, names)
 
-    # Replace titles and non-alphabetical characters by an empty string and trim
-    normalized <- gsub("(^|\\s)((dr|ms|mr|mrs))(\\W|\\s)|(prof(essor)?|miss)\\s", " ", normalized, ignore.case=TRUE)
-    normalized <- gsub("(^|\\s)((dr|ms|mr|mrs))(\\W|\\s)|(prof(essor)?|miss)\\s", " ", normalized, ignore.case=TRUE) # repeat title substition to catch secondary titles not preceded by white spaces
+    # Remove titles, the words 'and' & 'or', and non-alphabetical characters
+    normalized <- gsub("(^|\\s)((dr|ms|mr|mrs)\\W+)*|(prof(essor)?|miss)\\s", " ", normalized, ignore.case=TRUE)
     normalized <- gsub("(^|\\s)(and|or)\\s", " ", normalized, ignore.case=TRUE)
     normalized <- gsub("[^a-z| ]", "", normalized, ignore.case=TRUE)
+
+    # Remove excessive white space
+    normalized <- gsub("\\s{2, }", " ", normalized)
     normalized <- str_trim(normalized)
 
     return(normalized)
   }
 
-  split_names <- function(x){
-    #split full name character vector into last name, first name and remaining characters
-    if (length(x)==0) x <- c('anon', 'anon') #if name field is empty, set first_name='anon', last_name='anon'
+  reduce_name <- function(names) {
+    names <- unlist(names)
 
-    n <- length(x)
-    first_name <- x[1]
-    last_name <- ifelse(n > 1, x[n], "")
-    remaining <- paste0(x[-c(1,n)], collapse=' ')
+    suffixReg <- "(^|\\s)[js]r(\\s|$)"
+    suffixIndex <- grep(suffixReg, names)
 
-    if (length(remaining)==0) remaining <- ''
+    if(length(suffixIndex)) {
+      suffix <- names[suffixIndex[1]]
+      names <- names[-suffixIndex[1]]
+    } else {
+      suffix <- ""
+    }
 
-    # data.frame(clean_full_name=paste0(x, collapse=" "), clean_first_last_name=paste(first_name, last_name), last_name=last_name, first_name=first_name, remaining=remaining, stringsAsFactors=F)
-    data.frame(clean_first_last_name=paste(first_name, last_name), stringsAsFactors=F)
+    n <- length(names)
+    first_name <- names[1]
+    last_name <- ifelse(n > 1, names[n], "")
+
+    reduced_name <- paste(first_name, last_name, suffix)
+    reduced_name <- str_trim(reduced_name)
+
+    data.frame(clean_first_last_name=reduced_name, stringsAsFactors=F)
   }
 
   full_names %>%
     tolower %>%
     coerce_to_alpha %>%
     strsplit(split=' ') %>%
-    lapply(FUN=split_names) %>%
+    lapply(FUN=reduce_name) %>%
     rbind_all
 }
