@@ -25,7 +25,7 @@ name_and_postal_data <- data_set[,c("clean_first_last_name", "postal_code")]
 unique_name_and_postal <- name_and_postal_data[!duplicated(name_and_postal_data),]
 
 print("Match similiar names...")
-probable_links <- find_probable_name_matches(unique_normed_names_and_postal)
+probable_links <- find_probable_name_matches(unique_name_and_postal)
 
 # sets ids for linked names
 print("assigning unique ids to linked names...")
