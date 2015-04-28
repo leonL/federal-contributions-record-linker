@@ -6,7 +6,7 @@ library(GetoptLong)
 library(plyr); library(dplyr)
 
 data_store <- commandArgs(TRUE)
-data_store_subdir <- switch(data_store[1], mock="0_mock_data", reviewed="as_reviewed_training_set", "as_submitted")
+data_store_subdir <- switch(data_store[1], mock="0_mock_data", reviewed="as_reviewed", "as_submitted")
 
 source_dir_name <- paste("cleaned_data/", data_store_subdir, sep="")
 target_dir_name <- paste("linked_data/", data_store_subdir, sep="")
