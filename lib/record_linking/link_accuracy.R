@@ -1,45 +1,69 @@
-linkAccuracy <- list(contributorSampleSize = 0, postalCodeSampleSize = 0)
+ContributionsDataWrapper <- function(dataSet) {
+  newObj <- within(list(), {
+    set <- dataSet
+    TallyUniqueYPerX <- function(obj=newObj, colX, colY) {
+      subset <- obj$set[, c(colX, colY)]
+      subset <- subset[!duplicated(subset), ]
+      yPerXTally <- eval(
+        substitute(tally(group_by(subset, col)), list(col=as.name(colX)))
+      )
+      return(yPerXTally)
+    }
+    ContribIdsWithMultipleNamesCount <- function(obj=newObj) {
+      tally <- obj$TallyUniqueYPerX(colX="contributor_id", colY="full_name")
+      contribIdsWithMultipleNames <- filter(tally, n > 1)
+      return(nrow(contribIdsWithMultipleNames))
+    }
+    PostalCodesWithMultipleContributorIdsCount <- function (obj=newObj) {
+      tally <- obj$TallyUniqueYPerX(colX="postal_code", colY="contributor_id")
+      postalCodesWithMultipleContributorIds <- filter(tally, n > 1)
+      return(nrow(postalCodesWithMultipleContributorIds))
+    }
+  })
+  return(newObj)
+}
 
-linkAccuracy$calcSampleSize <- function(c, p, E) {
+MinSampleSizeToInferProportion <- function(c, p, E) {
   zstar <- qnorm(1 - ((1 - c)/ 2))
   sampleSize <- zstar^2 * p * (1-p) / (E/2)^2
-  ceiling(sampleSize)
+  return(ceiling(sampleSize))
 }
 
-linkAccuracy$calculateContributorSampleSize <- function(dataSet) {
-  library(dplyr)
 
-  dataSet <- select(dataSet, contributor_id, full_name)
-  dataSet <- dataSet[!duplicated(dataSet), ]
-  uniqueNamesPerContribId <- tally(group_by(dataSet, contributor_id))
-  monoNamedContribIds <- filter(uniqueNamesPerContribId, n>1)
+# linkAccuracy$calculateContributorSampleSize <- function(dataSet) {
+#   library(dplyr)
 
-  # maxmum probability that a contributor will have misassigned records
-  # (i.e records for two different contributors were mistakenly linked)
-  pMax <- 1 - (length(monoNamedContribIds$n) / max(dataSet$contributor_id))
+#   dataSet <- select(dataSet, contributor_id, full_name)
+#   dataSet <- dataSet[!duplicated(dataSet), ]
+#   uniqueNamesPerContribId <- tally(group_by(dataSet, contributor_id))
+#   monoNamedContribIds <- filter(uniqueNamesPerContribId, n>1)
 
-  # calculate the sample size necessary to estimate with 95% confidence,
-  # the proportion of contributors, within a 5 point interval, that have a misassigned record
-  linkAccuracy$contributorSampleSize <<- linkAccuracy$calcSampleSize(0.95, pMax, 0.01)
-}
+#   # maxmum probability that a contributor will have misassigned records
+#   # (i.e records for two different contributors were mistakenly linked)
+#   pMax <- 1 - (length(monoNamedContribIds$n) / max(dataSet$contributor_id))
 
-linkAccuracy$calculatePostalCodeSampleSize <- function(dataSet) {
-  library(dplyr)
+#   # calculate the sample size necessary to estimate with 95% confidence,
+#   # the proportion of contributors, within a 5 point interval, that have a misassigned record
+#   linkAccuracy$contributorSampleSize <<- linkAccuracy$calcSampleSize(0.95, pMax, 0.01)
+# }
 
-  dataSet <- select(data_set, contributor_id, postal_code)
-  dataSet <- dataSet[!duplicated(dataSet), ]
-  uniqueContribIdsPerPostalCode <- tally(group_by(dataSet, postal_code))
-  monoPeopledPostalCodes <- filter(uniqueContribIdsPerPostalCode, n>1)
+# linkAccuracy$calculatePostalCodeSampleSize <- function(dataSet) {
+#   library(dplyr)
 
-  # maxmum probability that a postal code has distinct contributor_ids for
-  # the same contributor (i.e. the records were not linked successfully)
-  pMax <- 1 - (length(monoPeopledPostalCodes$n) / length(levels(dataSet$postal_code)))
+#   dataSet <- select(data_set, contributor_id, postal_code)
+#   dataSet <- dataSet[!duplicated(dataSet), ]
+#   uniqueContribIdsPerPostalCode <- tally(group_by(dataSet, postal_code))
+#   monoPeopledPostalCodes <- filter(uniqueContribIdsPerPostalCode, n>1)
 
-  # calculate the sample size necessary to estimate with 95% confidence,
-  # the proportion of postal codes, within a 5 point interval, that have
-  # contributor_ids that failed to be linked
-  linkAccuracy$postalCodeSampleSize <<- linkAccuracy$calcSampleSize(0.95, pMax, 0.01)
-}
+#   # maxmum probability that a postal code has distinct contributor_ids for
+#   # the same contributor (i.e. the records were not linked successfully)
+#   pMax <- 1 - (length(monoPeopledPostalCodes$n) / length(levels(dataSet$postal_code)))
+
+#   # calculate the sample size necessary to estimate with 95% confidence,
+#   # the proportion of postal codes, within a 5 point interval, that have
+#   # contributor_ids that failed to be linked
+#   linkAccuracy$postalCodeSampleSize <<- linkAccuracy$calcSampleSize(0.95, pMax, 0.01)
+# }
 
 # all_unique_ids_over_max_total_contribution <- function()
 # {
