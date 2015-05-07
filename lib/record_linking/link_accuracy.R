@@ -1,3 +1,5 @@
+library(dplyr)
+
 ContributionsDataWrapper <- function(dataSet) {
   newObj <- within(list(), {
     set <- dataSet
