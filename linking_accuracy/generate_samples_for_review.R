@@ -23,45 +23,29 @@ data <- ContributionsDataWrapper(
   )
 )
 
-data$pcodes <- levels(data$set$postal_code)
-data$maxContributorId <- max(data$set$contributor_id)
-
-sP <- list(kConfidence = 0.99, kInterval = 0.05)
-
 print("Sampling postal_codes...")
 # maxmum probability that a postal code has 'missing links' (i.e. distinct
 # contributor_ids for the same contributor)
-sP$maxProbPcodeHasMissingLinks <-
-  data$PostalCodesWithMultipleContributorIdsCount() / length(data$pcodes)
+maxProbOfMissingLinks <-
+  data$PostalCodesWithMultipleContributorIdsCount() / length(data$postalCodeLevels)
 
-# minimum number of postal_codes to sample to be able to infer the proportion
-# that have 'missing links'.
-sP$missingLinksSampleSize <- MinSampleSizeToInferProportion(sP$kConfidence,
-                                  sP$maxProbPcodeHasMissingLinks, sP$kInterval)
+pCodesSample <- samplePostalCodes(maxProbOfMissingLinks, data$postalCodeLevels)
 
-sP$pCodeIndices <- sample(length(data$pcodes), sP$missingLinksSampleSize)
-sP$pCodesSample <- data$pcodes[sP$pCodeIndices]
+print(GetoptLong::qq("Generating review subset for @{length(pCodesSample)} postal_codes"))
+pCodesSampleSet <- data$PostalCodeSampleSubset(pCodesSample)
+
 
 print("Sampling contributor_ids...")
 # maxmum probability that a contributor will have 'misassigned records'
 # (i.e records for two different contributors are have the same contributor_id)
-sP$maxProbContributorHasMisassignedRecord <-
-                data$ContribIdsWithMultipleNamesCount() / data$maxContributorId
+maxProbOfMisassignedRecord <-
+  data$ContribIdsWithMultipleNamesCount() / data$maxContributorId
 
-# minimum number of contributor_ids to sample to be able to infer the
-# proportion that have 'misassigned records'
-sP$misassignedRecordsSampleSize <-
-  MinSampleSizeToInferProportion(sP$kConfidence,
-                      sP$maxProbContributorHasMisassignedRecord, sP$kInterval)
+cIdsSample <- sampleContributorIds(maxProbOfMisassignedRecord, data$maxContributorId)
 
-sP$contributorIdsSample <-
-  sample(data$maxContributorId, sP$misassignedRecordsSampleSize)
+print(GetoptLong::qq("Generating review subset for @{length(cIdsSample)} contibutor_ids"))
+contribIdsSampleSet <- data$ContributorIdSampleSubset(cIdsSample)
 
-print(GetoptLong::qq("Generating review subset for @{sP$missingLinksSampleSize} postal_codes"))
-pCodesSampleSet <- data$PostalCodeSampleSubset(sP$pCodesSample)
-
-print(GetoptLong::qq("Generating review subset for @{sP$misassignedRecordsSampleSize} contibutor_ids"))
-contribIdsSampleSet <- data$ContributorIdSampleSubset(sP$contributorIdsSample)
 
 print("Saving subsets as CSV files...")
 write.csv(pCodesSampleSet,

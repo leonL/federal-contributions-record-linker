@@ -3,6 +3,8 @@ library(dplyr)
 ContributionsDataWrapper <- function(dataSet) {
   wrapper <- within(list(), {
     set <- dataSet
+    postalCodeLevels <- levels(set$postal_code)
+    maxContributorId <- max(set$contributor_id)
     PostalCodeSampleSubset <- function(pCodes, w=wrapper) {
       sub <- filter(w$set, postal_code %in% pCodes)
       sub <- select(sub,
@@ -50,6 +52,25 @@ ContributionsDataWrapper <- function(dataSet) {
     }
   })
   return(wrapper)
+}
+
+k <- list(Confidence = 0.99, Interval = 0.05)
+
+samplePostalCodes <- function(p, allPCodes) {
+  # minimum number of postal_codes to sample to be able to infer the proportion
+  # that have 'missing links'.
+  sampleSize <- MinSampleSizeToInferProportion(k$Confidence, p, k$Interval)
+
+  pCodeIndicesSample <- sample(length(allPCodes), sampleSize)
+  return(allPCodes[pCodeIndicesSample])
+}
+
+sampleContributorIds <- function(p, maxCId) {
+  # minimum number of contributor_ids to sample to be able to infer the
+  # proportion that have 'misassigned records'
+  sampleSize <- MinSampleSizeToInferProportion(k$Confidence, p, k$Interval)
+
+  return(sample(maxCId, sampleSize))
 }
 
 MinSampleSizeToInferProportion <- function(c, p, E) {
