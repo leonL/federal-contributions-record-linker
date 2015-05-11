@@ -23,13 +23,15 @@ data <- ContributionsDataWrapper(
   )
 )
 
+k <- list(Confidence = 0.99, Interval = 0.05)
+
 print("Sampling postal_codes...")
 # maxmum probability that a postal code has 'missing links' (i.e. distinct
 # contributor_ids for the same contributor)
 maxProbOfMissingLinks <-
   data$PostalCodesWithMultipleContributorIdsCount() / length(data$postalCodeLevels)
 
-pCodesSample <- samplePostalCodes(maxProbOfMissingLinks, data$postalCodeLevels)
+pCodesSample <- SampleVectorToInferProportion(data$postalCodeLevels, k$Confidence, k$Interval, maxProbOfMissingLinks)
 
 print(GetoptLong::qq("Generating review subset for @{length(pCodesSample)} postal_codes"))
 pCodesSampleSet <- data$PostalCodeSampleSubset(pCodesSample)
@@ -41,7 +43,7 @@ print("Sampling contributor_ids...")
 maxProbOfMisassignedRecord <-
   data$ContribIdsWithMultipleNamesCount() / data$maxContributorId
 
-cIdsSample <- sampleContributorIds(maxProbOfMisassignedRecord, data$maxContributorId)
+cIdsSample <- SampleVectorToInferProportion(c(1:data$maxContributorId), k$Confidence, k$Interval, maxProbOfMisassignedRecord)
 
 print(GetoptLong::qq("Generating review subset for @{length(cIdsSample)} contibutor_ids"))
 contribIdsSampleSet <- data$ContributorIdSampleSubset(cIdsSample)

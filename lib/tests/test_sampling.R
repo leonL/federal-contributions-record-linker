@@ -4,9 +4,9 @@ context("ContributionsDataWrapper")
 
 mock <- within(list(), {
   postalCodeA <- c("A0A0A3")
-  cIdA <- ("1")
+  cIdA <- (1)
 
-  data <- data.frame(
+  rawData <- data.frame(
     postal_code=c("A0A0A1", "A0A0A2", "A0A0A2", postalCodeA, postalCodeA, postalCodeA),
     contributor_id=c(cIdA,12,123,13,13,13),
     full_name=c("Michael Anthony", "David Lee Roth", "David Roth",
@@ -14,21 +14,20 @@ mock <- within(list(), {
     clean_first_last_name=c("michael Anthony", "david roth", "david roth",
                               "eddie halen", "eddie halen", "edith valen")
   )
+  wrappedData <- ContributionsDataWrapper(rawData)
 })
-
-data <- ContributionsDataWrapper(mock$data)
 
 test_that("TallyUniqueYPerX dependent methods are accurate", {
 
-  expect_equal(data$ContribIdsWithMultipleNamesCount(), 1)
-  expect_equal(data$PostalCodesWithMultipleContributorIdsCount(), 1)
+  expect_equal(mock$wrappedData$ContribIdsWithMultipleNamesCount(), 1)
+  expect_equal(mock$wrappedData$PostalCodesWithMultipleContributorIdsCount(), 1)
 
 })
 
 test_that("...SampleSubset functions return the expect subsets", {
 
-  expect_equal(nrow(data$PostalCodeSampleSubset(mock$postalCodeA)), 3)
-  expect_equal(nrow(data$ContributorIdSampleSubset(mock$cIdA)), 1)
+  expect_equal(nrow(mock$wrappedData$PostalCodeSampleSubset(mock$postalCodeA)), 3)
+  expect_equal(nrow(mock$wrappedData$ContributorIdSampleSubset(mock$cIdA)), 1)
 
 })
 
@@ -46,5 +45,18 @@ test_that("MinSampleSizeToInferProportion is accurate", {
   p <- 0.8
   sampleSize <- 246
 
-  expect_equal(MinSampleSizeToInferProportion(confidence, p, interval), sampleSize)
+  expect_equal(MinSampleSizeToInferProportion(confidence, interval, p), sampleSize)
+})
+
+test_that("SampleVectorToInferProportion returns a reasonable subset", {
+  confidence <- 0.90
+  interval <- 0.20
+  p <- 0.99
+
+  expectedNumberOfCases <- MinSampleSizeToInferProportion(confidence, interval, p)
+  nameSample <- SampleVectorToInferProportion(mock$wrappedData$set$full_name, confidence, interval, p)
+  numberOfCases <- length(nameSample)
+
+  expect_equal(expectedNumberOfCases, numberOfCases)
+  expect_false(any(!(nameSample %in% mock$wrappedData$set$full_name)))
 })

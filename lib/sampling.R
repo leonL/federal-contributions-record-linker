@@ -5,21 +5,21 @@ ContributionsDataWrapper <- function(dataSet) {
     set <- dataSet
     postalCodeLevels <- levels(set$postal_code)
     maxContributorId <- max(set$contributor_id)
-    PostalCodeSampleSubset <- function(pCodes, w=wrapper) {
-      sub <- filter(w$set, postal_code %in% pCodes)
+    PostalCodeSampleSubset <- function(pCodes, set=wrapper$set) {
+      sub <- filter(set, postal_code %in% pCodes)
       sub <- select(sub,
         postal_code, contributor_id, full_name, clean_first_last_name
       )
       sub <- sub[!duplicated(sub),]
       pCodesToReview <- filter(tally(group_by(sub, postal_code)), n>1)$postal_code
 
-      sub$review <- 0
-      sub$review[sub$postal_code %in% pCodesToReview] <- 2
+      sub$review <- FALSE
+      sub$review[sub$postal_code %in% pCodesToReview] <- NA
       sub <- arrange(sub, desc(review), postal_code)
       return(sub)
     }
-    ContributorIdSampleSubset <- function(cIds, w=wrapper) {
-      sub <- filter(w$set, contributor_id %in% cIds)
+    ContributorIdSampleSubset <- function(cIds, set=wrapper$set) {
+      sub <- filter(set, contributor_id %in% cIds)
       sub <- select(sub,
         contributor_id, full_name, clean_first_last_name
       )
@@ -28,8 +28,8 @@ ContributionsDataWrapper <- function(dataSet) {
       cIdsToReview <-
         filter(tally(group_by(sub, contributor_id)), n>1)$contributor_id
 
-      sub$review <- 0
-      sub$review[sub$contributor_id %in% cIdsToReview] <- 2
+      sub$review <- FALSE
+      sub$review[sub$contributor_id %in% cIdsToReview] <- NA
       sub <- arrange(sub, desc(review), contributor_id)
     }
     ContribIdsWithMultipleNamesCount <- function(w=wrapper) {
@@ -54,26 +54,18 @@ ContributionsDataWrapper <- function(dataSet) {
   return(wrapper)
 }
 
-k <- list(Confidence = 0.99, Interval = 0.05)
-
-samplePostalCodes <- function(p, allPCodes) {
-  # minimum number of postal_codes to sample to be able to infer the proportion
-  # that have 'missing links'.
-  sampleSize <- MinSampleSizeToInferProportion(k$Confidence, p, k$Interval)
-
-  pCodeIndicesSample <- sample(length(allPCodes), sampleSize)
-  return(allPCodes[pCodeIndicesSample])
+SampleVectorToInferProportion <- function(v, c, i, p=0.5) {
+  sampleSize <- MinSampleSizeToInferProportion(c, i, p)
+  indicesOfSampleCases <- sample(length(v), sampleSize)
+  return(v[indicesOfSampleCases])
 }
 
-sampleContributorIds <- function(p, maxCId) {
-  # minimum number of contributor_ids to sample to be able to infer the
-  # proportion that have 'misassigned records'
-  sampleSize <- MinSampleSizeToInferProportion(k$Confidence, p, k$Interval)
+MinSampleSizeToInferProportion <- function(c, E, p=0.5) {
+  # Minimum sample size necessary to be able to estimate population proportion
+  # to a range of size E, with a confidence of c. Set p to the
+  # probability that any test case is succesful if such information is available
+  # (based on a previous estimation perhaps)
 
-  return(sample(maxCId, sampleSize))
-}
-
-MinSampleSizeToInferProportion <- function(c, p, E) {
   zstar <- qnorm(1 - ((1 - c)/ 2))
   sampleSize <- zstar^2 * p * (1-p) / (E/2)^2
   return(ceiling(sampleSize))
