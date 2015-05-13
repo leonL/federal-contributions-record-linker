@@ -1,19 +1,15 @@
+source("../lib/config.R")
 source("../lib/sampling.R")
 source("../lib/constants.R")
 
 library(dplyr)
 library(GetoptLong)
 
-config <- within(list(), {
-  dataStore <- commandArgs(TRUE)
-  dataStoreDir <- switch(dataStore[1], mock="0_mock_data",
-                                reviewed="as_reviewed", "as_submitted")
-
-  sourceDir <- paste("../linked_data/", dataStoreDir, sep="")
-  print(paste("The source directory is", sourceDir))
-  targetDir <- paste("samples/", dataStoreDir, sep="")
-  print(paste("The target directory is", targetDir))
-})
+config$SetDataStoreDir(commandArgs(TRUE)[1])
+config$sourceDir <- paste("../linked_data/", config$dataStoreDir, sep="")
+print(paste("The source directory is", config$sourceDir))
+config$targetDir <- paste("samples/", config$dataStoreDir, sep="")
+print(paste("The target directory is", config$targetDir))
 
 print("Reading data...")
 data <- ContributionsDataWrapper(
