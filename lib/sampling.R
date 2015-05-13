@@ -1,4 +1,4 @@
-library(dplyr)
+library(dplyr, quietly=TRUE, warn.conflicts=FALSE)
 
 ContributionsDataWrapper <- function(dataSet) {
   wrapper <- within(list(), {
@@ -15,7 +15,7 @@ ContributionsDataWrapper <- function(dataSet) {
 
       sub$review <- FALSE
       sub$review[sub$postal_code %in% pCodesToReview] <- NA
-      sub <- arrange(sub, desc(review), postal_code)
+      sub <- arrange(sub, desc(review), postal_code, contributor_id)
       return(sub)
     }
     ContributorIdSampleSubset <- function(cIds, set=wrapper$set) {

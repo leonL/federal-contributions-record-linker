@@ -1,6 +1,6 @@
 source("../sampling.R")
 
-context("ContributionsDataWrapper")
+context("Sampling ~ ContributionsDataWrapper")
 
 mock <- within(list(), {
   postalCodeA <- c("A0A0A3")
@@ -31,7 +31,7 @@ test_that("...SampleSubset functions return the expect subsets", {
 
 })
 
-context("Helpers")
+context("Sampling ~ Helper Functions")
 
 test_that("MinSampleSizeToInferProportion is accurate", {
 
