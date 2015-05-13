@@ -23,8 +23,6 @@ data <- ContributionsDataWrapper(
   )
 )
 
-k <- list(Confidence = 0.99, Interval = 0.05)
-
 print("Sampling postal_codes...")
 # maxmum probability that a postal code has 'missing links' (i.e. distinct
 # contributor_ids for the same contributor)

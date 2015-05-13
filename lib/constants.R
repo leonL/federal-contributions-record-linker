@@ -1,3 +1,5 @@
+k <- list(Confidence = 0.99, Interval = 0.05)
+
 official_party_names <-
   c(Bloc="Bloc Québécois",
     Conservative="Conservative Party of Canada",
