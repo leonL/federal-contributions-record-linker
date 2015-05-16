@@ -1,6 +1,6 @@
 ### Context
 
-This is one element of a larger data science project, exploring patterns of donation to Canadian federal political parties. It is the final data wrangling stage, in which records for separate donations made by the same contributor are linked by a common id.
+This is one element of a larger data science project, exploring patterns of donation to Canadian federal political parties. It is the final, data wrangling stage, in which records for separate donations made by the same contributor are linked by a common id.
 
 ### data/output/as_submitted
 
