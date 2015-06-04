@@ -8,7 +8,7 @@ The full data set contains roughly 1.5 million records. It’s been split over a
 
 ### data/source/as_submitted
 
-The source data was [scraped](https://github.com/saltire/election-contribs) from [Elections Canada](http://www.elections.ca/WPAPPS/WPF/), and processed by a [cleaning script](https://github.com/leonL/federal-contributions-cleaning).
+The source data was [scraped](https://github.com/leonL/federal-contributions-scraper) from [Elections Canada](http://www.elections.ca/WPAPPS/WPF/), and processed by a [cleaning script](https://github.com/leonL/federal-contributions-cleaning).
 
 ### R/link_data.R
 
