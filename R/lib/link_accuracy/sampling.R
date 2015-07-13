@@ -8,7 +8,7 @@ ContributionsDataWrapper <- function(dataSet) {
     PostalCodeSampleSubset <- function(pCodes, set=wrapper$set) {
       sub <- filter(set, postal_code %in% pCodes)
       sub <- select(sub,
-        postal_code, contributor_id, full_name, clean_first_last_name
+        postal_code, contributor_id, donor.name, clean_first_last_name
       )
       sub <- sub[!duplicated(sub),]
       pCodesToReview <- filter(tally(group_by(sub, postal_code)), n>1)$postal_code
@@ -21,7 +21,7 @@ ContributionsDataWrapper <- function(dataSet) {
     ContributorIdSampleSubset <- function(cIds, set=wrapper$set) {
       sub <- filter(set, contributor_id %in% cIds)
       sub <- select(sub,
-        contributor_id, full_name, clean_first_last_name
+        contributor_id, donor.name, clean_first_last_name
       )
       sub <- sub[!duplicated(sub),]
 
@@ -33,7 +33,7 @@ ContributionsDataWrapper <- function(dataSet) {
       sub <- arrange(sub, desc(review), contributor_id)
     }
     ContribIdsWithMultipleNamesCount <- function(w=wrapper) {
-      tally <- w$TallyUniqueYPerX(colX="contributor_id", colY="full_name")
+      tally <- w$TallyUniqueYPerX(colX="contributor_id", colY="donor.name")
       contribIdsWithMultipleNames <- filter(tally, n > 1)
       return(nrow(contribIdsWithMultipleNames))
     }

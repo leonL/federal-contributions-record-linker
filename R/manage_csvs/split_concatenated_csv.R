@@ -9,8 +9,8 @@ data_set <- read.csv(
   paste(c$targetDir, c$allContribsFileName, sep=''),
   encoding="UTF-8"
 )
-data_set$contribution_date <- as.Date(data_set$contribution_date)
-data_set <- mutate(data_set, year=strftime(contribution_date, format="%Y"))
+data_set$contrib.date <- as.Date(data_set$contrib.date)
+data_set <- mutate(data_set, year=strftime(contrib.date, format="%Y"))
 
 log <- data.frame()
 
@@ -21,12 +21,12 @@ for(i in 1:nrow(k$PartyNames))
 
   for(current_year in k$AllContribYears)
   {
-    subset <- filter(data_set, party_name==party$name, year==current_year)
+    subset <- filter(data_set, party==party$nick_name, year==current_year)
     file_name <- paste(party$name, '.', current_year, '.csv', sep='')
     log_record <- data.frame(party=party$nick_name, year=current_year, n=nrow(subset))
     log <- rbind(log, log_record)
     print(paste('Saving', file_name, '...'))
-    write.csv(select(subset, -(year)),
+    write.csv(subset,
       file=paste(c$targetDir, party$nick_name, '/', file_name, sep=''),
       row.names=FALSE
     )

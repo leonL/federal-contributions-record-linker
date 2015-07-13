@@ -9,7 +9,7 @@ mock <- within(list(), {
   rawData <- data.frame(
     postal_code=c("A0A0A1", "A0A0A2", "A0A0A2", postalCodeA, postalCodeA, postalCodeA),
     contributor_id=c(cIdA,12,123,13,13,13),
-    full_name=c("Michael Anthony", "David Lee Roth", "David Roth",
+    donor.name=c("Michael Anthony", "David Lee Roth", "David Roth",
                   "Eddie Van Halen", "Eddie Halen", "Edith Valen"),
     clean_first_last_name=c("michael Anthony", "david roth", "david roth",
                               "eddie halen", "eddie halen", "edith valen")
@@ -54,9 +54,9 @@ test_that("SampleVectorToInferProportion returns a reasonable subset", {
   p <- 0.99
 
   expectedNumberOfCases <- MinSampleSizeToInferProportion(confidence, interval, p)
-  nameSample <- SampleVectorToInferProportion(mock$wrappedData$set$full_name, confidence, interval, p)
+  nameSample <- SampleVectorToInferProportion(mock$wrappedData$set$donor.name, confidence, interval, p)
   numberOfCases <- length(nameSample)
 
   expect_equal(expectedNumberOfCases, numberOfCases)
-  expect_false(any(!(nameSample %in% mock$wrappedData$set$full_name)))
+  expect_false(any(!(nameSample %in% mock$wrappedData$set$donor.name)))
 })

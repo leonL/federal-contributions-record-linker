@@ -8,7 +8,7 @@ mock <- within(list(), {
   dataSet <- data.frame(
     postal_code=c("A0A0A1", "A0A0A2", "A0A0A2", "A0A0A3", "A0A0A3", "A0A0A3"),
     contributor_id=c(1,12,123,13,13,13),
-    full_name=c("Michael Anthony", "David Lee Roth", "David Roth",
+    donor.name=c("Michael Anthony", "David Lee Roth", "David Roth",
                   "Eddie Van Halen", "Eddie Halen", "Edith Valen"),
     clean_first_last_name=c("michael Anthony", "david roth", "david roth",
                               "eddie halen", "eddie halen", "edith valen"),

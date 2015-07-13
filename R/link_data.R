@@ -18,8 +18,8 @@ data_set <- read.csv(
 )
 
 print("create canonical table of normalized names (first and last only)...")
-names_data <- data.frame(full_name=levels(data_set$full_name))
-normed_first_last <- normalize_names(names_data$full_name)
+names_data <- data.frame(donor.name=levels(data_set$donor.name))
+normed_first_last <- normalize_names(names_data$donor.name)
 names_data <- cbind(names_data, normed_first_last)
 
 print("merge normalized names into main data set...")
@@ -35,7 +35,7 @@ probable_links <- find_probable_name_matches(unique_name_and_postal)
 # sets ids for linked names
 print("assigning unique ids to linked names...")
 unique_name_and_postal$contributor_id <- NA
-side_effect <- dlply(probable_links, .(id1), link_contributors_by_id); rm(side_effect)
+d_ply(probable_links, .(id1), link_contributors_by_id)
 
 # print("saving list of link names")
 # linked_names <- filter(unique_name_and_postal, !is.na(contributor_id))
