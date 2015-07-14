@@ -1,5 +1,6 @@
 "party","target.riding_name","contrib.date","contrib.amount","donor.name","postal_code","contributor.riding_name","city","province","pcode.latitude","pcode.longitude","contrib.year","donee.riding_level","target.riding_id","contributor.riding_id"
 "Green",NA,"2015-01-01",100,"Jeff Marshall","B3A1B7","Dartmouth—Cole Harbour","Dartmouth","NS",-63.575831,44.666874,"2015",FALSE,NA,12003
+"Green",NA,"2015-01-01",100,"Ian G Stewart","B3L2T4","Halifax","Halifax","NS",-63.601816,44.647659,"2015",FALSE,NA,12004
 "Green",NA,"2015-01-01",80,"Helga E Guderley","B3Z1S8","South Shore—St. Margaret's","Boutiliers Point","NS",-63.957276,44.66156,"2015",FALSE,NA,12009
 "Green",NA,"2015-01-01",100,"Alison Menard","E1C5V8","Moncton—Riverview—Dieppe","Moncton","NB",-64.786772,46.087304,"2015",FALSE,NA,13007
 "Green",NA,"2015-01-01",100,"Sarah J Colwell","E1C7A1","Moncton—Riverview—Dieppe","Moncton","NB",-64.807249,46.106637,"2015",FALSE,NA,13007
@@ -14,8 +15,8 @@
 "Green",NA,"2015-01-01",70,"Diane Duttle","K7L4V1","Kingston and the Islands","Kingston","ON",-76.396355,44.256434,"2015",FALSE,NA,35036
 "Green",NA,"2015-01-01",125,"Wayne Clemenets","L0M1M0","Simcoe—Grey","Clarington","ON",-79.97854,44.256166,"2015",FALSE,NA,35085
 "Green",NA,"2015-01-01",90,"Graham S Pett","L0S1E3","Welland","Fonthill","ON",-79.281114,43.049944,"2015",FALSE,NA,35097
-"Green",NA,"2015-01-01",120,"Jane Mcculloch","L3T1L1","Thornhill","Thornhill","ON",-79.405527,43.804679,"2015",FALSE,NA,35089
 "Green",NA,"2015-01-01",100,"John Hunter","L3T1L1","Thornhill","Thornhill","ON",-79.405527,43.804679,"2015",FALSE,NA,35089
+"Green",NA,"2015-01-01",120,"Jane Mcculloch","L3T1L1","Thornhill","Thornhill","ON",-79.405527,43.804679,"2015",FALSE,NA,35089
 "Green",NA,"2015-01-01",30,"Robert D Crockford","L9H7T6","Ancaster—Dundas—Flamborough—Westdale","Dundas","ON",-79.95781,43.265504,"2015",FALSE,NA,35003
 "Green",NA,"2015-01-01",80,"Stuart Rogers","M4V1P6","St. Paul's","Toronto","ON",-79.400259,43.686999,"2015",FALSE,NA,35077
 "Green",NA,"2015-01-01",1000,"Lynn Eakin","M5R1K1","Trinity—Spadina","Toronto","ON",-79.39762,43.67449,"2015",FALSE,NA,35095
@@ -36,6 +37,7 @@
 "Green",NA,"2015-01-01",100,"Eugene M Oleksin","T1K7Y3","Lethbridge","Lethbridge","AB",-112.844521,49.653911,"2015",FALSE,NA,48019
 "Green",NA,"2015-01-01",10,"Alison Pennie","T1W2J2","Wild Rose","Canmore","AB",-115.362168,51.084342,"2015",FALSE,NA,48027
 "Green",NA,"2015-01-01",85,"Gerald R Dumontier","T2A7K1","Calgary East","Calgary","AB",-113.933182,51.042004,"2015",FALSE,NA,48002
+"Green",NA,"2015-01-01",100,"Jon Elden","T2J3H7","Calgary Southeast","Calgary","AB",-114.04437,50.93064,"2015",FALSE,NA,48007
 "Green",NA,"2015-01-01",100,"Laurene Brown","T6E1R8","Edmonton—Strathcona","Edmonton","AB",-113.44929,53.548954,"2015",FALSE,NA,48018
 "Green",NA,"2015-01-01",100,"Kristy J Jackson","T6G0A3","Edmonton—Strathcona","Edmonton","AB",-113.519183,53.507534,"2015",FALSE,NA,48018
 "Green",NA,"2015-01-01",91.65,"Edward R Salmon","T9H1L8","Fort McMurray—Athabasca","Fort Mcmurray","AB",-111.35946,56.714914,"2015",FALSE,NA,48001
@@ -48,17 +50,21 @@
 "Green",NA,"2015-01-01",100,"Kimberly Severson","V4A3B5","South Surrey—White Rock—Cloverdale","Surrey","BC",-122.882717,49.055099,"2015",FALSE,NA,59027
 "Green",NA,"2015-01-01",100,"Mary-em Waddington","V4N5S8","Fleetwood—Port Kells","Surrey","BC",-122.698674,49.134768,"2015",FALSE,NA,59009
 "Green",NA,"2015-01-01",100,"Mary-em Waddington","V4N5S8","Fleetwood—Port Kells","Surrey","BC",-122.698674,49.134768,"2015",FALSE,NA,59009
+"Green",NA,"2015-01-01",75,"Heather L Tak","V7T1H3","West Vancouver—Sunshine Coast—Sea to Sky Country","West Vancouver","BC",-123.149944,49.329533,"2015",FALSE,NA,59036
 "Green",NA,"2015-01-01",100,"Roy Ball","V7W2N5","West Vancouver—Sunshine Coast—Sea to Sky Country","West Vancouver","BC",-123.264393,49.353556,"2015",FALSE,NA,59036
 "Green",NA,"2015-01-01",100,"Darla L Drader","V7W2N5","West Vancouver—Sunshine Coast—Sea to Sky Country","West Vancouver","BC",-123.264393,49.353556,"2015",FALSE,NA,59036
 "Green",NA,"2015-01-01",100,"Robert G Greggs","V8K2W8","Saanich—Gulf Islands","Salt Spring Island","BC",-123.510988,48.858164,"2015",FALSE,NA,59024
 "Green",NA,"2015-01-01",100,"Virginia G Smith","V8L5L7","Saanich—Gulf Islands","North Saanich","BC",-123.464877,48.667944,"2015",FALSE,NA,59024
 "Green",NA,"2015-01-01",100,"Heather Goulet","V8L5M6","Saanich—Gulf Islands","North Saanich","BC",-123.474399,48.673625,"2015",FALSE,NA,59024
+"Green",NA,"2015-01-01",75,"Murray N Gudmundson","V8R4W8","Victoria","Victoria","BC",-123.32554,48.429535,"2015",FALSE,NA,59035
 "Green",NA,"2015-01-01",125,"Cameron Noble","V8T2Z6","Victoria","Victoria","BC",-123.344852,48.434087,"2015",FALSE,NA,59035
 "Green",NA,"2015-01-01",35,"Trevor Moat","V8V2N1","Victoria","Victoria","BC",-123.368901,48.413309,"2015",FALSE,NA,59035
 "Green",NA,"2015-01-01",30,"Catherine M Bradbury","Y1A4H5","Yukon","Whitehorse","YT",-135.13305,60.762351,"2015",FALSE,NA,60001
 "Green",NA,"2015-01-02",50,"Michael Roy R Parry","T3E6L9","Calgary Centre","Calgary","AB",-114.215508,51.016892,"2015",FALSE,NA,48006
 "Green",NA,"2015-01-02",500,"Joseph B Benge","V8K1J5","Saanich—Gulf Islands","Salt Spring Island","BC",-123.54814,48.87385,"2015",FALSE,NA,59024
+"Green",NA,"2015-01-04",400,"Chris Bockmuehl","T3L1H9","Calgary West","Calgary","AB",-114.220196,51.112635,"2015",FALSE,NA,48009
 "Green",NA,"2015-01-06",400,"John M Apostolides","K0K2X0","Prince Edward—Hastings","Alderville","ON",-78.089506,44.182364,"2015",FALSE,NA,35073
+"Green",NA,"2015-01-06",300,"Frank Farrell","K1V7R9","Ottawa South","Ottawa","ON",-75.650553,45.36058,"2015",FALSE,NA,35064
 "Green",NA,"2015-01-07",400,"Ryan J Lindsay","M4K2L3","Toronto—Danforth","Toronto","ON",-79.357521,43.681013,"2015",FALSE,NA,35094
 "Green",NA,"2015-01-07",500,"Don Mcgorman","P6A6W6","Sault Ste. Marie","Sault Ste Marie","ON",-84.337608,46.516354,"2015",FALSE,NA,35079
 "Green",NA,"2015-01-09",400,"Raymond St Arnaud","V8R4W6","Victoria","Victoria","BC",-123.32417,48.43163,"2015",FALSE,NA,59035
@@ -88,11 +94,12 @@
 "Green",NA,"2015-01-15",80,"Peter Gorrie","M6J2T2","Trinity—Spadina","Toronto","ON",-79.415262,43.652538,"2015",FALSE,NA,35095
 "Green",NA,"2015-01-15",400,"Stanley Macdonald","M9C5R7","Etobicoke Centre","Etobicoke","ON",-79.585538,43.640606,"2015",FALSE,NA,35022
 "Green",NA,"2015-01-15",100,"Jim N Johnston","N0M2A0","Lambton—Kent—Middlesex","London","ON",-81.379134,43.077673,"2015",FALSE,NA,35046
-"Green",NA,"2015-01-15",5,"Ken J Deacon","P7B3J1","Thunder Bay—Superior North","Thunder Bay","ON",-89.233475,48.43288,"2015",FALSE,NA,35091
 "Green",NA,"2015-01-15",75,"Ken J Deacon","P7B3J1","Thunder Bay—Superior North","Thunder Bay","ON",-89.233475,48.43288,"2015",FALSE,NA,35091
+"Green",NA,"2015-01-15",5,"Ken J Deacon","P7B3J1","Thunder Bay—Superior North","Thunder Bay","ON",-89.233475,48.43288,"2015",FALSE,NA,35091
 "Green",NA,"2015-01-15",70,"Stephen Smulan","S0G5A0","Souris—Moose Mountain","Wawota","SK",-102.025444,49.90567,"2015",FALSE,NA,47012
 "Green",NA,"2015-01-15",70,"Todd Morrison","S7K5C1","Saskatoon—Wanuskewin","Saskatoon","SK",-106.622423,52.17388,"2015",FALSE,NA,47011
 "Green",NA,"2015-01-15",100,"Brian J Deheer","T0A2C0","Fort McMurray—Athabasca","Lakeland","AB",-111.972559,54.768268,"2015",FALSE,NA,48001
+"Green",NA,"2015-01-15",15,"Steve Hansen Smythe","T2T1J1","Calgary Centre","Calgary","AB",-114.007349,51.073076,"2015",FALSE,NA,48006
 "Green",NA,"2015-01-15",100,"Elizabeth F Lunney","T2T1K5","Calgary Centre","Calgary","AB",-114.053707,51.059758,"2015",FALSE,NA,48006
 "Green",NA,"2015-01-15",100,"Melany J Dyer","V0E2W0","Okanagan—Shuswap","Blind Bay","BC",-119.449429,50.87334,"2015",FALSE,NA,59018
 "Green",NA,"2015-01-15",100,"Susan Ellard","V1W1M9","Kelowna—Lake Country","Kelowna","BC",-119.499236,49.816167,"2015",FALSE,NA,59011
@@ -112,6 +119,7 @@
 "Green",NA,"2015-01-15",100,"Steve Vogel","V9K1Y2","Nanaimo—Alberni","Qualicum Beach","BC",-124.449861,49.283499,"2015",FALSE,NA,59014
 "Green",NA,"2015-01-15",200,"Lisa Pedscalny","V9M4B1","Vancouver Island North","Comox","BC",-124.98208,49.70039,"2015",FALSE,NA,59031
 "Green",NA,"2015-01-15",75,"William Batchelor","V9N6J9","Vancouver Island North","Courtenay","BC",-124.988811,49.673809,"2015",FALSE,NA,59031
+"Green",NA,"2015-01-15",280,"Sylvia Hall-andrews","V9R6Z8","Nanaimo—Cowichan","Nanaimo","BC",-123.930664,49.141725,"2015",FALSE,NA,59015
 "Green",NA,"2015-01-15",100,"Spencer Rocchi","X0A0A0","Nunavut","Arctic Bay","NU",-85.033056,73.005278,"2015",FALSE,NA,62001
 "Green",NA,"2015-01-15",125,"Mike G Ivens","Y1A5H8","Yukon","Whitehorse","YT",-135.175175,60.784098,"2015",FALSE,NA,60001
 "Green",NA,"2015-01-16",100,"Yori Jamin","V0B1M3","Kootenay—Columbia","Fernie","BC",-115.071646,49.494434,"2015",FALSE,NA,59012
@@ -120,15 +128,18 @@
 "Green",NA,"2015-01-19",400,"John Fincham","M1S3M1","Scarborough—Agincourt","Scarborough","ON",-79.287093,43.801768,"2015",FALSE,NA,35080
 "Green",NA,"2015-01-19",500,"Rollin P Haseltine","T4G1T7","Red Deer","Innisfail","AB",-113.896258,51.989326,"2015",FALSE,NA,48023
 "Green",NA,"2015-01-19",300,"Douglas Drummond","V0K1K0","Chilliwack—Fraser Canyon","Clinton","BC",-121.58587,51.09071,"2015",FALSE,NA,59005
+"Green",NA,"2015-01-19",600,"Linda L George","V0R1X1","Nanaimo—Cowichan","Gabriola","BC",-123.854334,49.192502,"2015",FALSE,NA,59015
 "Green",NA,"2015-01-19",400,"Hugh L Parfitt","V3B2G7","Port Moody—Westwood—Port Coquitlam","Port Coquitlam","BC",-122.763046,49.276562,"2015",FALSE,NA,59021
 "Green",NA,"2015-01-22",500,"Susan Sheen","L1C2E4","Durham","Bowmanville","ON",-78.697658,43.921028,"2015",FALSE,NA,35014
 "Green",NA,"2015-01-22",600,"Kevin Shackleton","L3Y7A7","Newmarket—Aurora","Newmarket","ON",-79.47415,44.064264,"2015",FALSE,NA,35053
 "Green",NA,"2015-01-22",750,"Carol A Marica","V8P2E5","Saanich—Gulf Islands","Victoria","BC",-123.347594,48.461383,"2015",FALSE,NA,59024
 "Green",NA,"2015-01-22",1000,"Verdelle E Wilson","V9K1E3","Nanaimo—Alberni","Qualicum Beach","BC",-124.394844,49.351121,"2015",FALSE,NA,59014
 "Green",NA,"2015-01-22",300,"Pat Langelo","V9L6W5","Nanaimo—Cowichan","Duncan","BC",-123.700955,48.765807,"2015",FALSE,NA,59015
+"Green",NA,"2015-01-24",150,"Linda L George","V0R1X1","Nanaimo—Cowichan","Gabriola","BC",-123.854334,49.192502,"2015",FALSE,NA,59015
 "Green",NA,"2015-01-25",1100,"Bruce Smith","L9W5A4","Dufferin—Caledon","Orangeville","ON",-80.128323,43.89957,"2015",FALSE,NA,35018
 "Green",NA,"2015-01-26",100,"Jim N Johnston","N0M2A0","Lambton—Kent—Middlesex","London","ON",-81.379134,43.077673,"2015",FALSE,NA,35046
 "Green",NA,"2015-01-26",250,"Karl Kopecky","T6G0Y6","Edmonton—Strathcona","Edmonton","AB",-113.506201,53.547593,"2015",FALSE,NA,48018
+"Green",NA,"2015-01-27",1500,"Erik F Haites","M5E1T9","Toronto Centre","Toronto","ON",-79.377061,43.647009,"2015",FALSE,NA,35093
 "Green",NA,"2015-01-28",500,"Gerard Brender A Brandis","N5A3L9","Perth—Wellington","Stratford","ON",-80.978106,43.369743,"2015",FALSE,NA,35070
 "Green",NA,"2015-01-29",200,"Norman Abbey","V9R4P4","Nanaimo—Cowichan","Nanaimo","BC",-123.93397,49.15963,"2015",FALSE,NA,59015
 "Green",NA,"2015-01-30",40,"Michael W Mcfadden","B2V1P3","Dartmouth—Cole Harbour","Dartmouth","NS",-63.50468,44.670335,"2015",FALSE,NA,12003
@@ -137,6 +148,7 @@
 "Green",NA,"2015-01-30",50,"Edith U Fierz","K0H1G0","Kingston and the Islands","Bath","ON",-76.775051,44.189441,"2015",FALSE,NA,35036
 "Green",NA,"2015-01-30",125,"Doug E Mason","K0L1Z0","Northumberland—Quinte West","Havelock","ON",-77.876555,44.439764,"2015",FALSE,NA,35058
 "Green",NA,"2015-01-30",100,"Mike Newman","K1S2H5","Ottawa Centre","Ottawa","ON",-75.68693,45.404483,"2015",FALSE,NA,35062
+"Green",NA,"2015-01-30",100,"Steven Harker","K7L4M6","Kingston and the Islands","Kingston","ON",-76.510041,44.234594,"2015",FALSE,NA,35036
 "Green",NA,"2015-01-30",100,"Catherine Clase","L8P2P8","Hamilton Centre","Hamilton","ON",-79.882508,43.248666,"2015",FALSE,NA,35031
 "Green",NA,"2015-01-30",60,"Donna Carpenter","N0B1N0","Kitchener—Waterloo","Conestogo","ON",-80.500322,43.543834,"2015",FALSE,NA,35039
 "Green",NA,"2015-01-30",30,"James D Burgess","N0P2K0","Chatham-Kent—Essex","Chatham","ON",-81.983915,42.556627,"2015",FALSE,NA,35013
@@ -150,11 +162,12 @@
 "Green",NA,"2015-01-30",100,"Oluseyi Oladele","T5H4C6","Edmonton East","Edmonton","AB",-113.470287,53.55537,"2015",FALSE,NA,48013
 "Green",NA,"2015-01-30",50,"Angele Ortega","V0G1M0","British Columbia Southern Interior","Kaslo","BC",-116.912579,49.913707,"2015",FALSE,NA,59026
 "Green",NA,"2015-01-30",50,"Angele Ortega","V0G1M0","British Columbia Southern Interior","Kaslo","BC",-116.912579,49.913707,"2015",FALSE,NA,59026
-"Green",NA,"2015-01-30",100,"Peter W Wood","V0G2G1","British Columbia Southern Interior","South Slocan","BC",-117.450369,49.669691,"2015",FALSE,NA,59026
 "Green",NA,"2015-01-30",100,"Ann E Wood","V0G2G1","British Columbia Southern Interior","South Slocan","BC",-117.450369,49.669691,"2015",FALSE,NA,59026
+"Green",NA,"2015-01-30",100,"Peter W Wood","V0G2G1","British Columbia Southern Interior","South Slocan","BC",-117.450369,49.669691,"2015",FALSE,NA,59026
 "Green",NA,"2015-01-30",100,"Donald F Smardon","V0R1X1","Nanaimo—Cowichan","Gabriola","BC",-123.854334,49.192502,"2015",FALSE,NA,59015
 "Green",NA,"2015-01-30",100,"Lorraine Bell","V7A2W1","Delta—Richmond East","Richmond","BC",-123.119413,49.136474,"2015",FALSE,NA,59006
 "Green",NA,"2015-01-30",1000,"Winnifred R Procyshen","V8V2P1","Victoria","Victoria","BC",-123.368504,48.411035,"2015",FALSE,NA,59035
+"Green",NA,"2015-01-30",35,"Thomas W Hackney","V8V3B5","Victoria","Victoria","BC",-123.352043,48.419188,"2015",FALSE,NA,59035
 "Green",NA,"2015-01-30",75,"Eleanor Nichol","V8X4C2","Saanich—Gulf Islands","Victoria","BC",-123.364092,48.463821,"2015",FALSE,NA,59024
 "Green",NA,"2015-01-30",100,"Steven R Hurdle","V9B2S3","Esquimalt—Juan de Fuca","Victoria","BC",-123.512407,48.446169,"2015",FALSE,NA,59008
 "Green",NA,"2015-01-30",100,"Ron D Aspinall","X0C0E0","Nunavut","Arviat","NU",-94.120148,61.098237,"2015",FALSE,NA,62001
@@ -172,6 +185,7 @@
 "Green",NA,"2015-02-01",100,"Wendy Myers","K1S1Z1","Ottawa Centre","Ottawa","ON",-75.683416,45.408305,"2015",FALSE,NA,35062
 "Green",NA,"2015-02-01",100,"Greg J Boyce","K2C3M9","Ottawa Centre","Ottawa","ON",-75.71119,45.364614,"2015",FALSE,NA,35062
 "Green",NA,"2015-02-01",70,"Carol J Johnston","K2S1X9","Carleton—Mississippi Mills","Stittsville","ON",-75.933259,45.256557,"2015",FALSE,NA,35012
+"Green",NA,"2015-02-01",80,"Angela Cowan","K6A3B3","Glengarry—Prescott—Russell","Hawkesbury","ON",-74.609846,45.599363,"2015",FALSE,NA,35025
 "Green",NA,"2015-02-01",70,"Diane Duttle","K7L4V1","Kingston and the Islands","Kingston","ON",-76.396355,44.256434,"2015",FALSE,NA,35036
 "Green",NA,"2015-02-01",125,"Wayne Clemenets","L0M1M0","Simcoe—Grey","Clarington","ON",-79.97854,44.256166,"2015",FALSE,NA,35085
 "Green",NA,"2015-02-01",90,"Graham S Pett","L0S1E3","Welland","Fonthill","ON",-79.281114,43.049944,"2015",FALSE,NA,35097
@@ -206,15 +220,18 @@
 "Green",NA,"2015-02-01",100,"Johanna Sandkuhl","V1L2N2","British Columbia Southern Interior","Nelson","BC",-117.279874,49.502406,"2015",FALSE,NA,59026
 "Green",NA,"2015-02-01",100,"Kimberly Severson","V4A3B5","South Surrey—White Rock—Cloverdale","Surrey","BC",-122.882717,49.055099,"2015",FALSE,NA,59027
 "Green",NA,"2015-02-01",100,"Mary-em Waddington","V4N5S8","Fleetwood—Port Kells","Surrey","BC",-122.698674,49.134768,"2015",FALSE,NA,59009
+"Green",NA,"2015-02-01",75,"Heather L Tak","V7T1H3","West Vancouver—Sunshine Coast—Sea to Sky Country","West Vancouver","BC",-123.149944,49.329533,"2015",FALSE,NA,59036
 "Green",NA,"2015-02-01",100,"Roy Ball","V7W2N5","West Vancouver—Sunshine Coast—Sea to Sky Country","West Vancouver","BC",-123.264393,49.353556,"2015",FALSE,NA,59036
 "Green",NA,"2015-02-01",100,"Darla L Drader","V7W2N5","West Vancouver—Sunshine Coast—Sea to Sky Country","West Vancouver","BC",-123.264393,49.353556,"2015",FALSE,NA,59036
 "Green",NA,"2015-02-01",100,"Robert G Greggs","V8K2W8","Saanich—Gulf Islands","Salt Spring Island","BC",-123.510988,48.858164,"2015",FALSE,NA,59024
 "Green",NA,"2015-02-01",100,"Virginia G Smith","V8L5L7","Saanich—Gulf Islands","North Saanich","BC",-123.464877,48.667944,"2015",FALSE,NA,59024
 "Green",NA,"2015-02-01",100,"Heather Goulet","V8L5M6","Saanich—Gulf Islands","North Saanich","BC",-123.474399,48.673625,"2015",FALSE,NA,59024
+"Green",NA,"2015-02-01",75,"Murray N Gudmundson","V8R4W8","Victoria","Victoria","BC",-123.32554,48.429535,"2015",FALSE,NA,59035
 "Green",NA,"2015-02-01",125,"Cameron Noble","V8T2Z6","Victoria","Victoria","BC",-123.344852,48.434087,"2015",FALSE,NA,59035
 "Green",NA,"2015-02-01",35,"Trevor Moat","V8V2N1","Victoria","Victoria","BC",-123.368901,48.413309,"2015",FALSE,NA,59035
 "Green",NA,"2015-02-01",30,"Catherine M Bradbury","Y1A4H5","Yukon","Whitehorse","YT",-135.13305,60.762351,"2015",FALSE,NA,60001
 "Green",NA,"2015-02-02",1000,"Peter G Nix","V9L5W6","Nanaimo—Cowichan","Duncan","BC",-123.639665,48.823798,"2015",FALSE,NA,59015
+"Green",NA,"2015-02-03",100,"Michael W Mcfadden","B2V1P3","Dartmouth—Cole Harbour","Dartmouth","NS",-63.50468,44.670335,"2015",FALSE,NA,12003
 "Green",NA,"2015-02-03",100,"Andrew C Scott","H9S4X6","Lac-Saint-Louis","Pointe-claire","QC",-73.819753,45.437994,"2015",FALSE,NA,24027
 "Green",NA,"2015-02-03",20,"Diane Duttle","K7L4V1","Kingston and the Islands","Kingston","ON",-76.396355,44.256434,"2015",FALSE,NA,35036
 "Green",NA,"2015-02-03",1500,"Richard W Sharpe","M4K2X1","Toronto—Danforth","Toronto","ON",-79.352839,43.674367,"2015",FALSE,NA,35094
@@ -224,6 +241,7 @@
 "Green",NA,"2015-02-03",100,"Don Gordon","V9A6T5","Victoria","Victoria","BC",-123.383107,48.429018,"2015",FALSE,NA,59035
 "Green",NA,"2015-02-04",1500,"Ron Ensom","K1H6W4","Ottawa South","Ottawa","ON",-75.641247,45.384355,"2015",FALSE,NA,35064
 "Green",NA,"2015-02-04",200,"Donald J J Kerr","L9Y3S5","Simcoe—Grey","Collingwood","ON",-80.209536,44.498443,"2015",FALSE,NA,35085
+"Green",NA,"2015-02-04",700,"Darrell Stokes","T0J1S0","Crowfoot","Hussar","AB",-112.68122,51.040841,"2015",FALSE,NA,48010
 "Green",NA,"2015-02-04",400,"Bill Mccaugherty","V0R1X1","Nanaimo—Cowichan","Gabriola","BC",-123.854334,49.192502,"2015",FALSE,NA,59015
 "Green",NA,"2015-02-04",400,"Griff Tripp","V8X3V7","Saanich—Gulf Islands","Victoria","BC",-123.358302,48.508516,"2015",FALSE,NA,59024
 "Green",NA,"2015-02-05",500,"Alan W Ernst","T0M2H0","Yellowhead","Nordegg","AB",-116.273214,52.359523,"2015",FALSE,NA,48028
@@ -233,6 +251,7 @@
 "Green",NA,"2015-02-06",1500,"Marlene Mackenzie","V3S9R1","South Surrey—White Rock—Cloverdale","Surrey","BC",-122.746249,49.006275,"2015",FALSE,NA,59027
 "Green",NA,"2015-02-07",100,"Suzanne Honsl","M5E1Z5","Toronto Centre","Toronto","ON",-79.371661,43.650348,"2015",FALSE,NA,35093
 "Green",NA,"2015-02-07",1200,"Peter Michael M Wiebe","V1H1C1","Okanagan—Shuswap","Vernon","BC",-119.361011,50.249584,"2015",FALSE,NA,59018
+"Green",NA,"2015-02-07",100,"Thomas W Hackney","V8V3B5","Victoria","Victoria","BC",-123.352043,48.419188,"2015",FALSE,NA,59035
 "Green",NA,"2015-02-07",1500,"Peter Moore","V9X1R3","Nanaimo—Cowichan","Nanaimo","BC",-123.894464,49.097472,"2015",FALSE,NA,59015
 "Green",NA,"2015-02-08",400,"John Currie","L5L3Y2","Mississauga—Erindale","Mississauga","ON",-79.703723,43.534973,"2015",FALSE,NA,35049
 "Green",NA,"2015-02-08",25,"Lloyd Jamieson","M1K4Y8","Scarborough Centre","Scarborough","ON",-79.25703,43.74655,"2015",FALSE,NA,35081
@@ -264,6 +283,7 @@
 "Green",NA,"2015-02-15",125,"Claudette Rochon","K8V5P4","Northumberland—Quinte West","Trenton","ON",-77.629505,44.120794,"2015",FALSE,NA,35058
 "Green",NA,"2015-02-15",75,"Sue Sauve","K9H4P2","Peterborough","Peterborough","ON",-78.331718,44.311084,"2015",FALSE,NA,35071
 "Green",NA,"2015-02-15",90,"Paul Popper","L3Y1S5","Newmarket—Aurora","Newmarket","ON",-79.463443,44.051592,"2015",FALSE,NA,35053
+"Green",NA,"2015-02-15",500,"John George","L4G5E8","Newmarket—Aurora","Aurora","ON",-79.48807,43.99781,"2015",FALSE,NA,35053
 "Green",NA,"2015-02-15",100,"Aubrey Ferguson","L6J2L6","Oakville","Oakville","ON",-79.656441,43.471179,"2015",FALSE,NA,35060
 "Green",NA,"2015-02-15",70,"Hans Martin","L7B1E7","Oak Ridges—Markham","King City","ON",-79.542724,43.935734,"2015",FALSE,NA,35059
 "Green",NA,"2015-02-15",100,"Michael Clase","L8P2P8","Hamilton Centre","Hamilton","ON",-79.882508,43.248666,"2015",FALSE,NA,35031
@@ -275,6 +295,7 @@
 "Green",NA,"2015-02-15",70,"Stephen Smulan","S0G5A0","Souris—Moose Mountain","Wawota","SK",-102.025444,49.90567,"2015",FALSE,NA,47012
 "Green",NA,"2015-02-15",70,"Todd Morrison","S7K5C1","Saskatoon—Wanuskewin","Saskatoon","SK",-106.622423,52.17388,"2015",FALSE,NA,47011
 "Green",NA,"2015-02-15",100,"Brian J Deheer","T0A2C0","Fort McMurray—Athabasca","Lakeland","AB",-111.972559,54.768268,"2015",FALSE,NA,48001
+"Green",NA,"2015-02-15",15,"Steve Hansen Smythe","T2T1J1","Calgary Centre","Calgary","AB",-114.007349,51.073076,"2015",FALSE,NA,48006
 "Green",NA,"2015-02-15",100,"Elizabeth F Lunney","T2T1K5","Calgary Centre","Calgary","AB",-114.053707,51.059758,"2015",FALSE,NA,48006
 "Green",NA,"2015-02-15",100,"Melany J Dyer","V0E2W0","Okanagan—Shuswap","Blind Bay","BC",-119.449429,50.87334,"2015",FALSE,NA,59018
 "Green",NA,"2015-02-15",100,"Susan Ellard","V1W1M9","Kelowna—Lake Country","Kelowna","BC",-119.499236,49.816167,"2015",FALSE,NA,59011
@@ -303,9 +324,11 @@
 "Green",NA,"2015-02-16",1000,"Geoff. Rytell","M5A4K3","Toronto Centre","Toronto","ON",-79.3762,43.662682,"2015",FALSE,NA,35093
 "Green",NA,"2015-02-17",500,"Joseph B Benge","V8K1J5","Saanich—Gulf Islands","Salt Spring Island","BC",-123.54814,48.87385,"2015",FALSE,NA,59024
 "Green",NA,"2015-02-17",400,"Michelle Brown","V8S3H3","Victoria","Victoria","BC",-123.348963,48.409524,"2015",FALSE,NA,59035
+"Green",NA,"2015-02-18",400,"Tushar Mehta","L6S4W6","Brampton—Springdale","Brampton","ON",-79.755396,43.724167,"2015",FALSE,NA,35007
 "Green",NA,"2015-02-18",100,"Suzanne Honsl","M5E1Z5","Toronto Centre","Toronto","ON",-79.371661,43.650348,"2015",FALSE,NA,35093
-"Green",NA,"2015-02-18",1500,"Judith A Grant","M5R2L4","Trinity—Spadina","Toronto","ON",-79.399865,43.671336,"2015",FALSE,NA,35095
 "Green",NA,"2015-02-18",1500,"John A Grant","M5R2L4","Trinity—Spadina","Toronto","ON",-79.399865,43.671336,"2015",FALSE,NA,35095
+"Green",NA,"2015-02-18",1500,"Judith A Grant","M5R2L4","Trinity—Spadina","Toronto","ON",-79.399865,43.671336,"2015",FALSE,NA,35095
+"Green",NA,"2015-02-18",1500,"Leslie Gooding","M6P1J4","Parkdale—High Park","Toronto","ON",-79.463489,43.660107,"2015",FALSE,NA,35068
 "Green",NA,"2015-02-18",400,"James Hollingworth","N7A2L4","Huron—Bruce","Goderich","ON",-81.713039,43.74405,"2015",FALSE,NA,35034
 "Green",NA,"2015-02-18",300,"Eleanor L Evans","V0N2J1","Saanich—Gulf Islands","Mayne Island","BC",-123.261321,48.851442,"2015",FALSE,NA,59024
 "Green",NA,"2015-02-18",400,"Judy C Spearing","V8N5Y6","Saanich—Gulf Islands","Victoria","BC",-123.342286,48.474001,"2015",FALSE,NA,59024
@@ -315,8 +338,8 @@
 "Green",NA,"2015-02-20",1000,"Verna J J Higgins","B0N1X0","Kings—Hants","Upper Musquodoboit","NS",-63.152982,45.023244,"2015",FALSE,NA,12006
 "Green",NA,"2015-02-20",1000,"Gary Mckinney","L8V2V8","Hamilton Mountain","Hamilton","ON",-79.85453,43.234924,"2015",FALSE,NA,35033
 "Green",NA,"2015-02-20",250,"Ann Cleary","L9H1V1","Ancaster—Dundas—Flamborough—Westdale","Dundas","ON",-79.9578,43.26653,"2015",FALSE,NA,35003
-"Green",NA,"2015-02-20",400,"Nicole Le Riche","N6G4K8","London North Centre","London","ON",-81.289977,43.014418,"2015",FALSE,NA,35043
 "Green",NA,"2015-02-20",400,"John M Howard","N6G4K8","London North Centre","London","ON",-81.289977,43.014418,"2015",FALSE,NA,35043
+"Green",NA,"2015-02-20",400,"Nicole Le Riche","N6G4K8","London North Centre","London","ON",-81.289977,43.014418,"2015",FALSE,NA,35043
 "Green",NA,"2015-02-20",1200,"Gordon W Day","V6S1K1","Vancouver Quadra","W Vancouver","BC",-123.192139,49.252899,"2015",FALSE,NA,59033
 "Green",NA,"2015-02-21",200,"Dianne Macdonald","K9A5S3","Northumberland—Quinte West","Cobourg","ON",-78.164433,43.98528,"2015",FALSE,NA,35058
 "Green",NA,"2015-02-21",300,"Laurie A Bloom","V0N3A1","West Vancouver—Sunshine Coast—Sea to Sky Country","Sechelt","BC",-123.709472,49.442139,"2015",FALSE,NA,59036
@@ -333,6 +356,7 @@
 "Green",NA,"2015-02-25",20,"Alan Robertson","V8K1S3","Saanich—Gulf Islands","Salt Spring Island","BC",-123.519303,48.863168,"2015",FALSE,NA,59024
 "Green",NA,"2015-02-26",500,"David Blackwell","B3G0A7","Sackville—Eastern Shore","Eastern Passage","NS",-63.48902,44.61054,"2015",FALSE,NA,12008
 "Green",NA,"2015-02-26",400,"Kathryn J Anthony","B3K4K9","Halifax","Halifax","NS",-63.592282,44.652818,"2015",FALSE,NA,12004
+"Green",NA,"2015-02-26",1500,"Erica Phillips","K1S2V6","Ottawa Centre","Ottawa","ON",-75.690641,45.396574,"2015",FALSE,NA,35062
 "Green",NA,"2015-02-26",500,"John A Parkman","K1Y0M8","Ottawa Centre","Ottawa","ON",-75.738838,45.398998,"2015",FALSE,NA,35062
 "Green",NA,"2015-02-26",300,"Paul E Renaud","K2S1W5","Carleton—Mississippi Mills","Stittsville","ON",-75.923034,45.254053,"2015",FALSE,NA,35012
 "Green",NA,"2015-02-26",200,"Wayne A Schlepp","K9A1S6","Northumberland—Quinte West","Cobourg","ON",-78.139678,43.957848,"2015",FALSE,NA,35058
@@ -346,6 +370,8 @@
 "Green",NA,"2015-02-26",100,"Lura M Porkka","T1K0B5","Lethbridge","Lethbridge","AB",-112.82419,49.70388,"2015",FALSE,NA,48019
 "Green",NA,"2015-02-26",400,"Gastave J Yaki","T2S1N8","Calgary Centre","Calgary","AB",-114.072197,51.012229,"2015",FALSE,NA,48006
 "Green",NA,"2015-02-26",400,"Les Kuzyk","T3K3Z1","Calgary—Nose Hill","Calgary","AB",-114.105025,51.133526,"2015",FALSE,NA,48005
+"Green",NA,"2015-02-26",1500,"John R Bocock","T8N1M9","Westlock—St. Paul","St Albert","AB",-113.571237,53.677078,"2015",FALSE,NA,48025
+"Green",NA,"2015-02-26",405,"William E Bocock","T8T0G5","Westlock—St. Paul","Sturgeon County","AB",-113.198514,53.767692,"2015",FALSE,NA,48025
 "Green",NA,"2015-02-26",250,"Lauraine Howatt","T8W5K2","Peace River","County Of Grande Prairie No. 1","AB",-118.799072,55.144379,"2015",FALSE,NA,48022
 "Green",NA,"2015-02-26",250,"Hellen Von Harbou Bayliff","V0L1S0","Cariboo—Prince George","Redstone","BC",-123.679143,52.055456,"2015",FALSE,NA,59004
 "Green",NA,"2015-02-26",400,"John E Roper","V0N1V0","West Vancouver—Sunshine Coast—Sea to Sky Country","Gibsons","BC",-123.512878,49.401671,"2015",FALSE,NA,59036
@@ -361,6 +387,7 @@
 "Green",NA,"2015-02-26",750,"Kathryn Moran","V8V1R3","Victoria","Victoria","BC",-123.378384,48.419556,"2015",FALSE,NA,59035
 "Green",NA,"2015-02-26",412,"Aileen Greer","V8Z5S1","Saanich—Gulf Islands","Victoria","BC",-123.4011,48.56034,"2015",FALSE,NA,59024
 "Green",NA,"2015-02-26",400,"Frank Sieber","V9J1V4","Vancouver Island North","Courtenay","BC",-125.01193,49.794903,"2015",FALSE,NA,59031
+"Green",NA,"2015-02-27",40,"Michael W Mcfadden","B2V1P3","Dartmouth—Cole Harbour","Dartmouth","NS",-63.50468,44.670335,"2015",FALSE,NA,12003
 "Green",NA,"2015-02-27",70,"Alan Warner","B4P2R2","Kings—Hants","Wolfville","NS",-64.41117,45.065249,"2015",FALSE,NA,12006
 "Green",NA,"2015-02-27",100,"Bethany M Doyle","C1C0B7","Charlottetown","Charlottetown","PE",-63.109407,46.276825,"2015",FALSE,NA,11002
 "Green",NA,"2015-02-27",200,"Meg E Sears","K0A1T0","Carleton—Mississippi Mills","Nepean","ON",-76.014982,45.448633,"2015",FALSE,NA,35012
@@ -381,6 +408,7 @@
 "Green",NA,"2015-02-27",75,"Bernie Amell","T2E9B3","Calgary Centre-North","Calgary","AB",-114.067779,51.080557,"2015",FALSE,NA,48003
 "Green",NA,"2015-02-27",100,"Joann Mccaig","T2N1R9","Calgary Centre-North","Calgary","AB",-114.072914,51.058217,"2015",FALSE,NA,48003
 "Green",NA,"2015-02-27",100,"Vanessa D Reeves","T2R1H3","Calgary Centre","Calgary","AB",-114.077019,51.040115,"2015",FALSE,NA,48006
+"Green",NA,"2015-02-27",1500,"Jonathan Glover","T2T2B9","Calgary Centre","Calgary","AB",-114.103986,51.023189,"2015",FALSE,NA,48006
 "Green",NA,"2015-02-27",100,"Oluseyi Oladele","T5H4C6","Edmonton East","Edmonton","AB",-113.470287,53.55537,"2015",FALSE,NA,48013
 "Green",NA,"2015-02-27",50,"Angele Ortega","V0G1M0","British Columbia Southern Interior","Kaslo","BC",-116.912579,49.913707,"2015",FALSE,NA,59026
 "Green",NA,"2015-02-27",50,"Angele Ortega","V0G1M0","British Columbia Southern Interior","Kaslo","BC",-116.912579,49.913707,"2015",FALSE,NA,59026
@@ -389,6 +417,7 @@
 "Green",NA,"2015-02-27",100,"Donald F Smardon","V0R1X1","Nanaimo—Cowichan","Gabriola","BC",-123.854334,49.192502,"2015",FALSE,NA,59015
 "Green",NA,"2015-02-27",100,"Michael Kirby","V5T3X5","Vancouver East","Vancouver","BC",-123.08593,49.25949,"2015",FALSE,NA,59030
 "Green",NA,"2015-02-27",100,"Lorraine Bell","V7A2W1","Delta—Richmond East","Richmond","BC",-123.119413,49.136474,"2015",FALSE,NA,59006
+"Green",NA,"2015-02-27",35,"Thomas W Hackney","V8V3B5","Victoria","Victoria","BC",-123.352043,48.419188,"2015",FALSE,NA,59035
 "Green",NA,"2015-02-27",75,"Eleanor Nichol","V8X4C2","Saanich—Gulf Islands","Victoria","BC",-123.364092,48.463821,"2015",FALSE,NA,59024
 "Green",NA,"2015-02-27",100,"Steven R Hurdle","V9B2S3","Esquimalt—Juan de Fuca","Victoria","BC",-123.512407,48.446169,"2015",FALSE,NA,59008
 "Green",NA,"2015-02-27",100,"Ron D Aspinall","X0C0E0","Nunavut","Arviat","NU",-94.120148,61.098237,"2015",FALSE,NA,62001
@@ -445,6 +474,7 @@
 "Green",NA,"2015-03-01",100,"Robert G Greggs","V8K2W8","Saanich—Gulf Islands","Salt Spring Island","BC",-123.510988,48.858164,"2015",FALSE,NA,59024
 "Green",NA,"2015-03-01",100,"Virginia G Smith","V8L5L7","Saanich—Gulf Islands","North Saanich","BC",-123.464877,48.667944,"2015",FALSE,NA,59024
 "Green",NA,"2015-03-01",100,"Heather Goulet","V8L5M6","Saanich—Gulf Islands","North Saanich","BC",-123.474399,48.673625,"2015",FALSE,NA,59024
+"Green",NA,"2015-03-01",75,"Murray N Gudmundson","V8R4W8","Victoria","Victoria","BC",-123.32554,48.429535,"2015",FALSE,NA,59035
 "Green",NA,"2015-03-01",125,"Cameron Noble","V8T2Z6","Victoria","Victoria","BC",-123.344852,48.434087,"2015",FALSE,NA,59035
 "Green",NA,"2015-03-01",35,"Trevor Moat","V8V2N1","Victoria","Victoria","BC",-123.368901,48.413309,"2015",FALSE,NA,59035
 "Green",NA,"2015-03-01",30,"Catherine M Bradbury","Y1A4H5","Yukon","Whitehorse","YT",-135.13305,60.762351,"2015",FALSE,NA,60001
@@ -473,14 +503,17 @@
 "Green",NA,"2015-03-06",200,"Donald J J Kerr","L9Y3S5","Simcoe—Grey","Collingwood","ON",-80.209536,44.498443,"2015",FALSE,NA,35085
 "Green",NA,"2015-03-06",400,"Ken E Sailor","S7N0C9","Saskatoon—Humboldt","Saskatoon","SK",-106.661507,52.117672,"2015",FALSE,NA,47009
 "Green",NA,"2015-03-06",500,"Alison Pennie","T1W2J2","Wild Rose","Canmore","AB",-115.362168,51.084342,"2015",FALSE,NA,48027
+"Green",NA,"2015-03-06",400,"Jorde Goethals","T2M3J1","Calgary Centre-North","Calgary","AB",-114.082859,51.050944,"2015",FALSE,NA,48003
 "Green",NA,"2015-03-06",300,"Gina Staley","T2Z0M7","Calgary Southeast","Calgary","AB",-114.057252,50.937563,"2015",FALSE,NA,48007
 "Green",NA,"2015-03-06",100,"Kathy Thomas","V4B2T8","South Surrey—White Rock—Cloverdale","White Rock","BC",-122.81493,49.02561,"2015",FALSE,NA,59027
 "Green",NA,"2015-03-06",400,"Alexander Conconi","V6B4N6","Vancouver Centre","Vancouver","BC",-123.109618,49.28075,"2015",FALSE,NA,59029
+"Green",NA,"2015-03-06",400,"Jay Storey","V6E4L2","Vancouver Centre","Vancouver","BC",-123.1303,49.279918,"2015",FALSE,NA,59029
 "Green",NA,"2015-03-06",100,"Gail M Pettinger","V8Y1H7","Saanich—Gulf Islands","Victoria","BC",-123.38207,48.51476,"2015",FALSE,NA,59024
 "Green",NA,"2015-03-07",50,"Suzanne Honsl","M5E1Z5","Toronto Centre","Toronto","ON",-79.371661,43.650348,"2015",FALSE,NA,35093
 "Green",NA,"2015-03-07",400,"Ian Munro","V0N3A8","West Vancouver—Sunshine Coast—Sea to Sky Country","Sechelt","BC",-123.809288,49.475093,"2015",FALSE,NA,59036
 "Green",NA,"2015-03-08",500,"Barbara Minard","T2M2J3","Calgary Centre-North","Calgary","AB",-114.078615,51.07693,"2015",FALSE,NA,48003
 "Green",NA,"2015-03-08",300,"Michael Roy R Parry","T3E6L9","Calgary Centre","Calgary","AB",-114.215508,51.016892,"2015",FALSE,NA,48006
+"Green",NA,"2015-03-08",400,"John Stonier, Cpa, Ca","V6A0A6","Vancouver East","Vancouver","BC",-123.097198,49.276811,"2015",FALSE,NA,59030
 "Green",NA,"2015-03-09",200,"Frank Farrell","K1V7R9","Ottawa South","Ottawa","ON",-75.650553,45.36058,"2015",FALSE,NA,35064
 "Green",NA,"2015-03-09",250,"Andrew Bell","M3C3P4","Don Valley West","Toronto","ON",-79.326176,43.724547,"2015",FALSE,NA,35017
 "Green",NA,"2015-03-09",400,"David Hoegler","V1Y5L3","Kelowna—Lake Country","Kelowna","BC",-119.49149,49.87481,"2015",FALSE,NA,59011
@@ -525,6 +558,7 @@
 "Green",NA,"2015-03-15",70,"Stephen Smulan","S0G5A0","Souris—Moose Mountain","Wawota","SK",-102.025444,49.90567,"2015",FALSE,NA,47012
 "Green",NA,"2015-03-15",70,"Todd Morrison","S7K5C1","Saskatoon—Wanuskewin","Saskatoon","SK",-106.622423,52.17388,"2015",FALSE,NA,47011
 "Green",NA,"2015-03-15",100,"Brian J Deheer","T0A2C0","Fort McMurray—Athabasca","Lakeland","AB",-111.972559,54.768268,"2015",FALSE,NA,48001
+"Green",NA,"2015-03-15",15,"Steve Hansen Smythe","T2T1J1","Calgary Centre","Calgary","AB",-114.007349,51.073076,"2015",FALSE,NA,48006
 "Green",NA,"2015-03-15",100,"Elizabeth F Lunney","T2T1K5","Calgary Centre","Calgary","AB",-114.053707,51.059758,"2015",FALSE,NA,48006
 "Green",NA,"2015-03-15",100,"Melany J Dyer","V0E2W0","Okanagan—Shuswap","Blind Bay","BC",-119.449429,50.87334,"2015",FALSE,NA,59018
 "Green",NA,"2015-03-15",100,"Susan Ellard","V1W1M9","Kelowna—Lake Country","Kelowna","BC",-119.499236,49.816167,"2015",FALSE,NA,59011
@@ -558,10 +592,11 @@
 "Green",NA,"2015-03-19",225,"Daniel Corbeil","H1M1L5","Honoré-Mercier","Montréal","QC",-73.551001,45.58414,"2015",FALSE,NA,24022
 "Green",NA,"2015-03-19",1500,"Claire F Kerrigan","J0E1V0","Brome—Missisquoi","Brome","QC",-72.526927,45.222739,"2015",FALSE,NA,24010
 "Green",NA,"2015-03-19",750,"Dorothy A Krawetz","K7L4H6","Kingston and the Islands","Kingston","ON",-76.507297,44.222395,"2015",FALSE,NA,35036
+"Green",NA,"2015-03-19",500,"Rob Strang","L9W1A6","Dufferin—Caledon","Orangeville","ON",-80.099044,43.923816,"2015",FALSE,NA,35018
 "Green",NA,"2015-03-19",1500,"Gail Asper","R3P0B6","Winnipeg South Centre","Winnipeg","MB",-97.215173,49.871856,"2015",FALSE,NA,46014
 "Green",NA,"2015-03-19",500,"Aileen Pelzer","T2S1N8","Calgary Centre","Calgary","AB",-114.072197,51.012229,"2015",FALSE,NA,48006
-"Green",NA,"2015-03-19",150,"Bawn Campbell","V0N1G2","West Vancouver—Sunshine Coast—Sea to Sky Country","Bowen Island","BC",-123.343672,49.377384,"2015",FALSE,NA,59036
 "Green",NA,"2015-03-19",50,"Bawn Campbell","V0N1G2","West Vancouver—Sunshine Coast—Sea to Sky Country","Bowen Island","BC",-123.343672,49.377384,"2015",FALSE,NA,59036
+"Green",NA,"2015-03-19",150,"Bawn Campbell","V0N1G2","West Vancouver—Sunshine Coast—Sea to Sky Country","Bowen Island","BC",-123.343672,49.377384,"2015",FALSE,NA,59036
 "Green",NA,"2015-03-19",260,"Janice L Mcleod","V8L1V9","Saanich—Gulf Islands","Sidney","BC",-123.394711,48.646712,"2015",FALSE,NA,59024
 "Green",NA,"2015-03-19",135,"Myrna M Buckley","V8V3B8","Victoria","Victoria","BC",-123.35836,48.419252,"2015",FALSE,NA,59035
 "Green",NA,"2015-03-19",1500,"J Russell L Linney","V8Y2S3","Saanich—Gulf Islands","Victoria","BC",-123.371958,48.508714,"2015",FALSE,NA,59024
@@ -581,9 +616,10 @@
 "Green",NA,"2015-03-26",400,"Martine Michelle","M5T3L7","Trinity—Spadina","Toronto","ON",-79.393009,43.650092,"2015",FALSE,NA,35095
 "Green",NA,"2015-03-26",400,"Toby Thain","M6H2J4","Davenport","Toronto","ON",-79.433265,43.675509,"2015",FALSE,NA,35015
 "Green",NA,"2015-03-26",400,"Nicholas Crook","N6M1K4","London—Fanshawe","London","ON",-81.1705,42.9598,"2015",FALSE,NA,35042
-"Green",NA,"2015-03-26",800,"Geoffrey Knight","P3Y1N2","Sudbury","Lively","ON",-81.149729,46.431671,"2015",FALSE,NA,35088
 "Green",NA,"2015-03-26",600,"Geoffrey Knight","P3Y1N2","Sudbury","Lively","ON",-81.149729,46.431671,"2015",FALSE,NA,35088
+"Green",NA,"2015-03-26",800,"Geoffrey Knight","P3Y1N2","Sudbury","Lively","ON",-81.149729,46.431671,"2015",FALSE,NA,35088
 "Green",NA,"2015-03-26",500,"Wesley M. Stevens","R3J2G2","Charleswood—St. James—Assiniboia","Winnipeg","MB",-97.230499,49.879517,"2015",FALSE,NA,46002
+"Green",NA,"2015-03-26",400,"Steve Hansen Smythe","T2T1J1","Calgary Centre","Calgary","AB",-114.007349,51.073076,"2015",FALSE,NA,48006
 "Green",NA,"2015-03-26",400,"John Foxall","T2W0L3","Calgary Southwest","Calgary","AB",-114.093573,50.964624,"2015",FALSE,NA,48008
 "Green",NA,"2015-03-26",400,"Keith Hirsche","V0R1L7","Nanaimo—Cowichan","Cobble Hill","BC",-123.578449,48.683821,"2015",FALSE,NA,59015
 "Green",NA,"2015-03-26",500,"Oliver H Heywood-jones","V0R1T0","Vancouver Island North","Denman Island","BC",-124.772448,49.525284,"2015",FALSE,NA,59031
@@ -607,7 +643,9 @@
 "Green",NA,"2015-03-28",400,"Scott Macdougall","T2N0S8","Calgary Centre-North","Calgary","AB",-114.11114,51.05734,"2015",FALSE,NA,48003
 "Green",NA,"2015-03-28",200,"Darryl G Janyk","V8K2B3","Saanich—Gulf Islands","Salt Spring Island","BC",-123.478216,48.810609,"2015",FALSE,NA,59024
 "Green",NA,"2015-03-29",400,"Chris Allaway","K1L6Y3","Ottawa—Vanier","Vanier","ON",-75.656775,45.442672,"2015",FALSE,NA,35065
+"Green",NA,"2015-03-29",500,"Peter Copestake","K7K5E2","Kingston and the Islands","Kingston","ON",-76.444416,44.234028,"2015",FALSE,NA,35036
 "Green",NA,"2015-03-29",400,"Richard De Souza","L0R2H6","Ancaster—Dundas—Flamborough—Westdale","Hamilton","ON",-79.903902,43.332063,"2015",FALSE,NA,35003
+"Green",NA,"2015-03-29",500,"Margaret Ruth R Pickering","L9H2R5","Ancaster—Dundas—Flamborough—Westdale","Dundas","ON",-79.953229,43.26881,"2015",FALSE,NA,35003
 "Green",NA,"2015-03-29",400,"Don Klaassen","S7J3L1","Blackstrap","Saskatoon","SK",-106.612264,52.100983,"2015",FALSE,NA,47002
 "Green",NA,"2015-03-29",15,"Angela L Specht","T0E2K0","Yellowhead","Wabamun","AB",-114.470494,53.560857,"2015",FALSE,NA,48028
 "Green",NA,"2015-03-29",200,"Angela L Specht","T0E2K0","Yellowhead","Wabamun","AB",-114.470494,53.560857,"2015",FALSE,NA,48028
@@ -649,6 +687,7 @@
 "Green",NA,"2015-03-31",125,"Neil Maclean","E2M3X8","Saint John","Saint John","NB",-66.113702,45.246538,"2015",FALSE,NA,13009
 "Green",NA,"2015-03-31",50,"Edith U Fierz","K0H1G0","Kingston and the Islands","Bath","ON",-76.775051,44.189441,"2015",FALSE,NA,35036
 "Green",NA,"2015-03-31",125,"Doug E Mason","K0L1Z0","Northumberland—Quinte West","Havelock","ON",-77.876555,44.439764,"2015",FALSE,NA,35058
+"Green",NA,"2015-03-31",500,"Brian Eckert","K1N8M1","Ottawa—Vanier","Ottawa","ON",-75.676508,45.435218,"2015",FALSE,NA,35065
 "Green",NA,"2015-03-31",100,"Mike Newman","K1S2H5","Ottawa Centre","Ottawa","ON",-75.68693,45.404483,"2015",FALSE,NA,35062
 "Green",NA,"2015-03-31",400,"Janet Christie-seely","K2J4J1","Nepean—Carleton","Nepean","ON",-75.74364,45.26527,"2015",FALSE,NA,35052
 "Green",NA,"2015-03-31",100,"Steven Harker","K7L4M6","Kingston and the Islands","Kingston","ON",-76.510041,44.234594,"2015",FALSE,NA,35036
@@ -659,8 +698,8 @@
 "Green",NA,"2015-03-31",300,"Audrey E. Winch","L8S4B4","Ancaster—Dundas—Flamborough—Westdale","Hamilton","ON",-79.908048,43.264515,"2015",FALSE,NA,35003
 "Green",NA,"2015-03-31",125,"Taavi A Burns","M4C3Y4","Beaches—East York","Toronto","ON",-79.316648,43.688569,"2015",FALSE,NA,35005
 "Green",NA,"2015-03-31",60,"Donna Carpenter","N0B1N0","Kitchener—Waterloo","Conestogo","ON",-80.500322,43.543834,"2015",FALSE,NA,35039
-"Green",NA,"2015-03-31",30,"James D Burgess","N0P2K0","Chatham-Kent—Essex","Chatham","ON",-81.983915,42.556627,"2015",FALSE,NA,35013
 "Green",NA,"2015-03-31",40,"James D Burgess","N0P2K0","Chatham-Kent—Essex","Chatham","ON",-81.983915,42.556627,"2015",FALSE,NA,35013
+"Green",NA,"2015-03-31",30,"James D Burgess","N0P2K0","Chatham-Kent—Essex","Chatham","ON",-81.983915,42.556627,"2015",FALSE,NA,35013
 "Green",NA,"2015-03-31",500,"Brian Ostrow","N1H2H8","Guelph","Guelph","ON",-80.255266,43.547162,"2015",FALSE,NA,35027
 "Green",NA,"2015-03-31",400,"Don A Kochan","N2J4S2","Kitchener—Waterloo","Waterloo","ON",-80.517891,43.465551,"2015",FALSE,NA,35039
 "Green",NA,"2015-03-31",50,"Richard Stock","N4L1W5","Bruce—Grey—Owen Sound","Meaford","ON",-80.622772,44.626576,"2015",FALSE,NA,35026
@@ -668,6 +707,7 @@
 "Green",NA,"2015-03-31",100,"Geoffrey Knight","P3Y1N2","Sudbury","Lively","ON",-81.149729,46.431671,"2015",FALSE,NA,35088
 "Green",NA,"2015-03-31",125,"Mike Bray","S0G2K0","Wascana","Indian Head","SK",-103.66927,50.535334,"2015",FALSE,NA,47013
 "Green",NA,"2015-03-31",75,"Bernie Amell","T2E9B3","Calgary Centre-North","Calgary","AB",-114.067779,51.080557,"2015",FALSE,NA,48003
+"Green",NA,"2015-03-31",400,"Mike Haden","T2M2Y8","Calgary Centre-North","Calgary","AB",-114.060337,51.045979,"2015",FALSE,NA,48003
 "Green",NA,"2015-03-31",100,"Joann Mccaig","T2N1R9","Calgary Centre-North","Calgary","AB",-114.072914,51.058217,"2015",FALSE,NA,48003
 "Green",NA,"2015-03-31",100,"Vanessa D Reeves","T2R1H3","Calgary Centre","Calgary","AB",-114.077019,51.040115,"2015",FALSE,NA,48006
 "Green",NA,"2015-03-31",500,"Pollie Lumby","T3A0W9","Calgary West","Calgary","AB",-113.975747,51.037017,"2015",FALSE,NA,48009
@@ -683,9 +723,12 @@
 "Green",NA,"2015-03-31",400,"Yasina Ismaily","V4R2R6","Pitt Meadows—Maple Ridge—Mission","Maple Ridge","BC",-122.579085,49.246371,"2015",FALSE,NA,59007
 "Green",NA,"2015-03-31",200,"Michael Kirby","V5T3X5","Vancouver East","Vancouver","BC",-123.08593,49.25949,"2015",FALSE,NA,59030
 "Green",NA,"2015-03-31",500,"Leonard Schein","V6R1E8","Vancouver Quadra","Vancouver","BC",-123.214404,49.272211,"2015",FALSE,NA,59033
+"Green",NA,"2015-03-31",300,"Ronald A Hagler","V6R4C9","Vancouver Quadra","Vancouver","BC",-123.203853,49.261367,"2015",FALSE,NA,59033
+"Green",NA,"2015-03-31",1200,"Ronald A Hagler","V6R4C9","Vancouver Quadra","Vancouver","BC",-123.203853,49.261367,"2015",FALSE,NA,59033
 "Green",NA,"2015-03-31",100,"Lorraine Bell","V7A2W1","Delta—Richmond East","Richmond","BC",-123.119413,49.136474,"2015",FALSE,NA,59006
 "Green",NA,"2015-03-31",500,"Jennifer Waelti-walters","V8P3J1","Saanich—Gulf Islands","Victoria","BC",-123.355244,48.462132,"2015",FALSE,NA,59024
 "Green",NA,"2015-03-31",400,"Vicki Metcalfe","V8V2A5","Victoria","Victoria","BC",-123.38218,48.415408,"2015",FALSE,NA,59035
+"Green",NA,"2015-03-31",35,"Thomas W Hackney","V8V3B5","Victoria","Victoria","BC",-123.352043,48.419188,"2015",FALSE,NA,59035
 "Green",NA,"2015-03-31",75,"Eleanor Nichol","V8X4C2","Saanich—Gulf Islands","Victoria","BC",-123.364092,48.463821,"2015",FALSE,NA,59024
 "Green",NA,"2015-03-31",100,"Steven R Hurdle","V9B2S3","Esquimalt—Juan de Fuca","Victoria","BC",-123.512407,48.446169,"2015",FALSE,NA,59008
 "Green",NA,"2015-03-31",100,"Ron D Aspinall","X0C0E0","Nunavut","Arviat","NU",-94.120148,61.098237,"2015",FALSE,NA,62001
