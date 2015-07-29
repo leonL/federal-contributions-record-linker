@@ -265,8 +265,8 @@
 "Bloc",NA,"2010-03-01",400,"Michel Prévost","J8Y1Y5","Hull—Aylmer","Gatineau","QC",-75.748721,45.44242,"2010",FALSE,NA,24023
 "Bloc",NA,"2010-03-01",50,"Sébastien Tessier","J8Y3R6","Hull—Aylmer","Gatineau","QC",-75.732095,45.43499,"2010",FALSE,NA,24023
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2010-03-02",100,"Lucien Lb Beaupré","G0Z1A0","Bas-Richelieu—Nicolet—Bécancour","Aston-jonction","QC",-72.23126,46.166745,"2010",TRUE,24054,24054
-"Bloc","Montcalm","2010-03-02",160,"Louise Papineau","J0K1Z0","Montcalm","Lac-lapierre","QC",-73.860549,45.950228,"2010",TRUE,24043,24043
 "Bloc","Montcalm","2010-03-02",160,"Pierre Robidoux","J0K1Z0","Montcalm","Lac-lapierre","QC",-73.860549,45.950228,"2010",TRUE,24043,24043
+"Bloc","Montcalm","2010-03-02",160,"Louise Papineau","J0K1Z0","Montcalm","Lac-lapierre","QC",-73.860549,45.950228,"2010",TRUE,24043,24043
 "Bloc","Montcalm","2010-03-02",240,"Arthur Duquette","J0K2T0","Montcalm","Sainte-julienne","QC",-73.724574,45.968217,"2010",TRUE,24043,24043
 "Bloc","Montcalm","2010-03-02",400,"Véronique Hivon","J0K2X0","Montcalm","Saint-liguori","QC",-73.579463,46.011851,"2010",TRUE,24043,24043
 "Bloc","Montcalm","2010-03-02",160,"Isabelle Mireault","J0K2X0","Montcalm","Saint-liguori","QC",-73.579463,46.011851,"2010",TRUE,24043,24043
@@ -281,8 +281,8 @@
 "Bloc","Montcalm","2010-03-02",360,"Nicolas Marceau","H2H1L7","Laurier—Sainte-Marie","Montréal","QC",-73.568979,45.537359,"2010",TRUE,24043,24031
 "Bloc","Montcalm","2010-03-02",180,"Sylvain Lanoix","H2J1G9","Laurier—Sainte-Marie","Montréal","QC",-73.584857,45.532257,"2010",TRUE,24043,24031
 "Bloc","Montcalm","2010-03-02",80,"Ronald Brière","J5J1M8","Rivière-du-Nord","Sainte-sophie","QC",-73.90132,45.817787,"2010",TRUE,24043,24059
-"Bloc","Montcalm","2010-03-02",640,"Françoise Gagnon","J6A3Y7","Repentigny","Repentigny","QC",-73.455344,45.72919,"2010",TRUE,24043,24053
 "Bloc","Montcalm","2010-03-02",80,"Françoise Gagnon","J6A3Y7","Repentigny","Repentigny","QC",-73.455344,45.72919,"2010",TRUE,24043,24053
+"Bloc","Montcalm","2010-03-02",640,"Françoise Gagnon","J6A3Y7","Repentigny","Repentigny","QC",-73.455344,45.72919,"2010",TRUE,24043,24053
 "Bloc","Montcalm","2010-03-02",320,"Luc Papin","J6A7Y3","Repentigny","Repentigny","QC",-73.446739,45.765636,"2010",TRUE,24043,24053
 "Bloc","Montcalm","2010-03-02",320,"Luc Desmarais","J6E2G7","Joliette","Joliette","QC",-73.462143,46.028273,"2010",TRUE,24043,24025
 "Bloc","Montcalm","2010-03-02",320,"André Chulak","J6W1W5","Terrebonne—Blainville","Terrebonne","QC",-73.638919,45.705375,"2010",TRUE,24043,24071
@@ -409,11 +409,11 @@
 "Bloc","Saint-Hyacinthe—Bagot","2010-03-26",300,"Léandre Cusson","J0H1E0","Saint-Hyacinthe—Bagot","Saint-hyacinthe","QC",-72.519305,45.566924,"2010",TRUE,24063,24063
 "Bloc","Saint-Hyacinthe—Bagot","2010-03-26",400,"François Béchard","J0H1J0","Saint-Hyacinthe—Bagot","St-damase","QC",-73.003646,45.527129,"2010",TRUE,24063,24063
 "Bloc","Saint-Hyacinthe—Bagot","2010-03-26",350,"Germain Chabot","J0H1J0","Saint-Hyacinthe—Bagot","St-damase","QC",-73.003646,45.527129,"2010",TRUE,24063,24063
-"Bloc","Saint-Hyacinthe—Bagot","2010-03-26",300,"Ruth Gerbeau","J0H1N0","Saint-Hyacinthe—Bagot","Saint-hyacinthe","QC",-72.843382,45.790859,"2010",TRUE,24063,24063
 "Bloc","Saint-Hyacinthe—Bagot","2010-03-26",300,"Léo Giard","J0H1N0","Saint-Hyacinthe—Bagot","Saint-hyacinthe","QC",-72.843382,45.790859,"2010",TRUE,24063,24063
+"Bloc","Saint-Hyacinthe—Bagot","2010-03-26",300,"Ruth Gerbeau","J0H1N0","Saint-Hyacinthe—Bagot","Saint-hyacinthe","QC",-72.843382,45.790859,"2010",TRUE,24063,24063
 "Bloc","Saint-Hyacinthe—Bagot","2010-03-26",350,"Luc Pelland","J0H1V0","Saint-Hyacinthe—Bagot","Saint-nazaire-d'acton","QC",-72.6296,45.746745,"2010",TRUE,24063,24063
-"Bloc","Saint-Hyacinthe—Bagot","2010-03-26",350,"Ginette Marquette","J2S6W3","Saint-Hyacinthe—Bagot","Saint-hyacinthe","QC",-72.981406,45.60865,"2010",TRUE,24063,24063
 "Bloc","Saint-Hyacinthe—Bagot","2010-03-26",350,"Bertrand Desrosiers","J2S6W3","Saint-Hyacinthe—Bagot","Saint-hyacinthe","QC",-72.981406,45.60865,"2010",TRUE,24063,24063
+"Bloc","Saint-Hyacinthe—Bagot","2010-03-26",350,"Ginette Marquette","J2S6W3","Saint-Hyacinthe—Bagot","Saint-hyacinthe","QC",-72.981406,45.60865,"2010",TRUE,24063,24063
 "Bloc","Saint-Hyacinthe—Bagot","2010-03-26",400,"Émilien Pelletier","J2S7Z2","Saint-Hyacinthe—Bagot","Saint-hyacinthe","QC",-72.98107,45.611669,"2010",TRUE,24063,24063
 "Bloc","Saint-Hyacinthe—Bagot","2010-03-26",300,"Kenneth Hilt","J2S8M7","Saint-Hyacinthe—Bagot","Saint-hyacinthe","QC",-72.945969,45.636353,"2010",TRUE,24063,24063
 "Bloc","Saint-Bruno—Saint-Hubert","2010-03-26",300,"Mathieu Marcotte","J3Y8Y4","Saint-Bruno—Saint-Hubert","Saint-hubert","QC",-73.415077,45.489401,"2010",TRUE,24062,24062
@@ -421,8 +421,8 @@
 "Bloc","Saint-Bruno—Saint-Hubert","2010-03-26",400,"Mathieu Renaud St-amand","H2K3R6","Laurier—Sainte-Marie","Montréal","QC",-73.564381,45.534006,"2010",TRUE,24062,24031
 "Bloc","Drummond","2010-03-28",100,"Denis Chapdelaine","J2C1N8","Drummond","Drummondville","QC",-72.490001,45.884121,"2010",TRUE,24018,24018
 "Bloc","Saint-Bruno—Saint-Hubert","2010-03-28",300,"Bertrand St-arnaud","J3V6A2","Saint-Bruno—Saint-Hubert","Saint-bruno","QC",-73.32391,45.520455,"2010",TRUE,24062,24062
-"Bloc","Saint-Bruno—Saint-Hubert","2010-03-28",500,"Claude Ste-marie","J3V6C7","Saint-Bruno—Saint-Hubert","Saint-bruno","QC",-73.365723,45.537602,"2010",TRUE,24062,24062
 "Bloc","Saint-Bruno—Saint-Hubert","2010-03-28",500,"Robert Desormiers","J3V6C7","Saint-Bruno—Saint-Hubert","Saint-bruno","QC",-73.365723,45.537602,"2010",TRUE,24062,24062
+"Bloc","Saint-Bruno—Saint-Hubert","2010-03-28",500,"Claude Ste-marie","J3V6C7","Saint-Bruno—Saint-Hubert","Saint-bruno","QC",-73.365723,45.537602,"2010",TRUE,24062,24062
 "Bloc","Saint-Bruno—Saint-Hubert","2010-03-28",200,"Denis Vincent","J3Y8R3","Saint-Bruno—Saint-Hubert","Saint-hubert","QC",-73.397465,45.485044,"2010",TRUE,24062,24062
 "Bloc","Saint-Bruno—Saint-Hubert","2010-03-28",200,"Mathieu Marcotte","J3Y8Y4","Saint-Bruno—Saint-Hubert","Saint-hubert","QC",-73.415077,45.489401,"2010",TRUE,24062,24062
 "Bloc","Saint-Bruno—Saint-Hubert","2010-03-28",100,"Martin Daoust","J3Y9A3","Saint-Bruno—Saint-Hubert","Saint-hubert","QC",-73.401528,45.492609,"2010",TRUE,24062,24062
@@ -447,8 +447,8 @@
 "Bloc","Drummond","2010-04-01",500,"Yves Samson","J2B4C2","Drummond","Drummondville","QC",-72.45492,45.849716,"2010",TRUE,24018,24018
 "Bloc","Châteauguay—Saint-Constant","2010-04-01",230,"Stéphane Laberge","J6K3M9","Châteauguay—Saint-Constant","Châteauguay","QC",-73.747453,45.37127,"2010",TRUE,24015,24015
 "Bloc","Beauharnois—Salaberry","2010-04-01",400,"Reynald Drouin","J6N1M9","Beauharnois—Salaberry","Maple Grove","QC",-73.863878,45.31429,"2010",TRUE,24006,24006
-"Bloc","Beauharnois—Salaberry","2010-04-01",400,"Marie-andrée Richard","J6S6A2","Beauharnois—Salaberry","Saint-timothée","QC",-74.029903,45.294831,"2010",TRUE,24006,24006
 "Bloc","Beauharnois—Salaberry","2010-04-01",400,"Jean Laframboise","J6S6A2","Beauharnois—Salaberry","Saint-timothée","QC",-74.029903,45.294831,"2010",TRUE,24006,24006
+"Bloc","Beauharnois—Salaberry","2010-04-01",400,"Marie-andrée Richard","J6S6A2","Beauharnois—Salaberry","Saint-timothée","QC",-74.029903,45.294831,"2010",TRUE,24006,24006
 "Bloc","Beauharnois—Salaberry","2010-04-01",405,"Henri Laberge","J6T1S6","Beauharnois—Salaberry","Salaberry-de-valleyfield","QC",-74.133429,45.253831,"2010",TRUE,24006,24006
 "Bloc","Beauharnois—Salaberry","2010-04-01",400,"Richard Fortier","J6T4L9","Beauharnois—Salaberry","Salaberry-de-valleyfield","QC",-74.122199,45.243161,"2010",TRUE,24006,24006
 "Bloc","Beauharnois—Salaberry","2010-04-01",100,"Mireille Théorêt","J6T5N3","Beauharnois—Salaberry","Salaberry-de-valleyfield","QC",-74.142942,45.24361,"2010",TRUE,24006,24006
@@ -476,8 +476,8 @@
 "Bloc",NA,"2010-04-01",30,"Bernard Bouthillette","J8T8R6","Gatineau","Gatineau","QC",-75.694895,45.479703,"2010",FALSE,NA,24020
 "Bloc",NA,"2010-04-01",50,"Sébastien Tessier","J8Y3R6","Hull—Aylmer","Gatineau","QC",-75.732095,45.43499,"2010",FALSE,NA,24023
 "Bloc","Gatineau","2010-04-02",135,"Jacques Jp Paulhus","J8T6Y6","Gatineau","Gatineau","QC",-75.689986,45.482425,"2010",TRUE,24020,24020
-"Bloc","Gatineau","2010-04-03",135,"Claudette Rocheleau","J8P2L9","Gatineau","Gatineau","QC",-75.654277,45.49803,"2010",TRUE,24020,24020
 "Bloc","Gatineau","2010-04-03",135,"Marcel Mr Rocheleau","J8P2L9","Gatineau","Gatineau","QC",-75.654277,45.49803,"2010",TRUE,24020,24020
+"Bloc","Gatineau","2010-04-03",135,"Claudette Rocheleau","J8P2L9","Gatineau","Gatineau","QC",-75.654277,45.49803,"2010",TRUE,24020,24020
 "Bloc","Drummond","2010-04-04",400,"Anne Fontaine","H2K3V6","Laurier—Sainte-Marie","Montréal","QC",-73.563506,45.531898,"2010",TRUE,24018,24031
 "Bloc","Gatineau","2010-04-05",400,"Germaine Gn Nadeau","K6A1X7","Glengarry—Prescott—Russell","Hawkesbury","ON",-74.606308,45.611715,"2010",TRUE,24020,35025
 "Bloc","Manicouagan","2010-04-06",400,"Victorienne St-gelais","G0T1E0","Manicouagan","Forestville","QC",-69.089222,48.739336,"2010",TRUE,24039,24039
@@ -583,8 +583,8 @@
 "Bloc",NA,"2010-04-21",350,"Marc Viel","H2H2G9","Laurier—Sainte-Marie","Montréal","QC",-73.575626,45.538335,"2010",FALSE,NA,24031
 "Bloc",NA,"2010-04-21",300,"Omer Bousquet","J2S2Y2","Saint-Hyacinthe—Bagot","Saint-hyacinthe","QC",-72.940462,45.634409,"2010",FALSE,NA,24063
 "Bloc","Québec","2010-04-22",300,"Josée Sinclair","G1K5Y4","Québec","Québec","QC",-71.233881,46.820695,"2010",TRUE,24052,24052
-"Bloc","Saint-Maurice—Champlain","2010-04-22",200,"Angèle Lefebvre","G9X2V4","Saint-Maurice—Champlain","La Tuque","QC",-72.781874,47.434116,"2010",TRUE,24068,24068
 "Bloc","Saint-Maurice—Champlain","2010-04-22",200,"Julien Tremblay","G9X2V4","Saint-Maurice—Champlain","La Tuque","QC",-72.781874,47.434116,"2010",TRUE,24068,24068
+"Bloc","Saint-Maurice—Champlain","2010-04-22",200,"Angèle Lefebvre","G9X2V4","Saint-Maurice—Champlain","La Tuque","QC",-72.781874,47.434116,"2010",TRUE,24068,24068
 "Bloc","Repentigny","2010-04-22",100,"Éric Chartré","J5W4E6","Repentigny","Saint-sulpice","QC",-73.365999,45.843974,"2010",TRUE,24053,24053
 "Bloc","Repentigny","2010-04-22",400,"Jean Gendron","J5W4H4","Repentigny","Saint-sulpice","QC",-73.366322,45.831575,"2010",TRUE,24053,24053
 "Bloc","Repentigny","2010-04-22",100,"Jacques Raynault","J5W4Z3","Repentigny","L'assomption","QC",-73.435025,45.896325,"2010",TRUE,24053,24053
@@ -594,8 +594,8 @@
 "Bloc","Repentigny","2010-04-22",400,"Guy Amyot","J5Z2M6","Repentigny","Le Gardeur","QC",-73.462991,45.764605,"2010",TRUE,24053,24053
 "Bloc","Repentigny","2010-04-22",100,"Daniel Tessier","J6A1L2","Repentigny","Repentigny","QC",-73.469561,45.731048,"2010",TRUE,24053,24053
 "Bloc","Repentigny","2010-04-22",200,"Noël Rivard","J6A3V4","Repentigny","Repentigny","QC",-73.460606,45.727486,"2010",TRUE,24053,24053
-"Bloc","Repentigny","2010-04-22",100,"Arthur Dubé","J6A3V4","Repentigny","Repentigny","QC",-73.460606,45.727486,"2010",TRUE,24053,24053
 "Bloc","Repentigny","2010-04-22",100,"Michel Racette","J6A3V4","Repentigny","Repentigny","QC",-73.460606,45.727486,"2010",TRUE,24053,24053
+"Bloc","Repentigny","2010-04-22",100,"Arthur Dubé","J6A3V4","Repentigny","Repentigny","QC",-73.460606,45.727486,"2010",TRUE,24053,24053
 "Bloc","Repentigny","2010-04-22",100,"Raymond Hénault","J6A4M4","Repentigny","Repentigny","QC",-73.450414,45.737357,"2010",TRUE,24053,24053
 "Bloc","Repentigny","2010-04-22",100,"René Asselin","J6A5K9","Repentigny","Repentigny","QC",-73.440054,45.761002,"2010",TRUE,24053,24053
 "Bloc","Repentigny","2010-04-22",100,"Jacinthe Amireault","J6A7S1","Repentigny","Repentigny","QC",-73.456378,45.758373,"2010",TRUE,24053,24053
@@ -633,8 +633,8 @@
 "Bloc","Joliette","2010-04-25",7,"Sonia Sg Garceau","J6E5M8","Joliette","Joliette","QC",-73.442507,46.023187,"2010",TRUE,24025,24025
 "Bloc","Joliette","2010-04-25",14,"Jacques Jp Plante","J6E8W1","Joliette","Joliette","QC",-73.416519,46.033342,"2010",TRUE,24025,24025
 "Bloc","Joliette","2010-04-25",42,"Bruno Bl Lapierre","J7K3C2","Montcalm","Mascouche","QC",-73.646497,45.771915,"2010",TRUE,24025,24043
-"Bloc","Saint-Hyacinthe—Bagot","2010-04-26",300,"Claude Roger","J0H1B0","Saint-Hyacinthe—Bagot","Saint-hyacinthe","QC",-73.062445,45.65938,"2010",TRUE,24063,24063
 "Bloc","Saint-Hyacinthe—Bagot","2010-04-26",300,"Bernard Longpré","J0H1B0","Saint-Hyacinthe—Bagot","Saint-hyacinthe","QC",-73.062445,45.65938,"2010",TRUE,24063,24063
+"Bloc","Saint-Hyacinthe—Bagot","2010-04-26",300,"Claude Roger","J0H1B0","Saint-Hyacinthe—Bagot","Saint-hyacinthe","QC",-73.062445,45.65938,"2010",TRUE,24063,24063
 "Bloc","Saint-Hyacinthe—Bagot","2010-04-26",300,"Robert Théroux","J0H1M0","Saint-Hyacinthe—Bagot","Saint-liboire","QC",-72.735324,45.729113,"2010",TRUE,24063,24063
 "Bloc","Saint-Hyacinthe—Bagot","2010-04-26",350,"André Mousseau","J0H1S0","Saint-Hyacinthe—Bagot","Sainte-madeleine","QC",-73.102081,45.59162,"2010",TRUE,24063,24063
 "Bloc","Saint-Hyacinthe—Bagot","2010-04-26",350,"Rémi Drapeau","J2S7J5","Saint-Hyacinthe—Bagot","Saint-hyacinthe","QC",-72.948259,45.633906,"2010",TRUE,24063,24063
@@ -717,8 +717,8 @@
 "Bloc","Joliette","2010-05-05",200,"Jacques Jp Plante","J6E8W1","Joliette","Joliette","QC",-73.416519,46.033342,"2010",TRUE,24025,24025
 "Bloc","Joliette","2010-05-05",300,"Marie Mm Mathieu","H3S2V6","Outremont","Montréal","QC",-73.624297,45.508489,"2010",TRUE,24025,24047
 "Bloc","Joliette","2010-05-05",100,"Bruno Bl Lapierre","J7K3C2","Montcalm","Mascouche","QC",-73.646497,45.771915,"2010",TRUE,24025,24043
-"Bloc","Joliette","2010-05-05",500,"Michelle Mpt Paquette Turcotte","J8B2S6","Laurentides—Labelle","Sainte-adèle","QC",-74.14225,45.941829,"2010",TRUE,24025,24030
 "Bloc","Joliette","2010-05-05",500,"Adrien Ap Paquette","J8B2S6","Laurentides—Labelle","Sainte-adèle","QC",-74.14225,45.941829,"2010",TRUE,24025,24030
+"Bloc","Joliette","2010-05-05",500,"Michelle Mpt Paquette Turcotte","J8B2S6","Laurentides—Labelle","Sainte-adèle","QC",-74.14225,45.941829,"2010",TRUE,24025,24030
 "Bloc","Compton—Stanstead","2010-05-06",400,"Bertrand Bl Lamoureux","J1A2W8","Compton—Stanstead","Coaticook","QC",-71.807437,45.119386,"2010",TRUE,24017,24017
 "Bloc",NA,"2010-05-06",300,"Simon Marcotte","G1S4P7","Québec","Québec","QC",-71.24381,46.799632,"2010",FALSE,NA,24052
 "Bloc",NA,"2010-05-06",245,"Joseph Lamontagne","G6V8P2","Lévis—Bellechasse","Lévis","QC",-71.164455,46.809254,"2010",FALSE,NA,24034
@@ -793,8 +793,8 @@
 "Bloc","Marc-Aurèle-Fortin","2010-05-18",400,"Alain Gingras","J3G5E4","Chambly—Borduas","Beloeil","QC",-73.204925,45.573879,"2010",TRUE,24040,24012
 "Bloc","Marc-Aurèle-Fortin","2010-05-18",300,"Alexandre Beaudet","J6W6B1","Montcalm","Lachenaie","QC",-73.595126,45.694158,"2010",TRUE,24040,24043
 "Bloc","Richmond—Arthabaska","2010-05-19",201,"Florian Fb Beauchesne","G6P4Y1","Richmond—Arthabaska","Victoriaville","QC",-71.950848,46.0623,"2010",TRUE,24055,24055
-"Bloc","Saint-Maurice—Champlain","2010-05-19",200,"Jean-guy Perron","G9T3E8","Saint-Maurice—Champlain","Lemoyne","QC",-72.665598,46.621368,"2010",TRUE,24068,24068
 "Bloc","Saint-Maurice—Champlain","2010-05-19",100,"Micheline Tremblay","G9T3E8","Saint-Maurice—Champlain","Lemoyne","QC",-72.665598,46.621368,"2010",TRUE,24068,24068
+"Bloc","Saint-Maurice—Champlain","2010-05-19",200,"Jean-guy Perron","G9T3E8","Saint-Maurice—Champlain","Lemoyne","QC",-72.665598,46.621368,"2010",TRUE,24068,24068
 "Bloc","Saint-Maurice—Champlain","2010-05-19",300,"Damien St-louis","G9X3N6","Saint-Maurice—Champlain","La Tuque","QC",-72.731227,47.472378,"2010",TRUE,24068,24068
 "Bloc","Marc-Aurèle-Fortin","2010-05-19",400,"Normand Dupont","J7C5M5","Marc-Aurèle-Fortin","Blainville","QC",-73.880081,45.657407,"2010",TRUE,24040,24040
 "Bloc","Marc-Aurèle-Fortin","2010-05-19",400,"Carole Potvin","J3G5E4","Chambly—Borduas","Beloeil","QC",-73.204925,45.573879,"2010",TRUE,24040,24012
@@ -894,10 +894,10 @@
 "Bloc","Rimouski-Neigette—Témiscouata—Les Basques","2010-06-03",375,"Eve-mary Thai Thi Lac","J0H1B0","Saint-Hyacinthe—Bagot","Saint-hyacinthe","QC",-73.062445,45.65938,"2010",TRUE,24056,24063
 "Bloc","Richmond—Arthabaska","2010-06-04",201,"Jean Jd Dumont","G0P1J0","Richmond—Arthabaska","Chesterville","QC",-71.803543,45.953769,"2010",TRUE,24055,24055
 "Bloc","Abitibi—Baie-James—Nunavik—Eeyou","2010-06-04",20,"Jean-eudes Bolduc","G8P2G3","Abitibi—Baie-James—Nunavik—Eeyou","Chibougamau","QC",-74.370822,49.917397,"2010",TRUE,24046,24046
-"Bloc","Abitibi—Baie-James—Nunavik—Eeyou","2010-06-04",60,"André Levesque","J0Y2M0","Abitibi—Baie-James—Nunavik—Eeyou","Senneterre","QC",-77.240161,48.389528,"2010",TRUE,24046,24046
 "Bloc","Abitibi—Baie-James—Nunavik—Eeyou","2010-06-04",10,"André Levesque","J0Y2M0","Abitibi—Baie-James—Nunavik—Eeyou","Senneterre","QC",-77.240161,48.389528,"2010",TRUE,24046,24046
-"Bloc","Abitibi—Baie-James—Nunavik—Eeyou","2010-06-04",10,"Renaud Martel","J9P2G3","Abitibi—Baie-James—Nunavik—Eeyou","Val-d'or","QC",-77.770196,48.095273,"2010",TRUE,24046,24046
+"Bloc","Abitibi—Baie-James—Nunavik—Eeyou","2010-06-04",60,"André Levesque","J0Y2M0","Abitibi—Baie-James—Nunavik—Eeyou","Senneterre","QC",-77.240161,48.389528,"2010",TRUE,24046,24046
 "Bloc","Abitibi—Baie-James—Nunavik—Eeyou","2010-06-04",30,"Renaud Martel","J9P2G3","Abitibi—Baie-James—Nunavik—Eeyou","Val-d'or","QC",-77.770196,48.095273,"2010",TRUE,24046,24046
+"Bloc","Abitibi—Baie-James—Nunavik—Eeyou","2010-06-04",10,"Renaud Martel","J9P2G3","Abitibi—Baie-James—Nunavik—Eeyou","Val-d'or","QC",-77.770196,48.095273,"2010",TRUE,24046,24046
 "Bloc","Abitibi—Baie-James—Nunavik—Eeyou","2010-06-04",100,"Hélène Leclerc","J9P3C4","Abitibi—Baie-James—Nunavik—Eeyou","Val-d'or","QC",-77.778706,48.098471,"2010",TRUE,24046,24046
 "Bloc","Abitibi—Baie-James—Nunavik—Eeyou","2010-06-04",120,"Hélène Leclerc","J9P3C4","Abitibi—Baie-James—Nunavik—Eeyou","Val-d'or","QC",-77.778706,48.098471,"2010",TRUE,24046,24046
 "Bloc","Abitibi—Baie-James—Nunavik—Eeyou","2010-06-04",30,"Jean-paul Bordeleau","J9P4E5","Abitibi—Baie-James—Nunavik—Eeyou","Val-d'or","QC",-77.798995,48.103829,"2010",TRUE,24046,24046
@@ -906,8 +906,8 @@
 "Bloc","Abitibi—Baie-James—Nunavik—Eeyou","2010-06-04",60,"Christine Boileau","J9P4Z5","Abitibi—Baie-James—Nunavik—Eeyou","Val-d'or","QC",-77.785399,48.121136,"2010",TRUE,24046,24046
 "Bloc","Abitibi—Baie-James—Nunavik—Eeyou","2010-06-04",20,"Christian St-onge","J9P6G1","Abitibi—Baie-James—Nunavik—Eeyou","Val-d'or","QC",-77.779173,48.12515,"2010",TRUE,24046,24046
 "Bloc","Abitibi—Baie-James—Nunavik—Eeyou","2010-06-04",120,"Christian St-onge","J9P6G1","Abitibi—Baie-James—Nunavik—Eeyou","Val-d'or","QC",-77.779173,48.12515,"2010",TRUE,24046,24046
-"Bloc","Abitibi—Baie-James—Nunavik—Eeyou","2010-06-04",30,"Michel Cloutier","J9P6G7","Abitibi—Baie-James—Nunavik—Eeyou","Val-d'or","QC",-77.816194,48.08797,"2010",TRUE,24046,24046
 "Bloc","Abitibi—Baie-James—Nunavik—Eeyou","2010-06-04",20,"Michel Cloutier","J9P6G7","Abitibi—Baie-James—Nunavik—Eeyou","Val-d'or","QC",-77.816194,48.08797,"2010",TRUE,24046,24046
+"Bloc","Abitibi—Baie-James—Nunavik—Eeyou","2010-06-04",30,"Michel Cloutier","J9P6G7","Abitibi—Baie-James—Nunavik—Eeyou","Val-d'or","QC",-77.816194,48.08797,"2010",TRUE,24046,24046
 "Bloc","Compton—Stanstead","2010-06-06",400,"Mariette Mf Fugère","J1E2H8","Sherbrooke","Sherbrooke","QC",-71.892941,45.413476,"2010",TRUE,24017,24070
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2010-06-07",400,"Marcel Mf Fafard","J3P5N3","Bas-Richelieu—Nicolet—Bécancour","Sainte-anne-de-sorel","QC",-73.059998,46.042327,"2010",TRUE,24054,24054
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2010-06-07",195,"Charles Cb Beauchemin","J3T1J7","Bas-Richelieu—Nicolet—Bécancour","Nicolet","QC",-72.598101,46.231817,"2010",TRUE,24054,24054
@@ -943,8 +943,8 @@
 "Bloc","Mégantic—L'Érable","2010-06-15",40,"Sylvain Sl Labrecque","G0Y1M0","Mégantic—L'Érable","Saint-sebastien","QC",-70.984137,45.780038,"2010",TRUE,24042,24042
 "Bloc","Abitibi—Baie-James—Nunavik—Eeyou","2010-06-15",400,"Jean-eudes Bolduc","G8P2G3","Abitibi—Baie-James—Nunavik—Eeyou","Chibougamau","QC",-74.370822,49.917397,"2010",TRUE,24046,24046
 "Bloc","Argenteuil—Papineau—Mirabel","2010-06-15",60,"Linda Bourgeois","J7J1H2","Argenteuil—Papineau—Mirabel","Mirabel","QC",-73.914434,45.700393,"2010",TRUE,24004,24004
-"Bloc","Argenteuil—Papineau—Mirabel","2010-06-15",5,"Diane Champagne-larocque","J8H1B1","Argenteuil—Papineau—Mirabel","Lachute","QC",-74.339832,45.644925,"2010",TRUE,24004,24004
 "Bloc","Argenteuil—Papineau—Mirabel","2010-06-15",5,"Jean-guy Larocque","J8H1B1","Argenteuil—Papineau—Mirabel","Lachute","QC",-74.339832,45.644925,"2010",TRUE,24004,24004
+"Bloc","Argenteuil—Papineau—Mirabel","2010-06-15",5,"Diane Champagne-larocque","J8H1B1","Argenteuil—Papineau—Mirabel","Lachute","QC",-74.339832,45.644925,"2010",TRUE,24004,24004
 "Bloc",NA,"2010-06-15",20,"Raymond Turcotte","G1H1L8","Charlesbourg—Haute-Saint-Charles","Charlesbourg","QC",-71.260715,46.858455,"2010",FALSE,NA,24013
 "Bloc",NA,"2010-06-15",40.5,"Louis Campagna","G1K9G4","Québec","Québec","QC",-71.243237,46.810781,"2010",FALSE,NA,24052
 "Bloc",NA,"2010-06-15",35,"Alain Marcoux","G1V1L7","Louis-Hébert","Sainte-foy","QC",-71.302889,46.774501,"2010",FALSE,NA,24037
@@ -1000,8 +1000,8 @@
 "Bloc",NA,"2010-06-23",120,"Patrick Marais","J4J1B9","Longueuil—Pierre-Boucher","Longueuil","QC",-73.487808,45.542799,"2010",FALSE,NA,24035
 "Bloc",NA,"2010-06-23",400,"Jacqueline-claire Binette","J7V6G4","Vaudreuil-Soulanges","Pincourt","QC",-73.986553,45.373466,"2010",FALSE,NA,24073
 "Bloc",NA,"2010-06-23",5,"Bruno Tousignant","J9A1S8","Hull—Aylmer","Gatineau","QC",-75.759753,45.418947,"2010",FALSE,NA,24023
-"Bloc","Abitibi—Témiscamingue","2010-06-24",400,"Nicole Maheux","J0Z3L0","Abitibi—Témiscamingue","Saint-eugene-de-guigues","QC",-79.345916,47.513091,"2010",TRUE,24001,24001
 "Bloc","Abitibi—Témiscamingue","2010-06-24",400,"Jean-luc Baril","J0Z3L0","Abitibi—Témiscamingue","Saint-eugene-de-guigues","QC",-79.345916,47.513091,"2010",TRUE,24001,24001
+"Bloc","Abitibi—Témiscamingue","2010-06-24",400,"Nicole Maheux","J0Z3L0","Abitibi—Témiscamingue","Saint-eugene-de-guigues","QC",-79.345916,47.513091,"2010",TRUE,24001,24001
 "Bloc","Abitibi—Témiscamingue","2010-06-24",400,"Charles Cloutier","J9X1W3","Abitibi—Témiscamingue","Rouyn-noranda","QC",-79.015796,48.244895,"2010",TRUE,24001,24001
 "Bloc","Drummond","2010-06-26",600,"André Prévost","H1Y2B8","Rosemont—La Petite-Patrie","Montréal","QC",-73.568502,45.545536,"2010",TRUE,24018,24061
 "Bloc",NA,"2010-06-28",1000,"Andrée Boisvert","J8Z3K5","Hull—Aylmer","Gatineau","QC",-75.757529,45.472839,"2010",FALSE,NA,24023
@@ -1184,19 +1184,19 @@
 "Bloc",NA,"2010-08-18",400,"Christian Marier-pilon","H2L5C8","Laurier—Sainte-Marie","Montréal","QC",-73.565759,45.497519,"2010",FALSE,NA,24031
 "Bloc","Rosemont—La Petite-Patrie","2010-08-19",300,"François Fp Poirier","H1Y3C3","Rosemont—La Petite-Patrie","Montréal","QC",-73.589013,45.549068,"2010",TRUE,24061,24061
 "Bloc",NA,"2010-08-19",400,"Joseph Pellerin","H2M2R3","Ahuntsic","Montréal","QC",-73.66162,45.532954,"2010",FALSE,NA,24002
+"Bloc","Argenteuil—Papineau—Mirabel","2010-08-20",1000,"Cécile-marthe Lacelle","J0V1B0","Argenteuil—Papineau—Mirabel","Grenville-sur-la-rouge","QC",-74.643887,45.656934,"2010",TRUE,24004,24004
 "Bloc","Argenteuil—Papineau—Mirabel","2010-08-20",640,"Roland Saumure","J0V1B0","Argenteuil—Papineau—Mirabel","Grenville-sur-la-rouge","QC",-74.643887,45.656934,"2010",TRUE,24004,24004
 "Bloc","Argenteuil—Papineau—Mirabel","2010-08-20",70,"Gilles Drouin","J0V1B0","Argenteuil—Papineau—Mirabel","Grenville-sur-la-rouge","QC",-74.643887,45.656934,"2010",TRUE,24004,24004
 "Bloc","Argenteuil—Papineau—Mirabel","2010-08-20",70,"Gilles Drouin","J0V1B0","Argenteuil—Papineau—Mirabel","Grenville-sur-la-rouge","QC",-74.643887,45.656934,"2010",TRUE,24004,24004
-"Bloc","Argenteuil—Papineau—Mirabel","2010-08-20",1000,"Cécile-marthe Lacelle","J0V1B0","Argenteuil—Papineau—Mirabel","Grenville-sur-la-rouge","QC",-74.643887,45.656934,"2010",TRUE,24004,24004
 "Bloc","Argenteuil—Papineau—Mirabel","2010-08-20",100,"Jean-paul Descoeurs","J0V1L0","Argenteuil—Papineau—Mirabel","Montebello","QC",-74.940531,45.653074,"2010",TRUE,24004,24004
 "Bloc","Argenteuil—Papineau—Mirabel","2010-08-20",100,"Linda Bourgeois","J7J1H2","Argenteuil—Papineau—Mirabel","Mirabel","QC",-73.914434,45.700393,"2010",TRUE,24004,24004
-"Bloc","Argenteuil—Papineau—Mirabel","2010-08-20",70,"Pierre-paul Meloche","J7N2M8","Argenteuil—Papineau—Mirabel","Mirabel","QC",-74.040208,45.58466,"2010",TRUE,24004,24004
 "Bloc","Argenteuil—Papineau—Mirabel","2010-08-20",40,"Pierre-paul Meloche","J7N2M8","Argenteuil—Papineau—Mirabel","Mirabel","QC",-74.040208,45.58466,"2010",TRUE,24004,24004
+"Bloc","Argenteuil—Papineau—Mirabel","2010-08-20",70,"Pierre-paul Meloche","J7N2M8","Argenteuil—Papineau—Mirabel","Mirabel","QC",-74.040208,45.58466,"2010",TRUE,24004,24004
 "Bloc","Argenteuil—Papineau—Mirabel","2010-08-20",280,"Benoit Brunet","J0R1T0","Rivière-du-Nord","Saint-jérôme","QC",-74.056697,45.859687,"2010",TRUE,24004,24059
 "Bloc","Argenteuil—Papineau—Mirabel","2010-08-20",280,"Benoit Therrien","J5K1M3","Rivière-du-Nord","Saint-colomban","QC",-74.088209,45.757376,"2010",TRUE,24004,24059
 "Bloc","Repentigny","2010-08-20",160,"Jonathan Laporte","J7K0J9","Montcalm","Mascouche","QC",-73.628688,45.728108,"2010",TRUE,24053,24043
-"Bloc","Argenteuil—Papineau—Mirabel","2010-08-20",140,"Serge Auger","J8C2Z8","Laurentides—Labelle","Sainte-agathe-des-monts","QC",-74.304973,46.075136,"2010",TRUE,24004,24030
 "Bloc","Argenteuil—Papineau—Mirabel","2010-08-20",100,"Serge Auger","J8C2Z8","Laurentides—Labelle","Sainte-agathe-des-monts","QC",-74.304973,46.075136,"2010",TRUE,24004,24030
+"Bloc","Argenteuil—Papineau—Mirabel","2010-08-20",140,"Serge Auger","J8C2Z8","Laurentides—Labelle","Sainte-agathe-des-monts","QC",-74.304973,46.075136,"2010",TRUE,24004,24030
 "Bloc",NA,"2010-08-22",400,"Guillaume Paquet","J2K4L3","Brome—Missisquoi","Brigham","QC",-72.838486,45.24434,"2010",FALSE,NA,24010
 "Bloc","Chicoutimi—Le Fjord","2010-08-23",230,"Denise Villeneuve","G0V1L0","Chicoutimi—Le Fjord","Chicoutimi","QC",-71.075238,48.518652,"2010",TRUE,24016,24016
 "Bloc","Argenteuil—Papineau—Mirabel","2010-08-23",300,"Steve Charbonneau","J7N1K7","Argenteuil—Papineau—Mirabel","Mirabel","QC",-74.091898,45.708005,"2010",TRUE,24004,24004
@@ -1250,8 +1250,8 @@
 "Bloc","Saint-Maurice—Champlain","2010-09-03",200,"Jean-yves Laforest","G9P4Y4","Saint-Maurice—Champlain","Shawinigan-sud","QC",-72.735493,46.528347,"2010",TRUE,24068,24068
 "Bloc","Saint-Maurice—Champlain","2010-09-03",100,"Micheline Tremblay","G9T3E8","Saint-Maurice—Champlain","Lemoyne","QC",-72.665598,46.621368,"2010",TRUE,24068,24068
 "Bloc","Saint-Maurice—Champlain","2010-09-03",100,"Jean-guy Perron","G9T3E8","Saint-Maurice—Champlain","Lemoyne","QC",-72.665598,46.621368,"2010",TRUE,24068,24068
-"Bloc","Saint-Maurice—Champlain","2010-09-03",100,"Julien Tremblay","G9X2V4","Saint-Maurice—Champlain","La Tuque","QC",-72.781874,47.434116,"2010",TRUE,24068,24068
 "Bloc","Saint-Maurice—Champlain","2010-09-03",100,"Angèle Lefebvre","G9X2V4","Saint-Maurice—Champlain","La Tuque","QC",-72.781874,47.434116,"2010",TRUE,24068,24068
+"Bloc","Saint-Maurice—Champlain","2010-09-03",100,"Julien Tremblay","G9X2V4","Saint-Maurice—Champlain","La Tuque","QC",-72.781874,47.434116,"2010",TRUE,24068,24068
 "Bloc",NA,"2010-09-04",400,"Mario Fafard","G3A1C6","Portneuf—Jacques-Cartier","Saint-augustin-de-desmaures","QC",-71.383135,46.747664,"2010",FALSE,NA,24051
 "Bloc","Brome—Missisquoi","2010-09-07",20,"Maurice Rancourt","J1X4P3","Brome—Missisquoi","Magog","QC",-72.153075,45.255401,"2010",TRUE,24010,24010
 "Bloc","Laurier—Sainte-Marie","2010-09-07",1100,"Gilles Duceppe","H1Y3M6","Rosemont—La Petite-Patrie","Montréal","QC",-73.565617,45.546683,"2010",TRUE,24031,24061
@@ -1342,8 +1342,8 @@
 "Bloc",NA,"2010-09-17",400,"Anne Bouchard","J8R2K5","Gatineau","Gatineau","QC",-75.651057,45.50844,"2010",FALSE,NA,24020
 "Bloc","Richmond—Arthabaska","2010-09-18",202,"André Ag Guillemette","G6R0T7","Richmond—Arthabaska","Victoriaville","QC",-71.937979,46.014399,"2010",TRUE,24055,24055
 "Bloc","Saint-Maurice—Champlain","2010-09-18",100,"Damien St-louis","G9X3N6","Saint-Maurice—Champlain","La Tuque","QC",-72.731227,47.472378,"2010",TRUE,24068,24068
-"Bloc","Abitibi—Témiscamingue","2010-09-19",900,"Onil Arcand","J0Z1B0","Abitibi—Témiscamingue","Rouyn-noranda","QC",-79.308381,48.181652,"2010",TRUE,24001,24001
 "Bloc","Abitibi—Témiscamingue","2010-09-19",919,"Claude Fortin","J0Z1B0","Abitibi—Témiscamingue","Rouyn-noranda","QC",-79.308381,48.181652,"2010",TRUE,24001,24001
+"Bloc","Abitibi—Témiscamingue","2010-09-19",900,"Onil Arcand","J0Z1B0","Abitibi—Témiscamingue","Rouyn-noranda","QC",-79.308381,48.181652,"2010",TRUE,24001,24001
 "Bloc","Haute-Gaspésie—La Mitis—Matane—Matapédia","2010-09-20",400,"André Gagnon","G0J1M0","Haute-Gaspésie—La Mitis—Matane—Matapédia","Lac-au-saumon","QC",-67.348935,48.423253,"2010",TRUE,24041,24041
 "Bloc","Haute-Gaspésie—La Mitis—Matane—Matapédia","2010-09-20",400,"Jocelyn Jb Bérubé","G0J1M0","Haute-Gaspésie—La Mitis—Matane—Matapédia","Lac-au-saumon","QC",-67.348935,48.423253,"2010",TRUE,24041,24041
 "Bloc","Montcalm","2010-09-20",330,"Jean-paul Diamond","J0K2T0","Montcalm","Sainte-julienne","QC",-73.724574,45.968217,"2010",TRUE,24043,24043
@@ -1378,8 +1378,8 @@
 "Bloc","Québec","2010-09-26",250,"Noel Gagnon","G1K8N5","Québec","Québec","QC",-71.214912,46.816526,"2010",TRUE,24052,24052
 "Bloc","Trois-Rivières","2010-09-26",90,"Richard Rt Tremblay","G8Z4E4","Trois-Rivières","Trois-rivières","QC",-72.563636,46.354728,"2010",TRUE,24072,24072
 "Bloc","Roberval—Lac-Saint-Jean","2010-09-27",300,"Serge Taillon","G8H1A2","Roberval—Lac-Saint-Jean","Roberval","QC",-72.218458,48.501411,"2010",TRUE,24060,24060
-"Bloc","Saint-Lambert","2010-09-27",400,"Louise Tremblay","J4P3C4","Saint-Lambert","Saint-lambert","QC",-73.510698,45.512561,"2010",TRUE,24065,24065
 "Bloc","Saint-Lambert","2010-09-27",300,"Pierre Jeanneau","J4P3C4","Saint-Lambert","Saint-lambert","QC",-73.510698,45.512561,"2010",TRUE,24065,24065
+"Bloc","Saint-Lambert","2010-09-27",400,"Louise Tremblay","J4P3C4","Saint-Lambert","Saint-lambert","QC",-73.510698,45.512561,"2010",TRUE,24065,24065
 "Bloc",NA,"2010-09-27",150,"Robert Lavigne","H7G4W9","Alfred-Pellan","Laval","QC",-73.664681,45.582982,"2010",FALSE,NA,24003
 "Bloc",NA,"2010-09-27",100,"Pierre Foucault","H8N1Z9","LaSalle—Émard","Lasalle","QC",-73.625211,45.433128,"2010",FALSE,NA,24029
 "Bloc","Shefford","2010-09-28",400,"Marcel Labelle","J0E2G0","Shefford","Waterloo","QC",-72.519583,45.431959,"2010",TRUE,24069,24069
@@ -1457,8 +1457,8 @@
 "Bloc","Berthier—Maskinongé","2010-10-01",220,"Alain Deschesnes","G9B7C4","Berthier—Maskinongé","Trois-rivières","QC",-72.646839,46.302492,"2010",TRUE,24008,24008
 "Bloc","Montcalm","2010-10-01",220,"Pierrette Loyer","J0K1C0","Montcalm","Sainte-marcelline-de-kildare","QC",-73.535997,46.076732,"2010",TRUE,24043,24043
 "Bloc","Berthier—Maskinongé","2010-10-01",405,"Jules Bourque","J0K1L0","Berthier—Maskinongé","Mandeville","QC",-73.359854,46.358346,"2010",TRUE,24008,24008
-"Bloc","Montcalm","2010-10-01",105,"Louise Papineau","J0K1Z0","Montcalm","Lac-lapierre","QC",-73.860549,45.950228,"2010",TRUE,24043,24043
 "Bloc","Montcalm","2010-10-01",220,"Pierre Robidoux","J0K1Z0","Montcalm","Lac-lapierre","QC",-73.860549,45.950228,"2010",TRUE,24043,24043
+"Bloc","Montcalm","2010-10-01",105,"Louise Papineau","J0K1Z0","Montcalm","Lac-lapierre","QC",-73.860549,45.950228,"2010",TRUE,24043,24043
 "Bloc","Berthier—Maskinongé","2010-10-01",260,"Louis Trudeau","J0K2N0","Berthier—Maskinongé","Saint-gabriel","QC",-73.386199,46.295985,"2010",TRUE,24008,24008
 "Bloc","Compton—Stanstead","2010-10-01",400,"Daniel Dc Charron","J1H6C2","Compton—Stanstead","Ascot","QC",-71.888001,45.370435,"2010",TRUE,24017,24017
 "Bloc","Argenteuil—Papineau—Mirabel","2010-10-01",300,"Maurice Dumas","J7N1H7","Argenteuil—Papineau—Mirabel","Mirabel","QC",-74.091773,45.71576,"2010",TRUE,24004,24004
@@ -1513,10 +1513,10 @@
 "Bloc","Montcalm","2010-10-03",220,"Claude Desjardins","J7E2E2","Marc-Aurèle-Fortin","Sainte-thérèse","QC",-73.834155,45.651739,"2010",TRUE,24043,24040
 "Bloc","Montcalm","2010-10-03",110,"Germaine Lauzon","J7P5E7","Rivière-des-Mille-Îles","Saint-eustache","QC",-73.882034,45.570077,"2010",TRUE,24043,24057
 "Bloc","Haute-Gaspésie—La Mitis—Matane—Matapédia","2010-10-04",400,"Réjean Rl Landry","G5J1R9","Haute-Gaspésie—La Mitis—Matane—Matapédia","Amqui","QC",-67.427047,48.464226,"2010",TRUE,24041,24041
+"Bloc","Gatineau","2010-10-04",135,"Marcel Mr Rocheleau","J8P2L9","Gatineau","Gatineau","QC",-75.654277,45.49803,"2010",TRUE,24020,24020
 "Bloc","Gatineau","2010-10-04",100,"Claudette Rocheleau","J8P2L9","Gatineau","Gatineau","QC",-75.654277,45.49803,"2010",TRUE,24020,24020
 "Bloc","Gatineau","2010-10-04",135,"Claudette Rocheleau","J8P2L9","Gatineau","Gatineau","QC",-75.654277,45.49803,"2010",TRUE,24020,24020
 "Bloc","Gatineau","2010-10-04",100,"Marcel Mr Rocheleau","J8P2L9","Gatineau","Gatineau","QC",-75.654277,45.49803,"2010",TRUE,24020,24020
-"Bloc","Gatineau","2010-10-04",135,"Marcel Mr Rocheleau","J8P2L9","Gatineau","Gatineau","QC",-75.654277,45.49803,"2010",TRUE,24020,24020
 "Bloc",NA,"2010-10-04",100,"Normand Balaux","G1W3S6","Louis-Hébert","Québec","QC",-71.281942,46.760138,"2010",FALSE,NA,24037
 "Bloc",NA,"2010-10-04",100,"Maurice Picard","H2C2J3","Ahuntsic","Saint-nicolas","QC",-73.670007,45.559167,"2010",FALSE,NA,24002
 "Bloc",NA,"2010-10-04",400,"Robert Maheu","H4A3B8","Westmount—Ville-Marie","Montréal","QC",-73.626104,45.478041,"2010",FALSE,NA,24075
@@ -1697,8 +1697,8 @@
 "Bloc",NA,"2010-10-18",40,"Robert Charbonneau","H3E1P3","Jeanne-Le Ber","Verdun","QC",-73.54785,45.452043,"2010",FALSE,NA,24024
 "Bloc",NA,"2010-10-18",250,"Adibas Delisle","H4E1N7","LaSalle—Émard","Montréal","QC",-73.59487,45.460304,"2010",FALSE,NA,24029
 "Bloc",NA,"2010-10-18",400,"J.-jacques Delisle","H4E1N7","LaSalle—Émard","Montréal","QC",-73.59487,45.460304,"2010",FALSE,NA,24029
-"Bloc","Drummond","2010-10-18",400,"Denise D'anjou","H7A1Z9","Alfred-Pellan","Laval","QC",-73.578505,45.67254,"2010",TRUE,24018,24003
 "Bloc","Drummond","2010-10-18",400,"Pierre Pomerleau","H7A1Z9","Alfred-Pellan","Laval","QC",-73.578505,45.67254,"2010",TRUE,24018,24003
+"Bloc","Drummond","2010-10-18",400,"Denise D'anjou","H7A1Z9","Alfred-Pellan","Laval","QC",-73.578505,45.67254,"2010",TRUE,24018,24003
 "Bloc",NA,"2010-10-18",180,"André Lamothe","H9X1K8","Lac-Saint-Louis","Sainte-anne-de-bellevue","QC",-73.949228,45.407647,"2010",FALSE,NA,24027
 "Bloc",NA,"2010-10-18",400,"Normand Labelle","J0L1N0","Chambly—Borduas","Varennes","QC",-73.297589,45.650174,"2010",FALSE,NA,24012
 "Bloc","Shefford","2010-10-18",400,"Gaston Boudreau","J1X3W4","Compton—Stanstead","Orford","QC",-72.176285,45.151008,"2010",TRUE,24069,24017
@@ -1707,8 +1707,8 @@
 "Bloc",NA,"2010-10-18",200,"Claudette Dionne","J8T8R6","Gatineau","Gatineau","QC",-75.694895,45.479703,"2010",FALSE,NA,24020
 "Bloc",NA,"2010-10-18",400,"Madeleine Paquet-laporte","J8Y5X6","Hull—Aylmer","Gatineau","QC",-75.750938,45.454954,"2010",FALSE,NA,24023
 "Bloc","Saint-Hyacinthe—Bagot","2010-10-19",150,"Étienne-alexis Boucher","J0H1V0","Saint-Hyacinthe—Bagot","Saint-nazaire-d'acton","QC",-72.6296,45.746745,"2010",TRUE,24063,24063
-"Bloc","Gatineau","2010-10-19",135,"Catherine Bourgeois","J8P7X8","Gatineau","Gatineau","QC",-75.562042,45.502394,"2010",TRUE,24020,24020
 "Bloc","Gatineau","2010-10-19",270,"Catherine Bourgeois","J8P7X8","Gatineau","Gatineau","QC",-75.562042,45.502394,"2010",TRUE,24020,24020
+"Bloc","Gatineau","2010-10-19",135,"Catherine Bourgeois","J8P7X8","Gatineau","Gatineau","QC",-75.562042,45.502394,"2010",TRUE,24020,24020
 "Bloc",NA,"2010-10-19",400,"Denis Séguin","H1E4T9","Honoré-Mercier","Montréal","QC",-73.581175,45.647433,"2010",FALSE,NA,24022
 "Bloc","Montcalm","2010-10-20",100,"Pierre Robidoux","J0K1Z0","Montcalm","Lac-lapierre","QC",-73.860549,45.950228,"2010",TRUE,24043,24043
 "Bloc","Montcalm","2010-10-20",200,"Gilles Bordonado","J7K3N8","Montcalm","Mascouche","QC",-73.592658,45.758192,"2010",TRUE,24043,24043
@@ -1842,8 +1842,8 @@
 "Bloc","Gatineau","2010-10-28",270,"Ibtisaam Abboud","K1C5X7","Ottawa—Orléans","Orléans","ON",-75.537111,45.443518,"2010",TRUE,24020,35063
 "Bloc","Gatineau","2010-10-28",270,"Michel Ma Abboud","K1C5X7","Ottawa—Orléans","Orléans","ON",-75.537111,45.443518,"2010",TRUE,24020,35063
 "Bloc","Gatineau","2010-10-28",1080,"Toufic Ts Sbeiti","K1G2Z2","Ottawa South","Ottawa","ON",-75.631965,45.391092,"2010",TRUE,24020,35064
-"Bloc","Longueuil—Pierre-Boucher","2010-10-29",400,"Danielle Bd Brousseau","J4H3G4","Longueuil—Pierre-Boucher","Longueuil","QC",-73.501918,45.535791,"2010",TRUE,24035,24035
 "Bloc","Longueuil—Pierre-Boucher","2010-10-29",400,"Michel Ml Latulippe","J4H3G4","Longueuil—Pierre-Boucher","Longueuil","QC",-73.501918,45.535791,"2010",TRUE,24035,24035
+"Bloc","Longueuil—Pierre-Boucher","2010-10-29",400,"Danielle Bd Brousseau","J4H3G4","Longueuil—Pierre-Boucher","Longueuil","QC",-73.501918,45.535791,"2010",TRUE,24035,24035
 "Bloc","Longueuil—Pierre-Boucher","2010-10-29",300,"Luce Lr Rrdrigue","J4N1R5","Longueuil—Pierre-Boucher","Longueuil","QC",-73.467154,45.539639,"2010",TRUE,24035,24035
 "Bloc",NA,"2010-10-29",300,"Ronald Raby","J0X3K0","Pontiac","Lac Des Loups","QC",-76.204114,45.692264,"2010",FALSE,NA,24050
 "Bloc","Abitibi—Témiscamingue","2010-10-31",238,"Claude Sanesac","J9X2W2","Abitibi—Témiscamingue","Rouyn-noranda","QC",-79.014779,48.236718,"2010",TRUE,24001,24001
@@ -1884,8 +1884,8 @@
 "Bloc",NA,"2010-11-01",50,"Sébastien Tessier","J8Y3R6","Hull—Aylmer","Gatineau","QC",-75.732095,45.43499,"2010",FALSE,NA,24023
 "Bloc","Gatineau","2010-11-01",270,"Jean Bernier","J8Z2A5","Hull—Aylmer","Gatineau","QC",-75.762911,45.473626,"2010",TRUE,24020,24023
 "Bloc","Verchères—Les Patriotes","2010-11-02",400,"Paul-henri Pg Gervais","J0H2G0","Verchères—Les Patriotes","St-charles-sur-richelieu","QC",-73.177229,45.672219,"2010",TRUE,24074,24074
-"Bloc","Joliette","2010-11-02",400,"Ginette Gr Robitaille","J0K2E0","Joliette","Saint-gabriel","QC",-73.51584,46.321876,"2010",TRUE,24025,24025
 "Bloc","Joliette","2010-11-02",400,"Martin Mr Robitaille","J0K2E0","Joliette","Saint-gabriel","QC",-73.51584,46.321876,"2010",TRUE,24025,24025
+"Bloc","Joliette","2010-11-02",400,"Ginette Gr Robitaille","J0K2E0","Joliette","Saint-gabriel","QC",-73.51584,46.321876,"2010",TRUE,24025,24025
 "Bloc",NA,"2010-11-02",100,"Dominique Thomassin","G1C4B5","Beauport—Limoilou","Québec","QC",-71.20254,46.884633,"2010",FALSE,NA,24007
 "Bloc",NA,"2010-11-02",400,"Alain Gravel","G1S1V8","Louis-Hébert","Québec","QC",-71.246213,46.793228,"2010",FALSE,NA,24037
 "Bloc",NA,"2010-11-02",250,"Patricia Roussel","G5H3K4","Haute-Gaspésie—La Mitis—Matane—Matapédia","Mont-joli","QC",-68.197799,48.583385,"2010",FALSE,NA,24041
@@ -1919,9 +1919,9 @@
 "Bloc",NA,"2010-11-07",400,"Jacqueline Carrier","J7V6G4","Vaudreuil-Soulanges","Pincourt","QC",-73.986553,45.373466,"2010",FALSE,NA,24073
 "Bloc","Gatineau","2010-11-08",270,"Irène In Nadeau","K6A2V2","Glengarry—Prescott—Russell","Hawkesbury","ON",-74.584366,45.605914,"2010",TRUE,24020,35025
 "Bloc","Saint-Maurice—Champlain","2010-11-09",400,"André Ac Casabon","G9N3T5","Saint-Maurice—Champlain","Shawinigan","QC",-72.7512,46.567522,"2010",TRUE,24068,24068
-"Bloc","Abitibi—Témiscamingue","2010-11-09",320,"Julie Larivière","J0Z1Y0","Abitibi—Témiscamingue","Rouyn-noranda","QC",-79.125614,48.238407,"2010",TRUE,24001,24001
 "Bloc","Abitibi—Témiscamingue","2010-11-09",320,"Marcel Coulombe","J0Z1Y0","Abitibi—Témiscamingue","Rouyn-noranda","QC",-79.125614,48.238407,"2010",TRUE,24001,24001
 "Bloc","Abitibi—Témiscamingue","2010-11-09",560,"Réjean Mantha","J0Z1Y0","Abitibi—Témiscamingue","Rouyn-noranda","QC",-79.125614,48.238407,"2010",TRUE,24001,24001
+"Bloc","Abitibi—Témiscamingue","2010-11-09",320,"Julie Larivière","J0Z1Y0","Abitibi—Témiscamingue","Rouyn-noranda","QC",-79.125614,48.238407,"2010",TRUE,24001,24001
 "Bloc","Abitibi—Témiscamingue","2010-11-09",320,"René Perreault","J0Z2L0","Abitibi—Témiscamingue","La Reine","QC",-79.50076,48.865133,"2010",TRUE,24001,24001
 "Bloc","Abitibi—Témiscamingue","2010-11-09",320,"Andre Ferland","J0Z3C0","Abitibi—Témiscamingue","Palmarolle","QC",-79.200186,48.667578,"2010",TRUE,24001,24001
 "Bloc","Abitibi—Témiscamingue","2010-11-09",320,"Olivier Duchesne","J9T1A8","Abitibi—Témiscamingue","Amos","QC",-78.10516,48.576726,"2010",TRUE,24001,24001
@@ -1959,8 +1959,8 @@
 "Bloc",NA,"2010-11-09",200,"Michel Letreiz","H2L2W9","Laurier—Sainte-Marie","Montréal","QC",-73.553235,45.520082,"2010",FALSE,NA,24031
 "Bloc",NA,"2010-11-09",300,"Camilien Corbeil","H4E1P6","Jeanne-Le Ber","Montreal","QC",-73.586835,45.459271,"2010",FALSE,NA,24024
 "Bloc",NA,"2010-11-09",400,"Annette Houle","J0H1W0","Shefford","St-pie","QC",-72.893872,45.505234,"2010",FALSE,NA,24069
-"Bloc","Trois-Rivières","2010-11-10",126,"Jean-pierre Jpc Chartier","G0X1C0","Trois-Rivières","Champlain","QC",-72.35553,46.434271,"2010",TRUE,24072,24072
 "Bloc","Trois-Rivières","2010-11-10",150,"Jean-pierre Jpc Chartier","G0X1C0","Trois-Rivières","Champlain","QC",-72.35553,46.434271,"2010",TRUE,24072,24072
+"Bloc","Trois-Rivières","2010-11-10",126,"Jean-pierre Jpc Chartier","G0X1C0","Trois-Rivières","Champlain","QC",-72.35553,46.434271,"2010",TRUE,24072,24072
 "Bloc","Louis-Saint-Laurent","2010-11-10",200,"Michel Champoux","G2A2Z5","Louis-Saint-Laurent","Québec","QC",-71.375119,46.852538,"2010",TRUE,24038,24038
 "Bloc",NA,"2010-11-10",200,"Michelle Labrie","G0A2Z0","Portneuf—Jacques-Cartier","Saint-raymond","QC",-71.88475,46.712502,"2010",FALSE,NA,24051
 "Bloc",NA,"2010-11-10",400,"Jean-julien Mercier","G1H6P5","Charlesbourg—Haute-Saint-Charles","Charlesbourg","QC",-71.257967,46.85267,"2010",FALSE,NA,24013
@@ -1976,16 +1976,16 @@
 "Bloc",NA,"2010-11-12",100,"Pierre Goulet","J8Y1J6","Hull—Aylmer","Gatineau","QC",-75.753784,45.4536,"2010",FALSE,NA,24023
 "Bloc","Abitibi—Témiscamingue","2010-11-13",320,"Éric Tremblay","J9P4R4","Abitibi—Baie-James—Nunavik—Eeyou","Val-d'or","QC",-77.802406,48.094994,"2010",TRUE,24001,24046
 "Bloc","Haute-Gaspésie—La Mitis—Matane—Matapédia","2010-11-15",400,"Gaston Gb Bergeron","G0J2L0","Haute-Gaspésie—La Mitis—Matane—Matapédia","St-jean-baptiste","QC",-68.2199,48.607147,"2010",TRUE,24041,24041
-"Bloc","Haute-Gaspésie—La Mitis—Matane—Matapédia","2010-11-15",1100,"Jean-françois Jff Fortin","G0J2L0","Haute-Gaspésie—La Mitis—Matane—Matapédia","St-jean-baptiste","QC",-68.2199,48.607147,"2010",TRUE,24041,24041
 "Bloc","Haute-Gaspésie—La Mitis—Matane—Matapédia","2010-11-15",400,"Damien Dr Ruest","G0J2L0","Haute-Gaspésie—La Mitis—Matane—Matapédia","St-jean-baptiste","QC",-68.2199,48.607147,"2010",TRUE,24041,24041
+"Bloc","Haute-Gaspésie—La Mitis—Matane—Matapédia","2010-11-15",1100,"Jean-françois Jff Fortin","G0J2L0","Haute-Gaspésie—La Mitis—Matane—Matapédia","St-jean-baptiste","QC",-68.2199,48.607147,"2010",TRUE,24041,24041
 "Bloc","Mégantic—L'Érable","2010-11-15",300,"Michel Md Desmarais","G6H1M5","Mégantic—L'Érable","Thetford Mines","QC",-71.370985,46.048801,"2010",TRUE,24042,24042
 "Bloc","Shefford","2010-11-15",400,"Michel Benoit","J2G7G9","Shefford","Granby","QC",-72.740182,45.400411,"2010",TRUE,24069,24069
 "Bloc","Shefford","2010-11-15",400,"Nicholas Bélanger","J2G8C6","Shefford","Canton De Shefford","QC",-72.725562,45.359008,"2010",TRUE,24069,24069
 "Bloc","Shefford","2010-11-15",400,"Pierre-alex Bonin","J2G8C8","Shefford","Canton-de-granby","QC",-72.790332,45.420433,"2010",TRUE,24069,24069
 "Bloc","Shefford","2010-11-15",400,"Alain Scuvée","J2G8C8","Shefford","Canton-de-granby","QC",-72.790332,45.420433,"2010",TRUE,24069,24069
 "Bloc","Shefford","2010-11-15",200,"Lionel Manseau","J2H2T3","Shefford","Granby","QC",-72.693701,45.394696,"2010",TRUE,24069,24069
-"Bloc","Shefford","2010-11-15",400,"Colette Larivière","J2H2V2","Shefford","Granby","QC",-72.732918,45.378529,"2010",TRUE,24069,24069
 "Bloc","Shefford","2010-11-15",400,"Robert Paré","J2H2V2","Shefford","Granby","QC",-72.732918,45.378529,"2010",TRUE,24069,24069
+"Bloc","Shefford","2010-11-15",400,"Colette Larivière","J2H2V2","Shefford","Granby","QC",-72.732918,45.378529,"2010",TRUE,24069,24069
 "Bloc",NA,"2010-11-15",20,"Raymond Turcotte","G1H1L8","Charlesbourg—Haute-Saint-Charles","Charlesbourg","QC",-71.260715,46.858455,"2010",FALSE,NA,24013
 "Bloc",NA,"2010-11-15",40.5,"Louis Campagna","G1K9G4","Québec","Québec","QC",-71.243237,46.810781,"2010",FALSE,NA,24052
 "Bloc",NA,"2010-11-15",25,"Pierre Mainguy","G1T2K9","Louis-Hébert","Québec","QC",-71.268894,46.775364,"2010",FALSE,NA,24037
@@ -2103,8 +2103,8 @@
 "Bloc","Drummond","2010-12-01",400,"Camylien Belhumeur","J0C1L0","Drummond","St-guillaume","QC",-72.766029,45.885104,"2010",TRUE,24018,24018
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2010-12-01",395,"André Ad Deblois","J0G1M0","Bas-Richelieu—Nicolet—Bécancour","Saint-francois-du-lac","QC",-72.834093,46.065802,"2010",TRUE,24054,24054
 "Bloc","Shefford","2010-12-01",400,"Luc Nichols","J0H1W0","Shefford","St-pie","QC",-72.893872,45.505234,"2010",TRUE,24069,24069
-"Bloc","Shefford","2010-12-01",400,"Nicole Demers","J2G8X7","Shefford","Granby","QC",-72.757058,45.395558,"2010",TRUE,24069,24069
 "Bloc","Shefford","2010-12-01",400,"Réjean Houle","J2G8X7","Shefford","Granby","QC",-72.757058,45.395558,"2010",TRUE,24069,24069
+"Bloc","Shefford","2010-12-01",400,"Nicole Demers","J2G8X7","Shefford","Granby","QC",-72.757058,45.395558,"2010",TRUE,24069,24069
 "Bloc","Shefford","2010-12-01",400,"Yvan Vincent","J2H0C8","Shefford","Granby","QC",-72.687439,45.389424,"2010",TRUE,24069,24069
 "Bloc","Shefford","2010-12-01",400,"Réal Paré","J2H1Y6","Shefford","Canton-de-granby","QC",-72.727108,45.422618,"2010",TRUE,24069,24069
 "Bloc","Shefford","2010-12-01",400,"Caroline Pilon","J2H2L9","Shefford","Canton-de-granby","QC",-72.729804,45.440768,"2010",TRUE,24069,24069
@@ -2116,9 +2116,9 @@
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2010-12-01",400,"Benoit Bm Mongeon","J3P2Z9","Bas-Richelieu—Nicolet—Bécancour","Sainte-anne-de-sorel","QC",-73.083839,46.051112,"2010",TRUE,24054,24054
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2010-12-01",395,"Marc Mj Jacques","J3P4G6","Bas-Richelieu—Nicolet—Bécancour","Sorel-tracy","QC",-73.112474,46.044149,"2010",TRUE,24054,24054
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2010-12-01",400,"Michel Md Denis","J3P4M8","Bas-Richelieu—Nicolet—Bécancour","Sorel-tracy","QC",-73.116296,46.044502,"2010",TRUE,24054,24054
+"Bloc","Bas-Richelieu—Nicolet—Bécancour","2010-12-01",400,"Reynald Rb Bergeron","J3P5N3","Bas-Richelieu—Nicolet—Bécancour","Sainte-anne-de-sorel","QC",-73.059998,46.042327,"2010",TRUE,24054,24054
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2010-12-01",400,"Claude Cc Champagne","J3P5N3","Bas-Richelieu—Nicolet—Bécancour","Sainte-anne-de-sorel","QC",-73.059998,46.042327,"2010",TRUE,24054,24054
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2010-12-01",400,"Keven Kh Hébert","J3P5N3","Bas-Richelieu—Nicolet—Bécancour","Sainte-anne-de-sorel","QC",-73.059998,46.042327,"2010",TRUE,24054,24054
-"Bloc","Bas-Richelieu—Nicolet—Bécancour","2010-12-01",400,"Reynald Rb Bergeron","J3P5N3","Bas-Richelieu—Nicolet—Bécancour","Sainte-anne-de-sorel","QC",-73.059998,46.042327,"2010",TRUE,24054,24054
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2010-12-01",400,"Jean Jc Cournoyer","J3P7Z8","Bas-Richelieu—Nicolet—Bécancour","Sorel","QC",-73.130483,46.024637,"2010",TRUE,24054,24054
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2010-12-01",395,"Claude Cg Guévremont","J3R5E8","Bas-Richelieu—Nicolet—Bécancour","Tracy","QC",-73.14851,45.985225,"2010",TRUE,24054,24054
 "Bloc","Repentigny","2010-12-01",400,"Jean-pierre Coutu","J6A5P5","Repentigny","Repentigny","QC",-73.470932,45.744254,"2010",TRUE,24053,24053
@@ -2169,8 +2169,8 @@
 "Bloc",NA,"2010-12-04",100,"Marie-ève Therriault","J8X3N8","Hull—Aylmer","Gatineau","QC",-75.712108,45.436036,"2010",FALSE,NA,24023
 "Bloc","Argenteuil—Papineau—Mirabel","2010-12-05",18,"Linda Bourgeois","J7J1H2","Argenteuil—Papineau—Mirabel","Mirabel","QC",-73.914434,45.700393,"2010",TRUE,24004,24004
 "Bloc","Argenteuil—Papineau—Mirabel","2010-12-05",20,"Maurice Dumas","J7N1H7","Argenteuil—Papineau—Mirabel","Mirabel","QC",-74.091773,45.71576,"2010",TRUE,24004,24004
-"Bloc","Argenteuil—Papineau—Mirabel","2010-12-05",400,"Jean-guy Larocque","J8H1B1","Argenteuil—Papineau—Mirabel","Lachute","QC",-74.339832,45.644925,"2010",TRUE,24004,24004
 "Bloc","Argenteuil—Papineau—Mirabel","2010-12-05",400,"Diane Champagne-larocque","J8H1B1","Argenteuil—Papineau—Mirabel","Lachute","QC",-74.339832,45.644925,"2010",TRUE,24004,24004
+"Bloc","Argenteuil—Papineau—Mirabel","2010-12-05",400,"Jean-guy Larocque","J8H1B1","Argenteuil—Papineau—Mirabel","Lachute","QC",-74.339832,45.644925,"2010",TRUE,24004,24004
 "Bloc","Argenteuil—Papineau—Mirabel","2010-12-05",9,"Jean-guy Larocque","J8H1B1","Argenteuil—Papineau—Mirabel","Lachute","QC",-74.339832,45.644925,"2010",TRUE,24004,24004
 "Bloc","Argenteuil—Papineau—Mirabel","2010-12-05",9,"Lysanne Desrosiers","J8H3P7","Argenteuil—Papineau—Mirabel","Lachute","QC",-74.35366,45.649773,"2010",TRUE,24004,24004
 "Bloc","Gatineau","2010-12-05",270,"Myriam Mn Gendron-nadeau","J8Y1X5","Hull—Aylmer","Hull","QC",-75.738773,45.442864,"2010",TRUE,24020,24023
@@ -2189,8 +2189,8 @@
 "Bloc",NA,"2010-12-07",340,"Yvon Desroches","J4Z3C2","Brossard—La Prairie","Brossard","QC",-73.457903,45.479884,"2010",FALSE,NA,24011
 "Bloc",NA,"2010-12-07",400,"Luc Rochefort","J8Y2J3","Hull—Aylmer","Gatineau","QC",-75.73421,45.438808,"2010",FALSE,NA,24023
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2010-12-08",400,"Mario Md Dodge","J0G1T0","Bas-Richelieu—Nicolet—Bécancour","Sainte-victoire-de-sorel","QC",-73.110303,45.963962,"2010",TRUE,24054,24054
-"Bloc","Bas-Richelieu—Nicolet—Bécancour","2010-12-08",395,"Claude Cp Pothier","J0L2M0","Bas-Richelieu—Nicolet—Bécancour","Saint-roch-de-richelieu","QC",-73.160605,45.892328,"2010",TRUE,24054,24054
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2010-12-08",395,"Normand Nj Jacques","J0L2M0","Bas-Richelieu—Nicolet—Bécancour","Saint-roch-de-richelieu","QC",-73.160605,45.892328,"2010",TRUE,24054,24054
+"Bloc","Bas-Richelieu—Nicolet—Bécancour","2010-12-08",395,"Claude Cp Pothier","J0L2M0","Bas-Richelieu—Nicolet—Bécancour","Saint-roch-de-richelieu","QC",-73.160605,45.892328,"2010",TRUE,24054,24054
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2010-12-08",400,"Marco Ml Lavallée","J3P1M5","Bas-Richelieu—Nicolet—Bécancour","Sorel-tracy","QC",-73.104132,46.04427,"2010",TRUE,24054,24054
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2010-12-08",400,"Serge Sd Desjardins","J3P5W3","Bas-Richelieu—Nicolet—Bécancour","Sorel","QC",-73.101289,46.02665,"2010",TRUE,24054,24054
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2010-12-08",395,"Serge Sp Péloquin","J3P7B5","Bas-Richelieu—Nicolet—Bécancour","Sorel-tracy","QC",-73.121392,46.013233,"2010",TRUE,24054,24054
@@ -2217,8 +2217,8 @@
 "Bloc","Repentigny","2010-12-09",325,"Normand Grenier","J5Z1Z9","Repentigny","Charlemagne","QC",-73.485422,45.728483,"2010",TRUE,24053,24053
 "Bloc","Repentigny","2010-12-09",400,"Nancy Gaudreault","J5Z5E8","Repentigny","Le Gardeur","QC",-73.466458,45.776117,"2010",TRUE,24053,24053
 "Bloc","Repentigny","2010-12-09",200,"Daniel Tessier","J6A1L2","Repentigny","Repentigny","QC",-73.469561,45.731048,"2010",TRUE,24053,24053
-"Bloc","Repentigny","2010-12-09",200,"Michel Racette","J6A3V4","Repentigny","Repentigny","QC",-73.460606,45.727486,"2010",TRUE,24053,24053
 "Bloc","Repentigny","2010-12-09",200,"Arthur Dubé","J6A3V4","Repentigny","Repentigny","QC",-73.460606,45.727486,"2010",TRUE,24053,24053
+"Bloc","Repentigny","2010-12-09",200,"Michel Racette","J6A3V4","Repentigny","Repentigny","QC",-73.460606,45.727486,"2010",TRUE,24053,24053
 "Bloc","Repentigny","2010-12-09",200,"Raymond Hénault","J6A4M4","Repentigny","Repentigny","QC",-73.450414,45.737357,"2010",TRUE,24053,24053
 "Bloc","Repentigny","2010-12-09",200,"René Asselin","J6A5K9","Repentigny","Repentigny","QC",-73.440054,45.761002,"2010",TRUE,24053,24053
 "Bloc","Repentigny","2010-12-09",200,"Jacinthe Amireault","J6A7S1","Repentigny","Repentigny","QC",-73.456378,45.758373,"2010",TRUE,24053,24053
@@ -2262,8 +2262,8 @@
 "Bloc",NA,"2010-12-13",300,"Lucette Berger","J0L2M0","Verchères—Les Patriotes","Saint-roch-de-richelieu","QC",-73.160605,45.892328,"2010",FALSE,NA,24074
 "Bloc",NA,"2010-12-13",300,"Alain Clément","J2S8M1","Saint-Hyacinthe—Bagot","Saint-hyacinthe","QC",-72.983539,45.604565,"2010",FALSE,NA,24063
 "Bloc",NA,"2010-12-13",250,"Georges Coulombe","J3B6W5","Saint-Jean","Saint-jean-sur-richelieu","QC",-73.25448,45.313451,"2010",FALSE,NA,24064
-"Bloc","Marc-Aurèle-Fortin","2010-12-13",400,"Christine Truesdell","J4R1K9","Saint-Lambert","Saint-lambert","QC",-73.498121,45.487744,"2010",TRUE,24040,24065
 "Bloc","Marc-Aurèle-Fortin","2010-12-13",975,"Serge Ménard","J4R1K9","Saint-Lambert","Saint-lambert","QC",-73.498121,45.487744,"2010",TRUE,24040,24065
+"Bloc","Marc-Aurèle-Fortin","2010-12-13",400,"Christine Truesdell","J4R1K9","Saint-Lambert","Saint-lambert","QC",-73.498121,45.487744,"2010",TRUE,24040,24065
 "Bloc",NA,"2010-12-14",400,"Serge Joseph","G0J1Z0","Haute-Gaspésie—La Mitis—Matane—Matapédia","Price","QC",-68.124344,48.602784,"2010",FALSE,NA,24041
 "Bloc",NA,"2010-12-14",400,"Michel Boivin","G0R1E0","Lévis—Bellechasse","Berthier-sur-mer","QC",-70.734967,46.925096,"2010",FALSE,NA,24034
 "Bloc",NA,"2010-12-14",300,"Jeanne Bouchard","G7X3Z2","Jonquière—Alma","Jonquière","QC",-71.261772,48.40503,"2010",FALSE,NA,24026
@@ -2485,8 +2485,8 @@
 "Bloc",NA,"2010-12-30",400,"Solange Lamarche","J5R2W4","Brossard—La Prairie","La Prairie","QC",-73.495353,45.411698,"2010",FALSE,NA,24011
 "Bloc",NA,"2010-12-30",300,"Stéphane Gobeil","J8V3B2","Pontiac","Cantley","QC",-75.846315,45.60093,"2010",FALSE,NA,24050
 "Bloc","Montmorency—Charlevoix—Haute-Côte-Nord","2010-12-31",271,"Suzanne Bédard","G0A1H0","Montmorency—Charlevoix—Haute-Côte-Nord","Boischatel","QC",-71.146445,46.90183,"2010",TRUE,24014,24014
-"Bloc","Montmorency—Charlevoix—Haute-Côte-Nord","2010-12-31",448,"Jacques Nadeau","G0A1H0","Montmorency—Charlevoix—Haute-Côte-Nord","Boischatel","QC",-71.146445,46.90183,"2010",TRUE,24014,24014
 "Bloc","Montmorency—Charlevoix—Haute-Côte-Nord","2010-12-31",300,"Jean-g. Lefrançois","G0A1H0","Montmorency—Charlevoix—Haute-Côte-Nord","Boischatel","QC",-71.146445,46.90183,"2010",TRUE,24014,24014
+"Bloc","Montmorency—Charlevoix—Haute-Côte-Nord","2010-12-31",448,"Jacques Nadeau","G0A1H0","Montmorency—Charlevoix—Haute-Côte-Nord","Boischatel","QC",-71.146445,46.90183,"2010",TRUE,24014,24014
 "Bloc","Montmorency—Charlevoix—Haute-Côte-Nord","2010-12-31",496,"Lise Savard","G0A2M0","Montmorency—Charlevoix—Haute-Côte-Nord","Les Éboulements","QC",-70.329039,47.479083,"2010",TRUE,24014,24014
 "Bloc","Montmorency—Charlevoix—Haute-Côte-Nord","2010-12-31",400,"Philippe Naud","G0A2M0","Montmorency—Charlevoix—Haute-Côte-Nord","Les Éboulements","QC",-70.329039,47.479083,"2010",TRUE,24014,24014
 "Bloc","Montmorency—Charlevoix—Haute-Côte-Nord","2010-12-31",235,"Yves Racette","G1C5S4","Montmorency—Charlevoix—Haute-Côte-Nord","Québec","QC",-71.171271,46.88537,"2010",TRUE,24014,24014
@@ -2504,18 +2504,18 @@
 "Bloc","Hochelaga","2010-12-31",250,"Daniel Duranleau","H1W3Z2","Hochelaga","Montréal","QC",-73.551896,45.540333,"2010",TRUE,24021,24021
 "Bloc","Alfred-Pellan","2010-12-31",400,"Jacques Parenteau","H7E2C2","Alfred-Pellan","Laval","QC",-73.685506,45.584951,"2010",TRUE,24003,24003
 "Bloc","Sherbrooke","2010-12-31",300,"Serge Sa Auray","J0B2C0","Sherbrooke","Sainte-catherine-de-hatley","QC",-71.966322,45.280553,"2010",TRUE,24070,24070
-"Bloc","Brome—Missisquoi","2010-12-31",400,"Luc Goyer","J0E1M0","Brome—Missisquoi","Cowansville","QC",-72.789736,45.132575,"2010",TRUE,24010,24010
 "Bloc","Brome—Missisquoi","2010-12-31",400,"Johanne Hébert","J0E1M0","Brome—Missisquoi","Cowansville","QC",-72.789736,45.132575,"2010",TRUE,24010,24010
 "Bloc","Brome—Missisquoi","2010-12-31",200,"Paule-ange Néron-dufour","J0E1M0","Brome—Missisquoi","Cowansville","QC",-72.789736,45.132575,"2010",TRUE,24010,24010
+"Bloc","Brome—Missisquoi","2010-12-31",400,"Luc Goyer","J0E1M0","Brome—Missisquoi","Cowansville","QC",-72.789736,45.132575,"2010",TRUE,24010,24010
 "Bloc","Brome—Missisquoi","2010-12-31",400,"Guy Richer","J0E1R0","Brome—Missisquoi","West Brome","QC",-72.511924,45.272084,"2010",TRUE,24010,24010
 "Bloc","Brome—Missisquoi","2010-12-31",400,"François Lévesqye","J0J1A0","Brome—Missisquoi","Bedford","QC",-72.983439,45.120355,"2010",TRUE,24010,24010
 "Bloc","Brome—Missisquoi","2010-12-31",380,"Éric Ferland","J0J1C0","Brome—Missisquoi","Bedford","QC",-72.822789,45.049515,"2010",TRUE,24010,24010
 "Bloc","Chambly—Borduas","2010-12-31",260,"Régis Dubois","J0L2B0","Chambly—Borduas","Saint-jean-baptiste","QC",-73.126724,45.514839,"2010",TRUE,24012,24012
 "Bloc","Rivière-du-Nord","2010-12-31",400,"Jean Vigneault","J0R1A0","Rivière-du-Nord","Bellefeuille","QC",-74.171762,45.809953,"2010",TRUE,24059,24059
 "Bloc","Rivière-du-Nord","2010-12-31",400,"Jean-claude Côté","J0R1T0","Rivière-du-Nord","Saint-jérôme","QC",-74.056697,45.859687,"2010",TRUE,24059,24059
-"Bloc","Rivière-du-Nord","2010-12-31",400,"Pierre Gagnon","J0R1T0","Rivière-du-Nord","Saint-jérôme","QC",-74.056697,45.859687,"2010",TRUE,24059,24059
 "Bloc","Rivière-du-Nord","2010-12-31",400,"Denis Vial","J0R1T0","Rivière-du-Nord","Saint-jérôme","QC",-74.056697,45.859687,"2010",TRUE,24059,24059
 "Bloc","Rivière-du-Nord","2010-12-31",1000,"Monique Guay","J0R1T0","Rivière-du-Nord","Saint-jérôme","QC",-74.056697,45.859687,"2010",TRUE,24059,24059
+"Bloc","Rivière-du-Nord","2010-12-31",400,"Pierre Gagnon","J0R1T0","Rivière-du-Nord","Saint-jérôme","QC",-74.056697,45.859687,"2010",TRUE,24059,24059
 "Bloc","Sherbrooke","2010-12-31",400,"Jacqueline Jette","J1E3V7","Sherbrooke","Sherbrooke","QC",-71.887148,45.404295,"2010",TRUE,24070,24070
 "Bloc","Sherbrooke","2010-12-31",685,"Serge Cardin","J1G1B9","Sherbrooke","Sherbrooke","QC",-71.876336,45.406832,"2010",TRUE,24070,24070
 "Bloc","Sherbrooke","2010-12-31",300,"Robert Richard","J1G2G9","Sherbrooke","Sherbrooke","QC",-71.870969,45.389882,"2010",TRUE,24070,24070
@@ -2569,8 +2569,8 @@
 "Bloc","Rivière-des-Mille-Îles","2010-12-31",400,"Zaganjori Ismet","J7P1T5","Rivière-des-Mille-Îles","Saint-eustache","QC",-73.889014,45.566831,"2010",TRUE,24057,24057
 "Bloc","Rivière-des-Mille-Îles","2010-12-31",400,"Jean Gérin-roze","J7P2G2","Rivière-des-Mille-Îles","Saint-eustache","QC",-73.900993,45.565422,"2010",TRUE,24057,24057
 "Bloc","Rivière-des-Mille-Îles","2010-12-31",400,"Jean-marie Lemyre","J7P2X8","Rivière-des-Mille-Îles","Saint-eustache","QC",-73.865211,45.57283,"2010",TRUE,24057,24057
-"Bloc","Rivière-des-Mille-Îles","2010-12-31",206.66,"Nicole Steben","J7P3K8","Rivière-des-Mille-Îles","Saint-eustache","QC",-73.855713,45.584895,"2010",TRUE,24057,24057
 "Bloc","Rivière-des-Mille-Îles","2010-12-31",256.66,"Ginette Hurtubise","J7P3K8","Rivière-des-Mille-Îles","Saint-eustache","QC",-73.855713,45.584895,"2010",TRUE,24057,24057
+"Bloc","Rivière-des-Mille-Îles","2010-12-31",206.66,"Nicole Steben","J7P3K8","Rivière-des-Mille-Îles","Saint-eustache","QC",-73.855713,45.584895,"2010",TRUE,24057,24057
 "Bloc","Rivière-des-Mille-Îles","2010-12-31",256.66,"Sylvie Pouliot","J7P3Z5","Rivière-des-Mille-Îles","Saint-eustache","QC",-73.888851,45.567741,"2010",TRUE,24057,24057
 "Bloc","Rivière-des-Mille-Îles","2010-12-31",456.66,"Michel Duranceau","J7P4Z9","Rivière-des-Mille-Îles","Saint-eustache","QC",-73.884741,45.566666,"2010",TRUE,24057,24057
 "Bloc","Rivière-du-Nord","2010-12-31",400,"Jérôme Filiatrault","J7Y2E7","Rivière-du-Nord","Saint-jerome","QC",-74.01561,45.780332,"2010",TRUE,24059,24059

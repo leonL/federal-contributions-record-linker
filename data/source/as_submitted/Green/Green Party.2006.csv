@@ -111,8 +111,8 @@
 "Green",NA,"2006-01-04",500,"Robert F. Shaw","V6H1J6","Vancouver Centre","Vancouver","BC",-123.122537,49.263082,"2006",FALSE,NA,59029
 "Green",NA,"2006-01-04",150,"Jean-michel P Toriel","V6K1B8","Vancouver Quadra","Vancouver","BC",-123.161026,49.27263,"2006",FALSE,NA,59033
 "Green","Ottawa Centre","2006-01-05",400,"Michael Casey","K1S3A1","Ottawa Centre","Ottawa","ON",-75.688226,45.390598,"2006",TRUE,35062,35062
-"Green","Simcoe North","2006-01-05",400,"Ed Abbott","L0L2E0","Simcoe North","Barrie","ON",-79.516615,44.458675,"2006",TRUE,35086,35086
 "Green","Simcoe North","2006-01-05",400,"Vivian Abbott","L0L2E0","Simcoe North","Barrie","ON",-79.516615,44.458675,"2006",TRUE,35086,35086
+"Green","Simcoe North","2006-01-05",400,"Ed Abbott","L0L2E0","Simcoe North","Barrie","ON",-79.516615,44.458675,"2006",TRUE,35086,35086
 "Green","Simcoe North","2006-01-05",400,"Julie Barker","L4R4P4","Simcoe North","Midland","ON",-79.881909,44.735801,"2006",TRUE,35086,35086
 "Green",NA,"2006-01-05",100,"Brian Mcconnell","B0S1E0","West Nova","Cornwallis","NS",-65.606636,44.659612,"2006",FALSE,NA,12011
 "Green",NA,"2006-01-05",400,"Carrie Charron","H3K2T7","Jeanne-Le Ber","Montréal","QC",-73.562524,45.478107,"2006",FALSE,NA,24024
@@ -127,8 +127,8 @@
 "Green",NA,"2006-01-05",1200,"Marlene P Mackenzie","V3S9R1","South Surrey—White Rock—Cloverdale","Surrey","BC",-122.746249,49.006275,"2006",FALSE,NA,59027
 "Green","Nanaimo—Alberni","2006-01-05",300,"Nora Osborne","V5Z4L7","Vancouver Centre","Vancouver","BC",-123.117562,49.268176,"2006",TRUE,59014,59029
 "Green",NA,"2006-01-05",1000,"Cortlandt (cort) Mackenzie","V6N3W9","Vancouver Quadra","W Vancouver","BC",-123.17567,49.221323,"2006",FALSE,NA,59033
-"Green",NA,"2006-01-05",250,"Jonathan Berry","V9R2K7","Nanaimo—Cowichan","Nanaimo","BC",-123.944254,49.163043,"2006",FALSE,NA,59015
 "Green",NA,"2006-01-05",250,"F Jonathan Berry","V9R2K7","Nanaimo—Cowichan","Nanaimo","BC",-123.944254,49.163043,"2006",FALSE,NA,59015
+"Green",NA,"2006-01-05",250,"Jonathan Berry","V9R2K7","Nanaimo—Cowichan","Nanaimo","BC",-123.944254,49.163043,"2006",FALSE,NA,59015
 "Green","Outremont","2006-01-06",400,"Jean-francois Pinel","H2V2Y1","Outremont","Outremont","QC",-73.621869,45.516963,"2006",TRUE,24047,24047
 "Green","Outremont","2006-01-06",400,"Francois Pilon","H3S1J9","Outremont","Montréal","QC",-73.630986,45.507813,"2006",TRUE,24047,24047
 "Green",NA,"2006-01-06",50,"Christopher Mclean","H4G1V6","Jeanne-Le Ber","Verdun","QC",-73.567063,45.462978,"2006",FALSE,NA,24024
@@ -160,10 +160,10 @@
 "Green",NA,"2006-01-07",250,"Art Borkent","V1E2C2","Okanagan—Shuswap","Salmon Arm","BC",-119.282921,50.693937,"2006",FALSE,NA,59018
 "Green","Lévis—Bellechasse","2006-01-08",100,"Jacques Jl Levasseur","G6V9N3","Lévis—Bellechasse","Lévis","QC",-71.107084,46.828253,"2006",TRUE,24034,24034
 "Green","Ottawa Centre","2006-01-08",400,"Susan Roe","K1Y3S9","Ottawa Centre","Ottawa","ON",-75.713924,45.399363,"2006",TRUE,35062,35062
-"Green","Kingston and the Islands","2006-01-08",990,"George Clark","K7L2W7","Kingston and the Islands","Kingston","ON",-76.494083,44.223965,"2006",TRUE,35036,35036
 "Green","Kingston and the Islands","2006-01-08",10,"George Clark","K7L2W7","Kingston and the Islands","Kingston","ON",-76.494083,44.223965,"2006",TRUE,35036,35036
-"Green","Nanaimo—Alberni","2006-01-08",400,"Jean Wright","V9T3G3","Nanaimo—Alberni","Nanaimo","BC",-123.964639,49.229573,"2006",TRUE,59014,59014
+"Green","Kingston and the Islands","2006-01-08",990,"George Clark","K7L2W7","Kingston and the Islands","Kingston","ON",-76.494083,44.223965,"2006",TRUE,35036,35036
 "Green","Nanaimo—Alberni","2006-01-08",400,"David Wright","V9T3G3","Nanaimo—Alberni","Nanaimo","BC",-123.964639,49.229573,"2006",TRUE,59014,59014
+"Green","Nanaimo—Alberni","2006-01-08",400,"Jean Wright","V9T3G3","Nanaimo—Alberni","Nanaimo","BC",-123.964639,49.229573,"2006",TRUE,59014,59014
 "Green",NA,"2006-01-08",250,"Robert Maguire","J6A7N4","Repentigny","Repentigny","QC",-73.450769,45.747325,"2006",FALSE,NA,24053
 "Green",NA,"2006-01-08",500,"Karel Tettelaar","K2E7C1","Nepean—Carleton","Nepean","ON",-75.712527,45.321427,"2006",FALSE,NA,35052
 "Green",NA,"2006-01-08",250,"Robert H Horwood","K7K7J7","Kingston and the Islands","Kingston","ON",-76.481356,44.234797,"2006",FALSE,NA,35036
@@ -194,8 +194,8 @@
 "Green","Barrie","2006-01-12",200,"Donald W Milne","L4N5L6","Barrie","Barrie","ON",-79.718769,44.385603,"2006",TRUE,35004,35004
 "Green","Nanaimo—Alberni","2006-01-12",300,"Jack Thornburgh","V9Y4S5","Nanaimo—Alberni","Port Alberni","BC",-124.800493,49.252263,"2006",TRUE,59014,59014
 "Green",NA,"2006-01-12",10,"Michael Estey","H9G1G3","Pierrefonds—Dollard","Dollard-des-ormeaux","QC",-73.84462,45.472045,"2006",FALSE,NA,24049
-"Green","Nanaimo—Alberni","2006-01-12",400,"Brian Durkin","L9S2E7","York—Simcoe","Innisfil","ON",-79.536049,44.327676,"2006",TRUE,59014,35104
 "Green","Nanaimo—Alberni","2006-01-12",400,"Shelley Wright","L9S2E7","York—Simcoe","Innisfil","ON",-79.536049,44.327676,"2006",TRUE,59014,35104
+"Green","Nanaimo—Alberni","2006-01-12",400,"Brian Durkin","L9S2E7","York—Simcoe","Innisfil","ON",-79.536049,44.327676,"2006",TRUE,59014,35104
 "Green",NA,"2006-01-12",400,"Mathias Hanrath","M2J4L4","Don Valley East","North York","ON",-79.359854,43.789936,"2006",FALSE,NA,35016
 "Green",NA,"2006-01-12",500,"David Scrymgeour","M5J2H2","Trinity—Spadina","Toronto","ON",-79.37844,43.639925,"2006",FALSE,NA,35095
 "Green",NA,"2006-01-12",400,"John Paterson","V4B4P5","South Surrey—White Rock—Cloverdale","White Rock","BC",-122.787387,49.02459,"2006",FALSE,NA,59027
@@ -249,8 +249,8 @@
 "Green",NA,"2006-01-17",100,"Gail Richardson","H9R2P2","Lac-Saint-Louis","Pointe-claire","QC",-73.798637,45.452245,"2006",FALSE,NA,24027
 "Green",NA,"2006-01-17",20,"Frank Collins","K1K3Y4","Ottawa—Vanier","Ottawa","ON",-75.624341,45.445481,"2006",FALSE,NA,35065
 "Green",NA,"2006-01-17",200,"Dennis Whitfield","K1N1E5","Ottawa—Vanier","Ottawa","ON",-75.669592,45.422037,"2006",FALSE,NA,35065
-"Green",NA,"2006-01-17",400,"Neil Rowlands","K2G2M3","Ottawa West—Nepean","Nepean","ON",-75.738585,45.351609,"2006",FALSE,NA,35066
 "Green",NA,"2006-01-17",20,"Neil Rowlands","K2G2M3","Ottawa West—Nepean","Nepean","ON",-75.738585,45.351609,"2006",FALSE,NA,35066
+"Green",NA,"2006-01-17",400,"Neil Rowlands","K2G2M3","Ottawa West—Nepean","Nepean","ON",-75.738585,45.351609,"2006",FALSE,NA,35066
 "Green","Ottawa Centre","2006-01-17",510,"Hugh Kruzel","K2H5M8","Ottawa West—Nepean","Nepean","ON",-75.835114,45.34889,"2006",TRUE,35062,35066
 "Green",NA,"2006-01-17",10,"John Stevenson","K7G2B5","Leeds—Grenville","Gananoque","ON",-76.170324,44.340757,"2006",FALSE,NA,35041
 "Green",NA,"2006-01-17",250,"Jason Myers","L0R1R0","Brant","Ancaster","ON",-80.089724,43.194112,"2006",FALSE,NA,35009
@@ -409,8 +409,8 @@
 "Green",NA,"2006-02-20",5000,"Charles G Hanna","M5S3E7","Toronto Centre","Toronto","ON",-79.390825,43.668794,"2006",FALSE,NA,35093
 "Green","Kitchener—Waterloo","2006-02-22",400,"Fraser Gunn","N2L4N4","Kitchener—Waterloo","Waterloo","ON",-80.559852,43.488116,"2006",TRUE,35039,35039
 "Green","Barrie","2006-02-23",100,"Laurils Vindum","L4M3L1","Barrie","Barrie","ON",-79.687936,44.39493,"2006",TRUE,35004,35004
-"Green","Barrie","2006-02-23",500,"Erich Jacoby-hawkins","L4N5H1","Barrie","Barrie","ON",-79.717513,44.38387,"2006",TRUE,35004,35004
 "Green","Barrie","2006-02-23",800,"Teresa Hawkins-jacoby","L4N5H1","Barrie","Barrie","ON",-79.717513,44.38387,"2006",TRUE,35004,35004
+"Green","Barrie","2006-02-23",500,"Erich Jacoby-hawkins","L4N5H1","Barrie","Barrie","ON",-79.717513,44.38387,"2006",TRUE,35004,35004
 "Green",NA,"2006-02-24",250,"Michelle D Swinarton","T2E1R3","Calgary Centre-North","Calgary","AB",-114.09364,51.06025,"2006",FALSE,NA,48003
 "Green",NA,"2006-02-25",1110,"David Daughton","C1A7N5","Charlottetown","Charlottetown","PE",-63.134409,46.249223,"2006",FALSE,NA,11002
 "Green","Parry Sound—Muskoka","2006-02-27",400,"Kenton Otterbein","P0G1G0","Parry Sound—Muskoka","Carling","ON",-79.713074,45.944038,"2006",TRUE,35069,35069
@@ -638,8 +638,8 @@
 "Green",NA,"2006-04-21",33,"David Hartley","N8Y3R7","Windsor—Tecumseh","Windsor","ON",-82.992619,42.306473,"2006",FALSE,NA,35101
 "Green",NA,"2006-04-22",50,"Margaret Marean","T6A3W2","Edmonton—Strathcona","Edmonton","AB",-113.440752,53.552656,"2006",FALSE,NA,48018
 "Green","North Vancouver","2006-04-23",48,"Jim Stephanson","V0N2E0","North Vancouver","Lions Bay","BC",-123.235454,49.459326,"2006",TRUE,59019,59019
-"Green","North Vancouver","2006-04-23",350,"Christiane Rolland","V7J3P7","North Vancouver","North Vancouver","BC",-123.020855,49.340893,"2006",TRUE,59019,59019
 "Green","North Vancouver","2006-04-23",72,"Christiane Rolland","V7J3P7","North Vancouver","North Vancouver","BC",-123.020855,49.340893,"2006",TRUE,59019,59019
+"Green","North Vancouver","2006-04-23",350,"Christiane Rolland","V7J3P7","North Vancouver","North Vancouver","BC",-123.020855,49.340893,"2006",TRUE,59019,59019
 "Green",NA,"2006-04-23",50,"Donald E Fletcher","N0M2A0","Lambton—Kent—Middlesex","London","ON",-81.379134,43.077673,"2006",FALSE,NA,35046
 "Green",NA,"2006-04-24",250,"Steve F Demers","H9W5C9","Lac-Saint-Louis","Beaconsfield","QC",-73.869251,45.427354,"2006",FALSE,NA,24027
 "Green","Peterborough","2006-04-25",200,"Brent Wood","K9H4R4","Peterborough","Peterborough","ON",-78.319065,44.280315,"2006",TRUE,35071,35071
@@ -791,8 +791,8 @@
 "Green",NA,"2006-05-17",20,"Stan Sibley","T3B5N2","Calgary West","Calgary","AB",-114.213749,51.086298,"2006",FALSE,NA,48009
 "Green",NA,"2006-05-17",100,"Brian D Grant","V8V3W6","Victoria","Victoria","BC",-123.357798,48.408711,"2006",FALSE,NA,59035
 "Green",NA,"2006-05-17",160,"Kathryn-jane Hazel","V9S5H9","Nanaimo—Cowichan","Nanaimo","BC",-123.950378,49.173017,"2006",FALSE,NA,59015
-"Green",NA,"2006-05-19",10,"Erich Jacoby-hawkins","L4N5H1","Barrie","Barrie","ON",-79.717513,44.38387,"2006",FALSE,NA,35004
 "Green",NA,"2006-05-19",10,"Teresa Hawkins-jacoby","L4N5H1","Barrie","Barrie","ON",-79.717513,44.38387,"2006",FALSE,NA,35004
+"Green",NA,"2006-05-19",10,"Erich Jacoby-hawkins","L4N5H1","Barrie","Barrie","ON",-79.717513,44.38387,"2006",FALSE,NA,35004
 "Green",NA,"2006-05-19",300,"Thomas Duyck","L4W2H2","Mississauga—Brampton South","Mississauga","ON",-79.59057,43.640578,"2006",FALSE,NA,35047
 "Green",NA,"2006-05-19",270,"Joseph Sahadat","P3E6C7","Sudbury","Sudbury","ON",-81.006527,46.472707,"2006",FALSE,NA,35088
 "Green",NA,"2006-05-19",400,"Perry Goldsmith","V6N2B3","Vancouver Quadra","Vancouver","BC",-123.192322,49.232375,"2006",FALSE,NA,59033
@@ -812,9 +812,9 @@
 "Green",NA,"2006-05-23",20,"Andrew Lewis","V8K1X2","Saanich—Gulf Islands","Salt Spring Island","BC",-123.406775,48.774292,"2006",FALSE,NA,59024
 "Green",NA,"2006-05-23",10,"Walter J. Meyer Zu Erpen","V8W3S3","Saanich—Gulf Islands","Victoria","BC",-123.423138,48.426893,"2006",FALSE,NA,59024
 "Green",NA,"2006-05-24",160,"Pierre Audette","G0X3M0","Joliette","La Tuque","QC",-75.123558,48.330725,"2006",FALSE,NA,24025
-"Green",NA,"2006-05-24",270,"Linda Mosquin","K0G1K0","Lanark—Frontenac—Lennox and Addington","Carleton Place","ON",-76.3787,45.028733,"2006",FALSE,NA,35040
 "Green",NA,"2006-05-24",160,"Linda Mosquin","K0G1K0","Lanark—Frontenac—Lennox and Addington","Carleton Place","ON",-76.3787,45.028733,"2006",FALSE,NA,35040
 "Green",NA,"2006-05-24",270,"Ted Mosquin","K0G1K0","Lanark—Frontenac—Lennox and Addington","Carleton Place","ON",-76.3787,45.028733,"2006",FALSE,NA,35040
+"Green",NA,"2006-05-24",270,"Linda Mosquin","K0G1K0","Lanark—Frontenac—Lennox and Addington","Carleton Place","ON",-76.3787,45.028733,"2006",FALSE,NA,35040
 "Green",NA,"2006-05-24",160,"Ted Mosquin","K0G1K0","Lanark—Frontenac—Lennox and Addington","Carleton Place","ON",-76.3787,45.028733,"2006",FALSE,NA,35040
 "Green",NA,"2006-05-24",100,"Alex Mckeague","K2C3L8","Ottawa West—Nepean","Ottawa","ON",-75.74195,45.360691,"2006",FALSE,NA,35066
 "Green",NA,"2006-05-24",100,"Anne Wright","M6G3S6","Davenport","Toronto","ON",-79.430605,43.675689,"2006",FALSE,NA,35015
@@ -885,8 +885,8 @@
 "Green",NA,"2006-06-01",20,"Constantine Kritsonis","M3H5G3","York Centre","North York","ON",-79.453779,43.766762,"2006",FALSE,NA,35103
 "Green",NA,"2006-06-01",10,"Robin Green","M4C4L5","Beaches—East York","Toronto","ON",-79.307041,43.685237,"2006",FALSE,NA,35005
 "Green",NA,"2006-06-01",50,"John Anderson","M4C4P2","Beaches—East York","East York","ON",-79.310003,43.696119,"2006",FALSE,NA,35005
-"Green",NA,"2006-06-01",50,"Rob Nevin","M4K3H4","Toronto—Danforth","Toronto","ON",-79.349158,43.680634,"2006",FALSE,NA,35094
 "Green",NA,"2006-06-01",50,"Nancy Snider","M4K3H4","Toronto—Danforth","Toronto","ON",-79.349158,43.680634,"2006",FALSE,NA,35094
+"Green",NA,"2006-06-01",50,"Rob Nevin","M4K3H4","Toronto—Danforth","Toronto","ON",-79.349158,43.680634,"2006",FALSE,NA,35094
 "Green",NA,"2006-06-01",10,"Anthony Lucic","M4L2V1","Toronto—Danforth","Toronto","ON",-79.323892,43.668816,"2006",FALSE,NA,35094
 "Green",NA,"2006-06-01",20,"Jane Damude-empey","M4S2X1","St. Paul's","Toronto","ON",-79.380451,43.709114,"2006",FALSE,NA,35077
 "Green",NA,"2006-06-01",12,"Chris Tindal","M4W3C8","Toronto Centre","Toronto","ON",-79.387733,43.673451,"2006",FALSE,NA,35093
@@ -945,8 +945,8 @@
 "Green",NA,"2006-06-05",50,"Kevin Gulstene","V7R4T5","North Vancouver","North Vancouver","BC",-123.092963,49.363988,"2006",FALSE,NA,59019
 "Green",NA,"2006-06-06",10,"Jeanne Maki","C1A2X2","Charlottetown","Charlottetown","PE",-63.138472,46.247878,"2006",FALSE,NA,11002
 "Green",NA,"2006-06-06",50,"Yves Lusignan","J9A2Y6","Hull—Aylmer","Hull","QC",-75.778159,45.440201,"2006",FALSE,NA,24023
-"Green",NA,"2006-06-06",160,"Adam Fritz","K1Y1B9","Ottawa Centre","Ottawa","ON",-75.729524,45.39919,"2006",FALSE,NA,35062
 "Green",NA,"2006-06-06",10,"Adam Fritz","K1Y1B9","Ottawa Centre","Ottawa","ON",-75.729524,45.39919,"2006",FALSE,NA,35062
+"Green",NA,"2006-06-06",160,"Adam Fritz","K1Y1B9","Ottawa Centre","Ottawa","ON",-75.729524,45.39919,"2006",FALSE,NA,35062
 "Green",NA,"2006-06-06",750,"Glenna Chestnut","M4E3L8","Beaches—East York","Toronto","ON",-79.288801,43.681307,"2006",FALSE,NA,35005
 "Green",NA,"2006-06-06",160,"Paula Boutis","M4P1R4","St. Paul's","Toronto","ON",-79.392835,43.709132,"2006",FALSE,NA,35077
 "Green",NA,"2006-06-06",400,"Kelvin White","T2C3Y7","Calgary East","Calgary","AB",-114.029032,50.979958,"2006",FALSE,NA,48002
@@ -962,17 +962,17 @@
 "Green",NA,"2006-06-08",270,"Douglas Woodard","L2R2A9","St. Catharines","Saint Catharines","ON",-79.241254,43.167697,"2006",FALSE,NA,35076
 "Green",NA,"2006-06-08",10,"Peter Marshall","L4N1R1","Barrie","Barrie","ON",-79.712153,44.393321,"2006",FALSE,NA,35004
 "Green",NA,"2006-06-08",210,"Glennys Baker","L4N7A3","Barrie","Barrie","ON",-79.726301,44.404842,"2006",FALSE,NA,35004
-"Green",NA,"2006-06-08",160,"Susan Stratton","T2E9B3","Calgary Centre-North","Calgary","AB",-114.067779,51.080557,"2006",FALSE,NA,48003
 "Green",NA,"2006-06-08",270,"Susan Stratton","T2E9B3","Calgary Centre-North","Calgary","AB",-114.067779,51.080557,"2006",FALSE,NA,48003
+"Green",NA,"2006-06-08",160,"Susan Stratton","T2E9B3","Calgary Centre-North","Calgary","AB",-114.067779,51.080557,"2006",FALSE,NA,48003
 "Green",NA,"2006-06-08",10,"Arno C Schortinghuis","V5Y2N9","Vancouver Kingsway","Vancouver","BC",-123.104897,49.23556,"2006",FALSE,NA,59032
 "Green","Beauharnois—Salaberry","2006-06-09",50,"David Smith","J0L1H0","Beauharnois—Salaberry","Hemmingford","QC",-73.593085,45.046306,"2006",TRUE,24006,24006
 "Green",NA,"2006-06-09",210,"Anne Lambert","B0J1J0","Kings—Hants","Blandford","NS",-64.237345,44.54959,"2006",FALSE,NA,12006
-"Green",NA,"2006-06-09",270,"Donna Dillman","K0G1K0","Lanark—Frontenac—Lennox and Addington","Carleton Place","ON",-76.3787,45.028733,"2006",FALSE,NA,35040
 "Green",NA,"2006-06-09",160,"Robert Groves","K0G1K0","Lanark—Frontenac—Lennox and Addington","Carleton Place","ON",-76.3787,45.028733,"2006",FALSE,NA,35040
+"Green",NA,"2006-06-09",270,"Donna Dillman","K0G1K0","Lanark—Frontenac—Lennox and Addington","Carleton Place","ON",-76.3787,45.028733,"2006",FALSE,NA,35040
 "Green",NA,"2006-06-09",160,"Craig Barlow","K1Z5R7","Ottawa Centre","Ottawa","ON",-75.720451,45.377075,"2006",FALSE,NA,35062
 "Green",NA,"2006-06-09",410,"Ian Jackson","M4K2X2","Toronto—Danforth","Toronto","ON",-79.352938,43.674532,"2006",FALSE,NA,35094
-"Green",NA,"2006-06-09",50,"Rob Nevin","M4K3H4","Toronto—Danforth","Toronto","ON",-79.349158,43.680634,"2006",FALSE,NA,35094
 "Green",NA,"2006-06-09",50,"Nancy Snider","M4K3H4","Toronto—Danforth","Toronto","ON",-79.349158,43.680634,"2006",FALSE,NA,35094
+"Green",NA,"2006-06-09",50,"Rob Nevin","M4K3H4","Toronto—Danforth","Toronto","ON",-79.349158,43.680634,"2006",FALSE,NA,35094
 "Green","Beauharnois—Salaberry","2006-06-10",60,"Joe Bontems","J0S1H0","Beauharnois—Salaberry","Godmanchester","QC",-74.176195,45.086469,"2006",TRUE,24006,24006
 "Green",NA,"2006-06-11",400,"Brian Band","M4C2B2","Beaches—East York","East York","ON",-79.321244,43.688996,"2006",FALSE,NA,35005
 "Green",NA,"2006-06-12",250,"Rachel Clarke","K0A1A0","Renfrew—Nipissing—Pembroke","Kanata","ON",-76.193903,45.225125,"2006",FALSE,NA,35074
@@ -1005,8 +1005,8 @@
 "Green","Peterborough","2006-06-14",10,"Peter Sproule","K9H7L4","Peterborough","Peterborough","ON",-78.302487,44.33809,"2006",TRUE,35071,35071
 "Green","Peterborough","2006-06-14",10,"Philip Shaw","K9J2R1","Peterborough","Peterborough","ON",-78.345496,44.295638,"2006",TRUE,35071,35071
 "Green","Peterborough","2006-06-14",20,"J P Pawliw","K9J4R5","Peterborough","Peterborough","ON",-78.330622,44.300187,"2006",TRUE,35071,35071
-"Green","Peterborough","2006-06-14",10,"Mathilde Colley","K9J6X5","Peterborough","Peterborough","ON",-78.292948,44.388022,"2006",TRUE,35071,35071
 "Green","Peterborough","2006-06-14",10,"Rachel Colley","K9J6X5","Peterborough","Peterborough","ON",-78.292948,44.388022,"2006",TRUE,35071,35071
+"Green","Peterborough","2006-06-14",10,"Mathilde Colley","K9J6X5","Peterborough","Peterborough","ON",-78.292948,44.388022,"2006",TRUE,35071,35071
 "Green","Peterborough","2006-06-14",10,"Ralph Colley","K9J6X5","Peterborough","Peterborough","ON",-78.292948,44.388022,"2006",TRUE,35071,35071
 "Green",NA,"2006-06-14",160,"Suzanne Tokarsky","H3Z2L6","Westmount—Ville-Marie","Westmount","QC",-73.600441,45.479505,"2006",FALSE,NA,24075
 "Green",NA,"2006-06-14",160,"Doug Beards","K0E1S0","Leeds—Grenville","Mountain","ON",-75.50591,45.041492,"2006",FALSE,NA,35041
@@ -1039,9 +1039,9 @@
 "Green",NA,"2006-06-16",160,"Anthony Lucic","M4L2V1","Toronto—Danforth","Toronto","ON",-79.323892,43.668816,"2006",FALSE,NA,35094
 "Green",NA,"2006-06-16",10,"Mike A Abram","N1H2W9","Guelph","Guelph","ON",-80.250943,43.54425,"2006",FALSE,NA,35027
 "Green",NA,"2006-06-16",100,"Alan Ernst","T0M2H0","Yellowhead","Nordegg","AB",-116.273214,52.359523,"2006",FALSE,NA,48028
+"Green",NA,"2006-06-16",270,"George Read","T2J0A4","Calgary Southeast","Calgary","AB",-114.059674,50.972244,"2006",FALSE,NA,48007
+"Green",NA,"2006-06-16",270,"George Read","T2J0A4","Calgary Southeast","Calgary","AB",-114.059674,50.972244,"2006",FALSE,NA,48007
 "Green",NA,"2006-06-16",160,"George Read","T2J0A4","Calgary Southeast","Calgary","AB",-114.059674,50.972244,"2006",FALSE,NA,48007
-"Green",NA,"2006-06-16",270,"George Read","T2J0A4","Calgary Southeast","Calgary","AB",-114.059674,50.972244,"2006",FALSE,NA,48007
-"Green",NA,"2006-06-16",270,"George Read","T2J0A4","Calgary Southeast","Calgary","AB",-114.059674,50.972244,"2006",FALSE,NA,48007
 "Green",NA,"2006-06-16",160,"George Read","T2J0A4","Calgary Southeast","Calgary","AB",-114.059674,50.972244,"2006",FALSE,NA,48007
 "Green",NA,"2006-06-16",160,"Mark Hambridge","T3A2V7","Calgary West","Calgary","AB",-114.153781,51.093184,"2006",FALSE,NA,48009
 "Green",NA,"2006-06-16",1000,"John Stanton","T6J2C9","Edmonton—Leduc","Edmonton","AB",-113.544521,53.464525,"2006",FALSE,NA,48014
@@ -1130,8 +1130,8 @@
 "Green",NA,"2006-06-26",150,"Alan Samuel","L0P1B0","Ancaster—Dundas—Flamborough—Westdale","Milton","ON",-79.987429,43.486266,"2006",FALSE,NA,35003
 "Green",NA,"2006-06-26",100,"Madelaine Welton","L5C1V6","Mississauga—Erindale","Mississauga","ON",-79.625222,43.556046,"2006",FALSE,NA,35049
 "Green",NA,"2006-06-26",110,"Romek Bylinski","M1L1Y7","Scarborough Southwest","Scarborough","ON",-79.290927,43.712911,"2006",FALSE,NA,35084
-"Green",NA,"2006-06-26",270,"Caren Crawford","M1L4V4","Scarborough Southwest","Scarborough","ON",-79.284359,43.709528,"2006",FALSE,NA,35084
 "Green",NA,"2006-06-26",280,"Iain Hamilton","M1L4V4","Scarborough Southwest","Scarborough","ON",-79.284359,43.709528,"2006",FALSE,NA,35084
+"Green",NA,"2006-06-26",270,"Caren Crawford","M1L4V4","Scarborough Southwest","Scarborough","ON",-79.284359,43.709528,"2006",FALSE,NA,35084
 "Green",NA,"2006-06-26",210,"Bonnie Lesky","M4J2B3","Toronto—Danforth","East York","ON",-79.327416,43.688359,"2006",FALSE,NA,35094
 "Green",NA,"2006-06-26",10,"Brian Hodges","M4V1C6","St. Paul's","Toronto","ON",-79.401834,43.678952,"2006",FALSE,NA,35077
 "Green",NA,"2006-06-26",250,"Michael Manolson","N0B2K0","Wellington—Halton Hills","Guelph","ON",-80.136489,43.61663,"2006",FALSE,NA,35098
@@ -1141,8 +1141,8 @@
 "Green",NA,"2006-06-26",637.5,"Roy Ball","V6G1S8","Vancouver Centre","Vancouver","BC",-123.129235,49.282802,"2006",FALSE,NA,59029
 "Green",NA,"2006-06-26",637.5,"Darla L Drader","V6G1S8","Vancouver Centre","Vancouver","BC",-123.129235,49.282802,"2006",FALSE,NA,59029
 "Green",NA,"2006-06-26",300,"Ira Tepper","V8K2P7","Saanich—Gulf Islands","Salt Spring Island","BC",-123.509529,48.86434,"2006",FALSE,NA,59024
-"Green",NA,"2006-06-27",1275,"Linda Mosquin","K0G1K0","Lanark—Frontenac—Lennox and Addington","Carleton Place","ON",-76.3787,45.028733,"2006",FALSE,NA,35040
 "Green",NA,"2006-06-27",1275,"Ted Mosquin","K0G1K0","Lanark—Frontenac—Lennox and Addington","Carleton Place","ON",-76.3787,45.028733,"2006",FALSE,NA,35040
+"Green",NA,"2006-06-27",1275,"Linda Mosquin","K0G1K0","Lanark—Frontenac—Lennox and Addington","Carleton Place","ON",-76.3787,45.028733,"2006",FALSE,NA,35040
 "Green",NA,"2006-06-27",50,"Alan Fox","K0J1N0","Renfrew—Nipissing—Pembroke","Dacre","ON",-76.970888,45.37174,"2006",FALSE,NA,35074
 "Green","Carleton—Mississippi Mills","2006-06-27",270,"Karolyne Pickett","K1K0K5","Ottawa—Vanier","Ottawa","ON",-75.652787,45.449772,"2006",TRUE,35012,35065
 "Green",NA,"2006-06-27",10,"Mary Mahoney","K1M2H8","Ottawa—Vanier","Ottawa","ON",-75.678818,45.4444,"2006",FALSE,NA,35065
@@ -1161,8 +1161,8 @@
 "Green",NA,"2006-06-27",10,"Elizabeth Pratt-johnson","V0G1M0","British Columbia Southern Interior","Kaslo","BC",-116.912579,49.913707,"2006",FALSE,NA,59026
 "Green",NA,"2006-06-27",270,"Jared Giesbrecht","V1J4M7","Prince George—Peace River","Fort St John","BC",-120.921562,56.267472,"2006",FALSE,NA,59022
 "Green",NA,"2006-06-28",10,"Hervé Jolicoeur","H7P4C8","Laval","Laval","QC",-73.805518,45.588037,"2006",FALSE,NA,24032
-"Green",NA,"2006-06-28",160,"John Baranyi","K0G1K0","Lanark—Frontenac—Lennox and Addington","Carleton Place","ON",-76.3787,45.028733,"2006",FALSE,NA,35040
 "Green",NA,"2006-06-28",160,"Christine Kilgour","K0G1K0","Lanark—Frontenac—Lennox and Addington","Carleton Place","ON",-76.3787,45.028733,"2006",FALSE,NA,35040
+"Green",NA,"2006-06-28",160,"John Baranyi","K0G1K0","Lanark—Frontenac—Lennox and Addington","Carleton Place","ON",-76.3787,45.028733,"2006",FALSE,NA,35040
 "Green",NA,"2006-06-28",160,"Jason A Mclaren","K1H1A5","Ottawa South","Ottawa","ON",-75.67094,45.385807,"2006",FALSE,NA,35064
 "Green",NA,"2006-06-28",10,"Matthew J Clarke","K1N7T9","Ottawa—Vanier","Ottawa","ON",-75.678067,45.424086,"2006",FALSE,NA,35065
 "Green",NA,"2006-06-28",50,"Darcy Higgins","N2L1C1","Kitchener—Waterloo","Waterloo","ON",-80.516356,43.460567,"2006",FALSE,NA,35039
@@ -1278,8 +1278,8 @@
 "Green",NA,"2006-07-07",200,"Maria Davies","L7E5S1","Dufferin—Caledon","Bolton","ON",-79.749187,43.834924,"2006",FALSE,NA,35018
 "Green",NA,"2006-07-07",500,"Megan Mitchell","M4E1X1","Beaches—East York","Toronto","ON",-79.306828,43.678782,"2006",FALSE,NA,35005
 "Green",NA,"2006-07-07",400,"Grzegorz Kondrak","T5K0S6","Edmonton Centre","Edmonton","AB",-113.507479,53.559214,"2006",FALSE,NA,48012
-"Green","Don Valley East","2006-07-10",1000,"Wayne Clements","M3A2R4","Don Valley East","North York","ON",-79.331894,43.752557,"2006",TRUE,35016,35016
 "Green","Don Valley East","2006-07-10",183.16,"Wayne Clements","M3A2R4","Don Valley East","North York","ON",-79.331894,43.752557,"2006",TRUE,35016,35016
+"Green","Don Valley East","2006-07-10",1000,"Wayne Clements","M3A2R4","Don Valley East","North York","ON",-79.331894,43.752557,"2006",TRUE,35016,35016
 "Green",NA,"2006-07-11",500,"Tom Heintzman","M4V1G3","Toronto Centre","Toronto","ON",-79.394794,43.682258,"2006",FALSE,NA,35093
 "Green","Don Valley East","2006-07-12",500,"Shane Mason","M2J3N2","Don Valley East","North York","ON",-79.330075,43.782513,"2006",TRUE,35016,35016
 "Green",NA,"2006-07-12",20,"Graeme Cunningham","K1N5C7","Ottawa—Vanier","Ottawa","ON",-75.695187,45.432487,"2006",FALSE,NA,35065
@@ -1530,8 +1530,8 @@
 "Green",NA,"2006-08-24",350,"Carl Chaboyer","T0M2B0","Wild Rose","Torrington","AB",-113.604888,51.791764,"2006",FALSE,NA,48027
 "Green",NA,"2006-08-24",350,"Ben West","V5N4Y6","Vancouver Kingsway","Vancouver","BC",-123.058381,49.252993,"2006",FALSE,NA,59032
 "Green",NA,"2006-08-24",240,"Ben West","V5N4Y6","Vancouver Kingsway","Vancouver","BC",-123.058381,49.252993,"2006",FALSE,NA,59032
-"Green",NA,"2006-08-24",240,"Steve Kisby","V5W1E7","Vancouver Kingsway","Vancouver","BC",-123.112657,49.237091,"2006",FALSE,NA,59032
 "Green",NA,"2006-08-24",350,"Steve Kisby","V5W1E7","Vancouver Kingsway","Vancouver","BC",-123.112657,49.237091,"2006",FALSE,NA,59032
+"Green",NA,"2006-08-24",240,"Steve Kisby","V5W1E7","Vancouver Kingsway","Vancouver","BC",-123.112657,49.237091,"2006",FALSE,NA,59032
 "Green",NA,"2006-08-24",350,"Wayne Crookes","V6T1X4","Vancouver Quadra","Vancouver","BC",-123.241981,49.264571,"2006",FALSE,NA,59033
 "Green",NA,"2006-08-24",240,"Wayne M Crookes","V6T1X4","Vancouver Quadra","Vancouver","BC",-123.241981,49.264571,"2006",FALSE,NA,59033
 "Green",NA,"2006-08-25",350,"Graeme Cunningham","K1N5C7","Ottawa—Vanier","Ottawa","ON",-75.695187,45.432487,"2006",FALSE,NA,35065
@@ -1787,8 +1787,8 @@
 "Green","Peterborough","2006-10-12",10,"Mike Gibbs","K9H1V5","Peterborough","Peterborough","ON",-78.309105,44.304017,"2006",TRUE,35071,35071
 "Green","Peterborough","2006-10-12",10,"John Hercus","K9J1X4","Peterborough","Peterborough","ON",-78.313347,44.288749,"2006",TRUE,35071,35071
 "Green","Peterborough","2006-10-12",100,"G Purdie","K9J2W8","Peterborough","Peterborough","ON",-78.337068,44.301138,"2006",TRUE,35071,35071
-"Green","Peterborough","2006-10-12",250,"James Survis","K9J4X1","Peterborough","Peterborough","ON",-78.341925,44.303295,"2006",TRUE,35071,35071
 "Green","Peterborough","2006-10-12",250,"Mariana Survis","K9J4X1","Peterborough","Peterborough","ON",-78.341925,44.303295,"2006",TRUE,35071,35071
+"Green","Peterborough","2006-10-12",250,"James Survis","K9J4X1","Peterborough","Peterborough","ON",-78.341925,44.303295,"2006",TRUE,35071,35071
 "Green","Peterborough","2006-10-12",120,"Jocelyn Cooper","K9J6X3","Peterborough","Peterborough","ON",-78.402157,44.337308,"2006",TRUE,35071,35071
 "Green","Peterborough","2006-10-12",100,"Cynthia Stunden","K9J7L5","Peterborough","Peterborough","ON",-78.35206,44.293222,"2006",TRUE,35071,35071
 "Green","Newmarket—Aurora","2006-10-14",400,"Steve Mcgowan","L3X2E1","Newmarket—Aurora","Newmarket","ON",-79.491479,44.03987,"2006",TRUE,35053,35053
@@ -1853,8 +1853,8 @@
 "Green",NA,"2006-10-26",250,"Eric Auzins","N6K4S4","Elgin—Middlesex—London","London","ON",-81.37255,42.94294,"2006",FALSE,NA,35020
 "Green",NA,"2006-10-26",875,"Roland E Wilkes","V8T5B5","Victoria","Victoria","BC",-123.363693,48.439895,"2006",FALSE,NA,59035
 "Green",NA,"2006-10-27",90,"Colin Griffiths","K0A1L0","Carleton—Mississippi Mills","Carp","ON",-76.030987,45.325664,"2006",FALSE,NA,35012
-"Green",NA,"2006-10-27",250,"Michael Higgs","K9H3C4","Peterborough","Peterborough","ON",-78.344547,44.300698,"2006",FALSE,NA,35071
 "Green",NA,"2006-10-27",250,"Joyce Higgs","K9H3C4","Peterborough","Peterborough","ON",-78.344547,44.300698,"2006",FALSE,NA,35071
+"Green",NA,"2006-10-27",250,"Michael Higgs","K9H3C4","Peterborough","Peterborough","ON",-78.344547,44.300698,"2006",FALSE,NA,35071
 "Green",NA,"2006-10-27",350,"Robert C. Haskett","M6P4H8","Davenport","Toronto","ON",-79.4489,43.661138,"2006",FALSE,NA,35015
 "Green",NA,"2006-10-27",500,"Caroline Rioux","N2J1M4","Kitchener—Waterloo","Waterloo","ON",-80.525548,43.463023,"2006",FALSE,NA,35039
 "Green",NA,"2006-10-27",500,"Robert Schmidt","N2J1M4","Kitchener—Waterloo","Waterloo","ON",-80.525548,43.463023,"2006",FALSE,NA,35039
@@ -1866,8 +1866,8 @@
 "Green",NA,"2006-10-28",400,"John Geale","L1A3V6","Northumberland—Quinte West","Port Hope","ON",-78.296926,43.996328,"2006",FALSE,NA,35058
 "Green",NA,"2006-10-28",100,"David Parker","T6A3W2","Edmonton—Strathcona","Edmonton","AB",-113.440752,53.552656,"2006",FALSE,NA,48018
 "Green","Beaches—East York","2006-10-29",200,"Chris Foster","M4E2W7","Beaches—East York","Toronto","ON",-79.295174,43.67301,"2006",TRUE,35005,35005
-"Green",NA,"2006-10-29",200,"Erich Jacoby-hawkins","L4N5H1","Barrie","Barrie","ON",-79.717513,44.38387,"2006",FALSE,NA,35004
 "Green",NA,"2006-10-29",200,"Teresa Hawkins-jacoby","L4N5H1","Barrie","Barrie","ON",-79.717513,44.38387,"2006",FALSE,NA,35004
+"Green",NA,"2006-10-29",200,"Erich Jacoby-hawkins","L4N5H1","Barrie","Barrie","ON",-79.717513,44.38387,"2006",FALSE,NA,35004
 "Green",NA,"2006-10-29",250,"Rob Nevin","M4K3H4","Toronto—Danforth","Toronto","ON",-79.349158,43.680634,"2006",FALSE,NA,35094
 "Green",NA,"2006-10-29",250,"Nancy Snider","M4K3H4","Toronto—Danforth","Toronto","ON",-79.349158,43.680634,"2006",FALSE,NA,35094
 "Green",NA,"2006-10-29",400,"Bill Longstaff","T2S0K8","Calgary Centre","Calgary","AB",-114.06651,51.052872,"2006",FALSE,NA,48006
@@ -1877,8 +1877,8 @@
 "Green","Nepean—Carleton","2006-10-30",400,"Bruce Willems","K4M1H2","Nepean—Carleton","Manotick","ON",-75.68365,45.233109,"2006",TRUE,35052,35052
 "Green","London North Centre","2006-10-30",40,"Diane Paterson","N6G1Z3","London North Centre","London","ON",-81.296225,43.004856,"2006",TRUE,35043,35043
 "Green",NA,"2006-10-30",400,"Chris Tindal","M4W3C8","Toronto Centre","Toronto","ON",-79.387733,43.673451,"2006",FALSE,NA,35093
-"Green",NA,"2006-10-30",400,"Suzanne Dann","N6H4S7","London West","London","ON",-81.31443,42.969006,"2006",FALSE,NA,35044
 "Green",NA,"2006-10-30",400,"Rev Robert Dann","N6H4S7","London West","London","ON",-81.31443,42.969006,"2006",FALSE,NA,35044
+"Green",NA,"2006-10-30",400,"Suzanne Dann","N6H4S7","London West","London","ON",-81.31443,42.969006,"2006",FALSE,NA,35044
 "Green",NA,"2006-10-30",100,"Kitty Dunn","T2M3S7","Calgary Centre-North","Calgary","AB",-114.10353,51.069445,"2006",FALSE,NA,48003
 "Green",NA,"2006-10-31",400,"Grace Yogaretnam","L5R2T8","Mississauga—Brampton South","Mississauga","ON",-79.671282,43.597628,"2006",FALSE,NA,35047
 "Green",NA,"2006-10-31",100,"Mary Kennedy","M6S4G8","Parkdale—High Park","York","ON",-79.492921,43.663451,"2006",FALSE,NA,35068
@@ -1906,8 +1906,8 @@
 "Green",NA,"2006-11-01",25,"Peter Bonser","K2M2V2","Carleton—Mississippi Mills","Kanata","ON",-75.850216,45.294354,"2006",FALSE,NA,35012
 "Green",NA,"2006-11-01",20,"Kevin Maloney","K7K4S3","Kingston and the Islands","Kingston","ON",-76.503146,44.239322,"2006",FALSE,NA,35036
 "Green",NA,"2006-11-01",400,"Jennifer A Henstock","K7K5S5","Kingston and the Islands","Kingston","ON",-76.546685,44.226096,"2006",FALSE,NA,35036
-"Green",NA,"2006-11-01",100,"Lawrence Arkilander","K8N5Y8","Prince Edward—Hastings","Belleville","ON",-77.376782,44.174016,"2006",FALSE,NA,35073
 "Green",NA,"2006-11-01",25,"Lawrence Arkilander","K8N5Y8","Prince Edward—Hastings","Belleville","ON",-77.376782,44.174016,"2006",FALSE,NA,35073
+"Green",NA,"2006-11-01",100,"Lawrence Arkilander","K8N5Y8","Prince Edward—Hastings","Belleville","ON",-77.376782,44.174016,"2006",FALSE,NA,35073
 "Green",NA,"2006-11-01",30,"Gerald F Harris","K9J5N2","Peterborough","Peterborough","ON",-78.338461,44.306197,"2006",FALSE,NA,35071
 "Green",NA,"2006-11-01",10,"Kim Lamont","K9L1V9","Peterborough","Peterborough","ON",-78.306401,44.349582,"2006",FALSE,NA,35071
 "Green",NA,"2006-11-01",25,"Bruce Janes","L0G1M0","York—Simcoe","Bradford","ON",-79.313196,44.137647,"2006",FALSE,NA,35104
@@ -1983,9 +1983,9 @@
 "Green",NA,"2006-11-03",340,"Celest Silvea","V9T5W9","Nanaimo—Alberni","Nanaimo","BC",-123.951161,49.212306,"2006",FALSE,NA,59014
 "Green","Trois-Rivières","2006-11-04",100,"Maria Lavoie","G8Y5R7","Trois-Rivières","Trois-rivières","QC",-72.609574,46.365208,"2006",TRUE,24072,24072
 "Green","Toronto—Danforth","2006-11-04",300,"Rebecca Smit","M4K2J9","Toronto—Danforth","East York","ON",-79.356323,43.69179,"2006",TRUE,35094,35094
-"Green",NA,"2006-11-04",400,"Joy Vogt","M5C2V3","Toronto Centre","Toronto","ON",-79.373383,43.652131,"2006",FALSE,NA,35093
-"Green",NA,"2006-11-04",400,"Joy Vogt","M5C2V3","Toronto Centre","Toronto","ON",-79.373383,43.652131,"2006",FALSE,NA,35093
 "Green",NA,"2006-11-04",400,"Bernie Vogt","M5C2V3","Toronto Centre","Toronto","ON",-79.373383,43.652131,"2006",FALSE,NA,35093
+"Green",NA,"2006-11-04",400,"Joy Vogt","M5C2V3","Toronto Centre","Toronto","ON",-79.373383,43.652131,"2006",FALSE,NA,35093
+"Green",NA,"2006-11-04",400,"Joy Vogt","M5C2V3","Toronto Centre","Toronto","ON",-79.373383,43.652131,"2006",FALSE,NA,35093
 "Green",NA,"2006-11-04",400,"Gordon R Martin","M6R2P6","Parkdale—High Park","Toronto","ON",-79.450618,43.644152,"2006",FALSE,NA,35068
 "Green",NA,"2006-11-04",400,"Mary Yett","N5P3S8","Elgin—Middlesex—London","St Thomas","ON",-81.162364,42.713069,"2006",FALSE,NA,35020
 "Green",NA,"2006-11-04",400,"Jane Sterk","V9A4J5","Esquimalt—Juan de Fuca","Victoria","BC",-123.411327,48.447497,"2006",FALSE,NA,59008
@@ -2391,16 +2391,16 @@
 "Green",NA,"2006-12-01",10,"Bill Wilson","V8V2C8","Victoria","Victoria","BC",-123.378255,48.414566,"2006",FALSE,NA,59035
 "Green",NA,"2006-12-01",33.33,"Frank Arnold","V8X1A5","Saanich—Gulf Islands","Victoria","BC",-123.353589,48.451857,"2006",FALSE,NA,59024
 "Green",NA,"2006-12-01",10,"Harold Henn","V9G1G2","Nanaimo—Cowichan","Ladysmith","BC",-123.789401,49.039516,"2006",FALSE,NA,59015
-"Green","Lac-Saint-Louis","2006-12-02",80,"Shirley Nisbet","H9R1L9","Lac-Saint-Louis","Pointe-claire","QC",-73.816467,45.458722,"2006",TRUE,24027,24027
 "Green","Lac-Saint-Louis","2006-12-02",30,"Shirley Nisbet","H9R1L9","Lac-Saint-Louis","Pointe-claire","QC",-73.816467,45.458722,"2006",TRUE,24027,24027
+"Green","Lac-Saint-Louis","2006-12-02",80,"Shirley Nisbet","H9R1L9","Lac-Saint-Louis","Pointe-claire","QC",-73.816467,45.458722,"2006",TRUE,24027,24027
 "Green","Lac-Saint-Louis","2006-12-02",80,"Bruno Tremblay","H9R2X4","Lac-Saint-Louis","Pointe-claire","QC",-73.827118,45.443376,"2006",TRUE,24027,24027
 "Green","Lac-Saint-Louis","2006-12-02",25,"Michael O'brien","H9W1S8","Lac-Saint-Louis","Beaconsfield","QC",-73.839401,45.440147,"2006",TRUE,24027,24027
-"Green","Lac-Saint-Louis","2006-12-02",30,"Renee Wilson","H9W2W7","Lac-Saint-Louis","Beaconsfield","QC",-73.851145,45.440229,"2006",TRUE,24027,24027
 "Green","Lac-Saint-Louis","2006-12-02",30,"Arnald Desroches","H9W2W7","Lac-Saint-Louis","Beaconsfield","QC",-73.851145,45.440229,"2006",TRUE,24027,24027
+"Green","Lac-Saint-Louis","2006-12-02",30,"Renee Wilson","H9W2W7","Lac-Saint-Louis","Beaconsfield","QC",-73.851145,45.440229,"2006",TRUE,24027,24027
 "Green","Lac-Saint-Louis","2006-12-02",30,"Allison Hackney","H9X1B9","Lac-Saint-Louis","Senneville","QC",-73.964926,45.41831,"2006",TRUE,24027,24027
 "Green","Lac-Saint-Louis","2006-12-02",60,"Douglas Nisbet","H4H1X7","Jeanne-Le Ber","Verdun","QC",-73.570478,45.450675,"2006",TRUE,24027,24024
-"Green","Lac-Saint-Louis","2006-12-02",30,"Aarre Oljemark","H4K2C6","Saint-Laurent—Cartierville","Montréal","QC",-73.753697,45.511333,"2006",TRUE,24027,24066
 "Green","Lac-Saint-Louis","2006-12-02",30,"Sylvia Oljemark","H4K2C6","Saint-Laurent—Cartierville","Montréal","QC",-73.753697,45.511333,"2006",TRUE,24027,24066
+"Green","Lac-Saint-Louis","2006-12-02",30,"Aarre Oljemark","H4K2C6","Saint-Laurent—Cartierville","Montréal","QC",-73.753697,45.511333,"2006",TRUE,24027,24066
 "Green","Lac-Saint-Louis","2006-12-02",25,"Charlotte Smoley","H9A3C3","Pierrefonds—Dollard","Dollard-des-ormeaux","QC",-73.834892,45.48777,"2006",TRUE,24027,24049
 "Green","Lac-Saint-Louis","2006-12-02",30,"Laurie- Ann Nisbet","H9S2S2","Notre-Dame-de-Grâce—Lachine","Dorval","QC",-73.763477,45.441779,"2006",TRUE,24027,24045
 "Green","Lac-Saint-Louis","2006-12-02",60,"Don Hobus","J7A3L5","Marc-Aurèle-Fortin","Rosemère","QC",-73.784963,45.643872,"2006",TRUE,24027,24040
@@ -2411,8 +2411,8 @@
 "Green",NA,"2006-12-04",250,"Arlin Hackman","M6G2Z5","Trinity—Spadina","Toronto","ON",-79.419297,43.669212,"2006",FALSE,NA,35095
 "Green",NA,"2006-12-04",400,"Erin Fletcher","N7V3V5","Sarnia—Lambton","Sarnia","ON",-82.380111,43.010823,"2006",FALSE,NA,35078
 "Green",NA,"2006-12-04",10,"David R Crowe","T2N3W1","Calgary West","Calgary","AB",-114.124462,51.060453,"2006",FALSE,NA,48009
-"Green","Kingston and the Islands","2006-12-05",110,"Jennifer Henstock","K7K5S5","Kingston and the Islands","Kingston","ON",-76.546685,44.226096,"2006",TRUE,35036,35036
 "Green","Kingston and the Islands","2006-12-05",110,"Eric B Walton","K7K5S5","Kingston and the Islands","Kingston","ON",-76.546685,44.226096,"2006",TRUE,35036,35036
+"Green","Kingston and the Islands","2006-12-05",110,"Jennifer Henstock","K7K5S5","Kingston and the Islands","Kingston","ON",-76.546685,44.226096,"2006",TRUE,35036,35036
 "Green","Kingston and the Islands","2006-12-05",140,"Robert Horwood","K7K7J7","Kingston and the Islands","Kingston","ON",-76.481356,44.234797,"2006",TRUE,35036,35036
 "Green","Kingston and the Islands","2006-12-05",70,"George Clark","K7L2W7","Kingston and the Islands","Kingston","ON",-76.494083,44.223965,"2006",TRUE,35036,35036
 "Green","Kingston and the Islands","2006-12-05",210,"Rudi   Mogi","K7L4H6","Kingston and the Islands","Kingston","ON",-76.507297,44.222395,"2006",TRUE,35036,35036
@@ -2527,10 +2527,10 @@
 "Green",NA,"2006-12-17",400,"Kevin Miller","R2C4C6","Elmwood—Transcona","Winnipeg","MB",-97.019889,49.909166,"2006",FALSE,NA,46005
 "Green","Bruce—Grey—Owen Sound","2006-12-18",400,"Randy Dryburgh","N0G1N0","Bruce—Grey—Owen Sound","Southgate","ON",-80.527119,43.993402,"2006",TRUE,35026,35026
 "Green","West Vancouver—Sunshine Coast—Sea to Sky Country","2006-12-18",400,"Lisa Housden","V0N1V3","West Vancouver—Sunshine Coast—Sea to Sky Country","Gibsons","BC",-123.530954,49.389628,"2006",TRUE,59036,59036
-"Green","West Vancouver—Sunshine Coast—Sea to Sky Country","2006-12-18",400,"Paul George","V0N1Y1","West Vancouver—Sunshine Coast—Sea to Sky Country","Halfmoon Bay","BC",-123.906271,49.503297,"2006",TRUE,59036,59036
 "Green","West Vancouver—Sunshine Coast—Sea to Sky Country","2006-12-18",450,"Adriane Carr","V0N1Y1","West Vancouver—Sunshine Coast—Sea to Sky Country","Halfmoon Bay","BC",-123.906271,49.503297,"2006",TRUE,59036,59036
-"Green","West Vancouver—Sunshine Coast—Sea to Sky Country","2006-12-18",400,"Marshall Bauman","V7W2C4","West Vancouver—Sunshine Coast—Sea to Sky Country","West Vancouver","BC",-123.27969,49.369277,"2006",TRUE,59036,59036
+"Green","West Vancouver—Sunshine Coast—Sea to Sky Country","2006-12-18",400,"Paul George","V0N1Y1","West Vancouver—Sunshine Coast—Sea to Sky Country","Halfmoon Bay","BC",-123.906271,49.503297,"2006",TRUE,59036,59036
 "Green","West Vancouver—Sunshine Coast—Sea to Sky Country","2006-12-18",252,"Marshall Bauman","V7W2C4","West Vancouver—Sunshine Coast—Sea to Sky Country","West Vancouver","BC",-123.27969,49.369277,"2006",TRUE,59036,59036
+"Green","West Vancouver—Sunshine Coast—Sea to Sky Country","2006-12-18",400,"Marshall Bauman","V7W2C4","West Vancouver—Sunshine Coast—Sea to Sky Country","West Vancouver","BC",-123.27969,49.369277,"2006",TRUE,59036,59036
 "Green","Northwest Territories","2006-12-18",400,"Paul Ken","X0E0T0","Northwest Territories","Inuvik","NT",-133.747108,68.37389,"2006",TRUE,61001,61001
 "Green",NA,"2006-12-18",400,"Lorne Holyoak","K1R7C2","Ottawa Centre","Ottawa","ON",-75.706963,45.40971,"2006",FALSE,NA,35062
 "Green",NA,"2006-12-18",320,"Ann Moscher","L1R2S5","Whitby—Oshawa","Whitby","ON",-78.920273,43.921049,"2006",FALSE,NA,35099
@@ -2588,8 +2588,8 @@
 "Green",NA,"2006-12-22",1000,"Jim Simpson","L0K2E0","Simcoe—Grey","Victoria Harbour","ON",-79.862572,44.680668,"2006",FALSE,NA,35085
 "Green",NA,"2006-12-22",10,"Jim Simpson","L0K2E0","Simcoe—Grey","Victoria Harbour","ON",-79.862572,44.680668,"2006",FALSE,NA,35085
 "Green",NA,"2006-12-22",400,"Douglas W Marshall","L1N9G2","Whitby—Oshawa","Whitby","ON",-78.936422,43.859225,"2006",FALSE,NA,35099
-"Green",NA,"2006-12-22",750,"Nancy Andraos","L6B1E4","Oak Ridges—Markham","Markham","ON",-79.231439,43.893709,"2006",FALSE,NA,35059
 "Green",NA,"2006-12-22",750,"George Zeller","L6B1E4","Oak Ridges—Markham","Markham","ON",-79.231439,43.893709,"2006",FALSE,NA,35059
+"Green",NA,"2006-12-22",750,"Nancy Andraos","L6B1E4","Oak Ridges—Markham","Markham","ON",-79.231439,43.893709,"2006",FALSE,NA,35059
 "Green",NA,"2006-12-22",500,"Richard Lee","M5J2G2","Trinity—Spadina","Toronto","ON",-79.379108,43.644961,"2006",FALSE,NA,35095
 "Green",NA,"2006-12-22",400,"Jason Kimball","N0N1T0","Lambton—Kent—Middlesex","Wyoming","ON",-82.119965,42.952703,"2006",FALSE,NA,35046
 "Green",NA,"2006-12-22",1010,"Lorraine Bell","V7A2W1","Delta—Richmond East","Richmond","BC",-123.119413,49.136474,"2006",FALSE,NA,59006
@@ -2601,8 +2601,8 @@
 "Green","North Vancouver","2006-12-24",400,"Eric Stephanson","V7R1W6","North Vancouver","North Vancouver","BC",-123.106406,49.348959,"2006",TRUE,59019,59019
 "Green","Ottawa Centre","2006-12-24",637.5,"David Herreshoff","V0G1M0","British Columbia Southern Interior","Kaslo","BC",-116.912579,49.913707,"2006",TRUE,35062,59026
 "Green","North Vancouver","2006-12-24",400,"Wanda Laurie Norris","V7P2X8","West Vancouver—Sunshine Coast—Sea to Sky Country","North Vancouver","BC",-123.115281,49.319322,"2006",TRUE,59019,59036
-"Green",NA,"2006-12-25",300,"Minnie De Jong","K9A2Y2","Northumberland—Quinte West","Cobourg","ON",-78.184467,43.957526,"2006",FALSE,NA,35058
 "Green",NA,"2006-12-25",300,"Richard Tyssen","K9A2Y2","Northumberland—Quinte West","Cobourg","ON",-78.184467,43.957526,"2006",FALSE,NA,35058
+"Green",NA,"2006-12-25",300,"Minnie De Jong","K9A2Y2","Northumberland—Quinte West","Cobourg","ON",-78.184467,43.957526,"2006",FALSE,NA,35058
 "Green",NA,"2006-12-25",500,"Peter E Mehling","V7R1E3","North Vancouver","North Vancouver","BC",-123.111705,49.335046,"2006",FALSE,NA,59019
 "Green",NA,"2006-12-26",500,"Michael Wolfson","K1S2V4","Ottawa Centre","Ottawa","ON",-75.689904,45.396921,"2006",FALSE,NA,35062
 "Green",NA,"2006-12-26",250,"Richard Blitz","T6J7C7","Edmonton—Leduc","Edmonton","AB",-113.502331,53.478777,"2006",FALSE,NA,48014
@@ -2665,14 +2665,14 @@
 "Green","Kitchener Centre","2006-12-30",400,"Deborah Cardiff","N2K4G8","Kitchener—Waterloo","Waterloo","ON",-80.487312,43.491953,"2006",TRUE,35037,35039
 "Green",NA,"2006-12-30",300,"Judey Jackson","T0E0A0","Yellowhead","Alberta Beach","AB",-114.35815,53.674601,"2006",FALSE,NA,48028
 "Green",NA,"2006-12-30",250,"Ron Guetter","T5N2Y1","Edmonton Centre","Edmonton","AB",-113.570906,53.547486,"2006",FALSE,NA,48012
-"Green",NA,"2006-12-30",300,"Marshall Ross Fugard","V0R2P4","Nanaimo—Cowichan","Mill Bay","BC",-123.548034,48.634463,"2006",FALSE,NA,59015
 "Green",NA,"2006-12-30",500,"Marshall Ross Fugard","V0R2P4","Nanaimo—Cowichan","Mill Bay","BC",-123.548034,48.634463,"2006",FALSE,NA,59015
+"Green",NA,"2006-12-30",300,"Marshall Ross Fugard","V0R2P4","Nanaimo—Cowichan","Mill Bay","BC",-123.548034,48.634463,"2006",FALSE,NA,59015
 "Green","Ottawa Centre","2006-12-31",250,"Alex De Vries","K1S4A5","Ottawa Centre","Ottawa","ON",-75.690174,45.399571,"2006",TRUE,35062,35062
 "Green","Toronto Centre","2006-12-31",1000,"Chris Tindal","M4Y2X4","Toronto Centre","Toronto","ON",-79.373087,43.664926,"2006",TRUE,35093,35093
 "Green","British Columbia Southern Interior","2006-12-31",637.5,"Jessie Herreshoff","V0G1M0","British Columbia Southern Interior","Kaslo","BC",-116.912579,49.913707,"2006",TRUE,59026,59026
 "Green","Saanich—Gulf Islands","2006-12-31",300,"Robyn Ross","V8M1H6","Saanich—Gulf Islands","Brentwood Bay","BC",-123.453006,48.575078,"2006",TRUE,59024,59024
-"Green",NA,"2006-12-31",400,"Barry Murray","C0B1M0","Malpeque","Clinton","PE",-63.638204,46.439507,"2006",FALSE,NA,11004
 "Green",NA,"2006-12-31",400,"Jeremy Stiles","C0B1M0","Malpeque","Clinton","PE",-63.638204,46.439507,"2006",FALSE,NA,11004
+"Green",NA,"2006-12-31",400,"Barry Murray","C0B1M0","Malpeque","Clinton","PE",-63.638204,46.439507,"2006",FALSE,NA,11004
 "Green",NA,"2006-12-31",420,"David Sims","C1A7J7","Malpeque","Charlottetown","PE",-63.091976,46.298858,"2006",FALSE,NA,11004
 "Green",NA,"2006-12-31",400,"Pierre Villemure","J7T2G7","Vaudreuil-Soulanges","Saint-lazare","QC",-74.149344,45.406747,"2006",FALSE,NA,24073
 "Green",NA,"2006-12-31",500,"Helen Spence","K0A3M0","Carleton—Mississippi Mills","Ottawa","ON",-76.096669,45.487825,"2006",FALSE,NA,35012

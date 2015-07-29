@@ -10,8 +10,8 @@
 "Green",NA,"2004-01-06",5,"Andy Shadrack","V0G1M0","British Columbia Southern Interior","Kaslo","BC",-116.912579,49.913707,"2004",FALSE,NA,59026
 "Green",NA,"2004-01-06",210,"Arno C Schortinghuis","V5Y2N9","Vancouver Kingsway","Vancouver","BC",-123.104897,49.23556,"2004",FALSE,NA,59032
 "Green",NA,"2004-01-06",10,"Sara Stallard","V8T1A5","Victoria","Victoria","BC",-123.351123,48.427608,"2004",FALSE,NA,59035
-"Green","Davenport","2004-01-12",805,"Kelley Aitken","M6H4A3","Davenport","Toronto","ON",-79.442953,43.655526,"2004",TRUE,35015,35015
 "Green","Davenport","2004-01-12",240,"Frank De Jong","M6H4A3","Davenport","Toronto","ON",-79.442953,43.655526,"2004",TRUE,35015,35015
+"Green","Davenport","2004-01-12",805,"Kelley Aitken","M6H4A3","Davenport","Toronto","ON",-79.442953,43.655526,"2004",TRUE,35015,35015
 "Green",NA,"2004-01-12",95,"Andy Shadrack","V0G1M0","British Columbia Southern Interior","Kaslo","BC",-116.912579,49.913707,"2004",FALSE,NA,59026
 "Green","Davenport","2004-01-14",1000,"Mark Viltala","M5A4G4","Toronto Centre","Toronto","ON",-79.361399,43.648536,"2004",TRUE,35015,35093
 "Green",NA,"2004-01-15",300,"Paul Hunter","V0G1M0","British Columbia Southern Interior","Kaslo","BC",-116.912579,49.913707,"2004",FALSE,NA,59026
@@ -32,8 +32,8 @@
 "Green",NA,"2004-02-05",25,"Larry Sorken","V9N8S5","Vancouver Island North","Courtenay","BC",-124.957646,49.700547,"2004",FALSE,NA,59031
 "Green","Esquimalt—Juan de Fuca","2004-02-07",10,"Richard Lacharite","V8Z1N7","Esquimalt—Juan de Fuca","Victoria","BC",-123.418843,48.465468,"2004",TRUE,59008,59008
 "Green","Esquimalt—Juan de Fuca","2004-02-07",20,"Jane Sterk","V9A4J5","Esquimalt—Juan de Fuca","Victoria","BC",-123.411327,48.447497,"2004",TRUE,59008,59008
-"Green","Stormont—Dundas—South Glengarry","2004-02-09",72,"Isabelle Masson","K0C1G0","Stormont—Dundas—South Glengarry","Berwick","ON",-75.104109,45.181283,"2004",TRUE,35087,35087
 "Green","Stormont—Dundas—South Glengarry","2004-02-09",113.37,"Thomas P Manley","K0C1G0","Stormont—Dundas—South Glengarry","Berwick","ON",-75.104109,45.181283,"2004",TRUE,35087,35087
+"Green","Stormont—Dundas—South Glengarry","2004-02-09",72,"Isabelle Masson","K0C1G0","Stormont—Dundas—South Glengarry","Berwick","ON",-75.104109,45.181283,"2004",TRUE,35087,35087
 "Green","Saanich—Gulf Islands","2004-02-09",250,"Eric Akis Akis Consulting","V8R2N2","Victoria","Victoria","BC",-123.309791,48.437456,"2004",TRUE,59024,59035
 "Green","Calgary Centre-North","2004-02-11",175,"Jan Triska","T3C2Y8","Calgary West","Calgary","AB",-114.134882,51.04978,"2004",TRUE,48003,48009
 "Green",NA,"2004-02-16",5000,"Jean A Mackenzie","V6N3W9","Vancouver Quadra","W Vancouver","BC",-123.17567,49.221323,"2004",FALSE,NA,59033
@@ -102,8 +102,8 @@
 "Green",NA,"2004-04-02",50,"Dale Aubuchon","T4T2A1","Wetaskiwin","Rocky Mountain House","AB",-114.909954,52.376909,"2004",FALSE,NA,48026
 "Green",NA,"2004-04-02",1275,"Jeff Wheeler","V0H1N0","Kelowna—Lake Country","Penticton","BC",-119.584499,49.589228,"2004",FALSE,NA,59011
 "Green","Saanich—Gulf Islands","2004-04-04",500,"Baron Fowler","V8K1C7","Saanich—Gulf Islands","Salt Spring Island","BC",-123.56097,48.910095,"2004",TRUE,59024,59024
-"Green","Saanich—Gulf Islands","2004-04-04",5000,"Randy Bachman","V8K2W1","Saanich—Gulf Islands","Salt Spring Island","BC",-123.514108,48.871545,"2004",TRUE,59024,59024
 "Green","Saanich—Gulf Islands","2004-04-04",4600,"Denise Beck","V8K2W1","Saanich—Gulf Islands","Salt Spring Island","BC",-123.514108,48.871545,"2004",TRUE,59024,59024
+"Green","Saanich—Gulf Islands","2004-04-04",5000,"Randy Bachman","V8K2W1","Saanich—Gulf Islands","Salt Spring Island","BC",-123.514108,48.871545,"2004",TRUE,59024,59024
 "Green","Saanich—Gulf Islands","2004-04-04",400,"Denise Beck","V8K2W1","Saanich—Gulf Islands","Salt Spring Island","BC",-123.514108,48.871545,"2004",TRUE,59024,59024
 "Green","Kitchener—Waterloo","2004-04-05",250,"Sarah Corfield","N2K1A9","Kitchener—Waterloo","Kitchener","ON",-80.466862,43.484725,"2004",TRUE,35039,35039
 "Green","Kitchener—Waterloo","2004-04-05",250,"Steve Vogel","N2K1A9","Kitchener—Waterloo","Kitchener","ON",-80.466862,43.484725,"2004",TRUE,35039,35039
@@ -145,8 +145,8 @@
 "Green",NA,"2004-04-11",200,"Maria Davies","L7E5S1","Dufferin—Caledon","Bolton","ON",-79.749187,43.834924,"2004",FALSE,NA,35018
 "Green","Malpeque","2004-04-13",400,"David Mackenzie","C0A1J0","Malpeque","Victoria","PE",-63.495327,46.239374,"2004",TRUE,11004,11004
 "Green","Kelowna—Lake Country","2004-04-13",61.92,"Louvain Schon","V4V2C7","Kelowna—Lake Country","Oyama","BC",-119.381238,50.095796,"2004",TRUE,59011,59011
-"Green","Malpeque","2004-04-13",400,"Diane Mackenzie","C1A6C6","Charlottetown","Charlottetown","PE",-63.128167,46.257218,"2004",TRUE,11004,11002
 "Green","Malpeque","2004-04-13",400,"Eddie Mackenzie","C1A6C6","Charlottetown","Charlottetown","PE",-63.128167,46.257218,"2004",TRUE,11004,11002
+"Green","Malpeque","2004-04-13",400,"Diane Mackenzie","C1A6C6","Charlottetown","Charlottetown","PE",-63.128167,46.257218,"2004",TRUE,11004,11002
 "Green","Ancaster—Dundas—Flamborough—Westdale","2004-04-14",275,"David Januczkowski","L0R1K0","Ancaster—Dundas—Flamborough—Westdale","Hamilton","ON",-80.04228,43.388397,"2004",TRUE,35003,35003
 "Green",NA,"2004-04-14",400,"Sanjeev Goel","L6V1J6","Brampton West","Brampton","ON",-79.764186,43.690337,"2004",FALSE,NA,35008
 "Green",NA,"2004-04-14",400,"Jane Ross","M5B2A1","Toronto Centre","Toronto","ON",-79.380329,43.659378,"2004",FALSE,NA,35093
@@ -162,8 +162,8 @@
 "Green","Richmond Hill","2004-04-20",650,"Elizabeth M Maynes","L4C9J4","Richmond Hill","Richmond Hill","ON",-79.45614,43.888205,"2004",TRUE,35075,35075
 "Green","Parkdale—High Park","2004-04-20",50,"Bruce G Hearns","M6K3A4","Parkdale—High Park","Toronto","ON",-79.438468,43.636381,"2004",TRUE,35068,35068
 "Green","Guelph","2004-04-20",500,"William Hulet","N1H3P9","Guelph","Guelph","ON",-80.243967,43.544487,"2004",TRUE,35027,35027
-"Green","West Vancouver—Sunshine Coast—Sea to Sky Country","2004-04-20",750,"Ruth Goldsmith","H3W2B8","Westmount—Ville-Marie","Montréal","QC",-73.621244,45.485176,"2004",TRUE,59036,24075
 "Green","West Vancouver—Sunshine Coast—Sea to Sky Country","2004-04-20",750,"Marvin Goldsmith","H3W2B8","Westmount—Ville-Marie","Montréal","QC",-73.621244,45.485176,"2004",TRUE,59036,24075
+"Green","West Vancouver—Sunshine Coast—Sea to Sky Country","2004-04-20",750,"Ruth Goldsmith","H3W2B8","Westmount—Ville-Marie","Montréal","QC",-73.621244,45.485176,"2004",TRUE,59036,24075
 "Green","West Vancouver—Sunshine Coast—Sea to Sky Country","2004-04-20",400,"Richard Gelber","H3X1S5","Mount Royal","Hampstead","QC",-73.636704,45.478875,"2004",TRUE,59036,24044
 "Green","West Vancouver—Sunshine Coast—Sea to Sky Country","2004-04-20",400,"Danny Chazonoff","H3X3E3","Mount Royal","Hampstead","QC",-73.644083,45.483398,"2004",TRUE,59036,24044
 "Green","West Vancouver—Sunshine Coast—Sea to Sky Country","2004-04-20",300,"Joanne Glazer","H3Y2E7","Westmount—Ville-Marie","Westmount","QC",-73.596223,45.487283,"2004",TRUE,59036,24075
@@ -182,12 +182,12 @@
 "Green","Kingston and the Islands","2004-04-26",10,"Janina Fisher Balfour","K7K3V5","Kingston and the Islands","Kingston","ON",-76.490666,44.239355,"2004",TRUE,35036,35036
 "Green","Kingston and the Islands","2004-04-26",30,"Janina Fisher Balfour","K7K3V5","Kingston and the Islands","Kingston","ON",-76.490666,44.239355,"2004",TRUE,35036,35036
 "Green","Kingston and the Islands","2004-04-26",60,"Steven Harker","K7L4M6","Kingston and the Islands","Kingston","ON",-76.510041,44.234594,"2004",TRUE,35036,35036
-"Green","Vancouver Island North","2004-04-26",250,"Maggie Dwwyer","V9N1R2","Vancouver Island North","Courtenay","BC",-124.999905,49.686179,"2004",TRUE,59031,59031
 "Green","Vancouver Island North","2004-04-26",200,"Frank Hovenden","V9N1R2","Vancouver Island North","Courtenay","BC",-124.999905,49.686179,"2004",TRUE,59031,59031
+"Green","Vancouver Island North","2004-04-26",250,"Maggie Dwwyer","V9N1R2","Vancouver Island North","Courtenay","BC",-124.999905,49.686179,"2004",TRUE,59031,59031
 "Green",NA,"2004-04-26",250,"Jonathan Whistler","V6G2Z1","Vancouver Centre","Vancouver","BC",-123.131907,49.28461,"2004",FALSE,NA,59029
 "Green",NA,"2004-04-26",500,"Robert F. Shaw","V6H1J6","Vancouver Centre","Vancouver","BC",-123.122537,49.263082,"2004",FALSE,NA,59029
-"Green","Dufferin—Caledon","2004-04-27",300,"Karen Smith","L0N1G0","Dufferin—Caledon","Amaranth","ON",-80.304826,43.89981,"2004",TRUE,35018,35018
 "Green","Dufferin—Caledon","2004-04-27",300,"Lorna Smith","L0N1G0","Dufferin—Caledon","Amaranth","ON",-80.304826,43.89981,"2004",TRUE,35018,35018
+"Green","Dufferin—Caledon","2004-04-27",300,"Karen Smith","L0N1G0","Dufferin—Caledon","Amaranth","ON",-80.304826,43.89981,"2004",TRUE,35018,35018
 "Green","Dufferin—Caledon","2004-04-27",500,"Robert Strang","L9W1A6","Dufferin—Caledon","Orangeville","ON",-80.099044,43.923816,"2004",TRUE,35018,35018
 "Green","West Vancouver—Sunshine Coast—Sea to Sky Country","2004-04-27",400,"Brahm Hyams","H3Y1X3","Westmount—Ville-Marie","Westmount","QC",-73.60849,45.483493,"2004",TRUE,59036,24075
 "Green","West Vancouver—Sunshine Coast—Sea to Sky Country","2004-04-27",400,"Suzan Cohen","H4W2G9","Mount Royal","Côte-saint-luc","QC",-73.668695,45.463324,"2004",TRUE,59036,24044
@@ -240,8 +240,8 @@
 "Green",NA,"2004-05-05",100,"Michael Gilfillan","V1N4M7","British Columbia Southern Interior","Castlegar","BC",-117.58218,49.351574,"2004",FALSE,NA,59026
 "Green","Carleton—Mississippi Mills","2004-05-06",100,"Christina Hardy","K0A1T0","Carleton—Mississippi Mills","Nepean","ON",-76.014982,45.448633,"2004",TRUE,35012,35012
 "Green","Glengarry—Prescott—Russell","2004-05-06",400,"Roy Fjarlie","K0C1W0","Glengarry—Prescott—Russell","Moose Creek","ON",-74.971249,45.258108,"2004",TRUE,35025,35025
-"Green","Saanich—Gulf Islands","2004-05-06",500,"William Krebs","V8K2M1","Saanich—Gulf Islands","Salt Spring Island","BC",-123.476071,48.855967,"2004",TRUE,59024,59024
 "Green","Saanich—Gulf Islands","2004-05-06",500,"Margit Kristiansen","V8K2M1","Saanich—Gulf Islands","Salt Spring Island","BC",-123.476071,48.855967,"2004",TRUE,59024,59024
+"Green","Saanich—Gulf Islands","2004-05-06",500,"William Krebs","V8K2M1","Saanich—Gulf Islands","Salt Spring Island","BC",-123.476071,48.855967,"2004",TRUE,59024,59024
 "Green","Esquimalt—Juan de Fuca","2004-05-07",400,"Richard Lacharite","V8Z1N7","Esquimalt—Juan de Fuca","Victoria","BC",-123.418843,48.465468,"2004",TRUE,59008,59008
 "Green","Nanaimo—Alberni","2004-05-07",200,"Jane Glover","V9T1K2","Nanaimo—Alberni","Nanaimo","BC",-123.945422,49.214145,"2004",TRUE,59014,59014
 "Green",NA,"2004-05-07",200,"Randy Dryburgh","N0G1N0","Dufferin—Caledon","Southgate","ON",-80.527119,43.993402,"2004",FALSE,NA,35018
@@ -258,8 +258,8 @@
 "Green","Vancouver East","2004-05-08",25,"Rose Stevens","V1C6Z7","Kootenay—Columbia","Cranbrook","BC",-115.728016,49.477664,"2004",TRUE,59030,59012
 "Green","Vancouver East","2004-05-08",100,"Rachel Luttrell","V6J3W4","Vancouver Centre","Vancouver","BC",-123.151315,49.273827,"2004",TRUE,59030,59029
 "Green","London North Centre","2004-05-09",100,"Brian Macaskill","N6G1W2","London North Centre","London","ON",-81.297795,43.000054,"2004",TRUE,35043,35043
-"Green","Esquimalt—Juan de Fuca","2004-05-09",280,"Jane Sterk","V9A4J5","Esquimalt—Juan de Fuca","Victoria","BC",-123.411327,48.447497,"2004",TRUE,59008,59008
 "Green","Esquimalt—Juan de Fuca","2004-05-09",750,"John Sterk","V9A4J5","Esquimalt—Juan de Fuca","Victoria","BC",-123.411327,48.447497,"2004",TRUE,59008,59008
+"Green","Esquimalt—Juan de Fuca","2004-05-09",280,"Jane Sterk","V9A4J5","Esquimalt—Juan de Fuca","Victoria","BC",-123.411327,48.447497,"2004",TRUE,59008,59008
 "Green","Ottawa West—Nepean","2004-05-10",300,"Ian Whyte","K2B5C2","Ottawa West—Nepean","Ottawa","ON",-75.776752,45.373673,"2004",TRUE,35066,35066
 "Green","Toronto—Danforth","2004-05-10",400,"Nancy Schneider","M4K3H4","Toronto—Danforth","Toronto","ON",-79.349158,43.680634,"2004",TRUE,35094,35094
 "Green","Toronto—Danforth","2004-05-10",400,"Rob Nevin","M4K3H4","Toronto—Danforth","Toronto","ON",-79.349158,43.680634,"2004",TRUE,35094,35094
@@ -302,8 +302,8 @@
 "Green","Victoria","2004-05-18",1100,"Walter Erpen","V8W3S3","Saanich—Gulf Islands","Victoria","BC",-123.423138,48.426893,"2004",TRUE,59035,59024
 "Green","Nanaimo—Alberni","2004-05-19",400,"Vilma Dube","V9T3E6","Nanaimo—Alberni","Nanaimo","BC",-123.963985,49.228833,"2004",TRUE,59014,59014
 "Green",NA,"2004-05-19",100,"Colin Young","P0T1C0","Kenora","Atikokan","ON",-91.617858,48.761319,"2004",FALSE,NA,35035
-"Green","Lanark—Frontenac—Lennox and Addington","2004-05-20",400,"Linda Mosquin","K0G1K0","Lanark—Frontenac—Lennox and Addington","Carleton Place","ON",-76.3787,45.028733,"2004",TRUE,35040,35040
 "Green","Lanark—Frontenac—Lennox and Addington","2004-05-20",400,"Theodore Mosquin","K0G1K0","Lanark—Frontenac—Lennox and Addington","Carleton Place","ON",-76.3787,45.028733,"2004",TRUE,35040,35040
+"Green","Lanark—Frontenac—Lennox and Addington","2004-05-20",400,"Linda Mosquin","K0G1K0","Lanark—Frontenac—Lennox and Addington","Carleton Place","ON",-76.3787,45.028733,"2004",TRUE,35040,35040
 "Green","Mississauga—Brampton South","2004-05-20",70,"Carmen Simas","L4Z3P7","Mississauga—Brampton South","Mississauga","ON",-79.662238,43.615712,"2004",TRUE,35047,35047
 "Green",NA,"2004-05-20",400,"Feliks Welfeld","K1K4B2","Ottawa—Vanier","Ottawa","ON",-75.626064,45.438349,"2004",FALSE,NA,35065
 "Green",NA,"2004-05-20",1000,"Association Ontario English Catholic Teacher's","M3K2A7","York Centre","North York","ON",-79.473149,43.729119,"2004",FALSE,NA,35103
@@ -326,8 +326,8 @@
 "Green",NA,"2004-05-22",250,"Michael Teper","M2M1P6","York Centre","North York","ON",-79.429909,43.794663,"2004",FALSE,NA,35103
 "Green",NA,"2004-05-22",200,"Philippa White","V8L5Y7","Saanich—Gulf Islands","Sidney","BC",-123.413988,48.70475,"2004",FALSE,NA,59024
 "Green","Lanark—Frontenac—Lennox and Addington","2004-05-23",89,"Linda Mosquin","K0G1K0","Lanark—Frontenac—Lennox and Addington","Carleton Place","ON",-76.3787,45.028733,"2004",TRUE,35040,35040
-"Green","Ottawa—Vanier","2004-05-23",400,"Steven Tackach","K1M1N8","Ottawa—Vanier","Ottawa","ON",-75.689528,45.44051,"2004",TRUE,35065,35065
 "Green","Ottawa—Vanier","2004-05-23",400,"Susan Sinclair","K1M1N8","Ottawa—Vanier","Ottawa","ON",-75.689528,45.44051,"2004",TRUE,35065,35065
+"Green","Ottawa—Vanier","2004-05-23",400,"Steven Tackach","K1M1N8","Ottawa—Vanier","Ottawa","ON",-75.689528,45.44051,"2004",TRUE,35065,35065
 "Green",NA,"2004-05-23",400,"Frank Hnatiw","K1V9P9","Ottawa South","Ottawa","ON",-75.646858,45.356377,"2004",FALSE,NA,35064
 "Green",NA,"2004-05-23",250,"Iain Hamilton","M1L4V4","Scarborough Southwest","Scarborough","ON",-79.284359,43.709528,"2004",FALSE,NA,35084
 "Green","Guelph","2004-05-24",500,"Robert Bell","N1E4T8","Guelph","Guelph","ON",-80.242364,43.547168,"2004",TRUE,35027,35027
@@ -341,14 +341,14 @@
 "Green","Ottawa South","2004-05-25",400,"Tamara Galko","K1H7C3","Ottawa South","Ottawa","ON",-75.65771,45.384045,"2004",TRUE,35064,35064
 "Green","Kelowna—Lake Country","2004-05-25",2.2,"Isobel Cole","V1V1Z4","Kelowna—Lake Country","Kelowna","BC",-119.449465,49.909466,"2004",TRUE,59011,59011
 "Green","Kelowna—Lake Country","2004-05-25",7.2,"Marie Mcintosh","V1Y1H5","Kelowna—Lake Country","Kelowna","BC",-119.501122,49.898701,"2004",TRUE,59011,59011
-"Green","Kelowna—Lake Country","2004-05-25",100,"Louvain Schon","V4V2C7","Kelowna—Lake Country","Oyama","BC",-119.381238,50.095796,"2004",TRUE,59011,59011
 "Green","Kelowna—Lake Country","2004-05-25",4.4,"Louvain Schon","V4V2C7","Kelowna—Lake Country","Oyama","BC",-119.381238,50.095796,"2004",TRUE,59011,59011
+"Green","Kelowna—Lake Country","2004-05-25",100,"Louvain Schon","V4V2C7","Kelowna—Lake Country","Oyama","BC",-119.381238,50.095796,"2004",TRUE,59011,59011
 "Green",NA,"2004-05-25",250,"Chuck Curtis","K1G3E2","Ottawa South","Ottawa","ON",-75.633452,45.388219,"2004",FALSE,NA,35064
 "Green","Ottawa South","2004-05-25",500,"Barbara Ford","M3B2M9","Don Valley West","North York","ON",-79.355807,43.73617,"2004",TRUE,35064,35017
 "Green","Ottawa—Vanier","2004-05-26",500,"Dennis M Whitefield","K1N1E5","Ottawa—Vanier","Ottawa","ON",-75.669592,45.422037,"2004",TRUE,35065,35065
 "Green","Simcoe North","2004-05-26",300,"Jamie Powell","L0K1E0","Simcoe North","Orillia","ON",-79.634321,44.701295,"2004",TRUE,35086,35086
-"Green","Simcoe North","2004-05-26",300,"Warren Andrews","L0L2L0","Simcoe North","Oro-medonte","ON",-79.614238,44.459454,"2004",TRUE,35086,35086
 "Green","Simcoe North","2004-05-26",210,"Penny Gabor","L0L2L0","Simcoe North","Oro-medonte","ON",-79.614238,44.459454,"2004",TRUE,35086,35086
+"Green","Simcoe North","2004-05-26",300,"Warren Andrews","L0L2L0","Simcoe North","Oro-medonte","ON",-79.614238,44.459454,"2004",TRUE,35086,35086
 "Green","Eglinton—Lawrence","2004-05-26",100,"Lauralyn Johnson","M4R1M5","Eglinton—Lawrence","Toronto","ON",-79.402059,43.718219,"2004",TRUE,35019,35019
 "Green","Guelph","2004-05-26",225,"Anne Hendrie","N1G1M4","Guelph","Guelph","ON",-80.238888,43.527753,"2004",TRUE,35027,35027
 "Green","Nanaimo—Cowichan","2004-05-26",400,"John Mc Kay","V9S3Z2","Nanaimo—Cowichan","Nanaimo","BC",-123.960754,49.188885,"2004",TRUE,59015,59015
@@ -471,8 +471,8 @@
 "Green",NA,"2004-06-07",400,"Patricia Merchant","V4A3P3","South Surrey—White Rock—Cloverdale","Surrey","BC",-122.876289,49.052606,"2004",FALSE,NA,59027
 "Green",NA,"2004-06-07",200,"William Curtin","V8K2C8","Saanich—Gulf Islands","Salt Spring Island","BC",-123.446683,48.813115,"2004",FALSE,NA,59024
 "Green","Acadie—Bathurst","2004-06-08",100,"Jean St Cyr","E1W1A7","Acadie—Bathurst","Caraquet","NB",-64.939319,47.789099,"2004",TRUE,13001,13001
-"Green","West Vancouver—Sunshine Coast—Sea to Sky Country","2004-06-08",500,"Damir Vrkic","V0N1V5","West Vancouver—Sunshine Coast—Sea to Sky Country","Gibsons","BC",-123.554479,49.397096,"2004",TRUE,59036,59036
 "Green","West Vancouver—Sunshine Coast—Sea to Sky Country","2004-06-08",700,"Damir Vrkic","V0N1V5","West Vancouver—Sunshine Coast—Sea to Sky Country","Gibsons","BC",-123.554479,49.397096,"2004",TRUE,59036,59036
+"Green","West Vancouver—Sunshine Coast—Sea to Sky Country","2004-06-08",500,"Damir Vrkic","V0N1V5","West Vancouver—Sunshine Coast—Sea to Sky Country","Gibsons","BC",-123.554479,49.397096,"2004",TRUE,59036,59036
 "Green","Esquimalt—Juan de Fuca","2004-06-08",400,"Garth J Woodworth","V9B4W9","Esquimalt—Juan de Fuca","Victoria","BC",-123.470464,48.457116,"2004",TRUE,59008,59008
 "Green","Vancouver Island North","2004-06-08",400,"Michael Nutland","V9N2L5","Vancouver Island North","Courtenay","BC",-124.983529,49.676934,"2004",TRUE,59031,59031
 "Green",NA,"2004-06-08",100,"Ronald Lefebvre","H3Z1C4","Westmount—Ville-Marie","Westmount","QC",-73.590401,45.488855,"2004",FALSE,NA,24075
@@ -624,8 +624,8 @@
 "Green",NA,"2004-07-06",42,"Steven Takach","K1M1N8","Ottawa—Vanier","Ottawa","ON",-75.689528,45.44051,"2004",FALSE,NA,35065
 "Green",NA,"2004-07-06",20,"Denis Rancourt","K1S1A3","Ottawa Centre","Ottawa","ON",-75.675008,45.412414,"2004",FALSE,NA,35062
 "Green",NA,"2004-07-06",20,"Aubrey Goldstein","K1S4A7","Ottawa Centre","Ottawa","ON",-75.691333,45.399041,"2004",FALSE,NA,35062
-"Green","Cambridge","2004-07-06",400,"Anne Atkinson","K4M1B3","Nepean—Carleton","Manotick","ON",-75.643343,45.186497,"2004",TRUE,35011,35052
 "Green","Cambridge","2004-07-06",400,"John Atkinson","K4M1B3","Nepean—Carleton","Manotick","ON",-75.643343,45.186497,"2004",TRUE,35011,35052
+"Green","Cambridge","2004-07-06",400,"Anne Atkinson","K4M1B3","Nepean—Carleton","Manotick","ON",-75.643343,45.186497,"2004",TRUE,35011,35052
 "Green",NA,"2004-07-06",10,"Edwin Abbott","L0L2E0","Simcoe North","Barrie","ON",-79.516615,44.458675,"2004",FALSE,NA,35086
 "Green",NA,"2004-07-06",20,"Edwin Abbott","L0L2E0","Simcoe North","Barrie","ON",-79.516615,44.458675,"2004",FALSE,NA,35086
 "Green",NA,"2004-07-06",100,"Chris Tindal","M4W3C8","Toronto Centre","Toronto","ON",-79.387733,43.673451,"2004",FALSE,NA,35093
@@ -644,8 +644,8 @@
 "Green",NA,"2004-07-06",50,"Ellen Rainwalker","V9J1T2","Vancouver Island North","Courtenay","BC",-125.004581,49.75863,"2004",FALSE,NA,59031
 "Green",NA,"2004-07-07",400,"Trung Nguyen","T1Y1G4","Calgary Northeast","Calgary","AB",-113.969912,51.080962,"2004",FALSE,NA,48004
 "Green","Thornhill","2004-07-08",20,"George Jenkyn","L3T1S4","Thornhill","Thornhill","ON",-79.423381,43.806847,"2004",TRUE,35089,35089
-"Green","Thornhill","2004-07-08",20,"George Jenkyn","L3T1S4","Thornhill","Thornhill","ON",-79.423381,43.806847,"2004",TRUE,35089,35089
 "Green","Thornhill","2004-07-08",350,"George Jenkyn","L3T1S4","Thornhill","Thornhill","ON",-79.423381,43.806847,"2004",TRUE,35089,35089
+"Green","Thornhill","2004-07-08",20,"George Jenkyn","L3T1S4","Thornhill","Thornhill","ON",-79.423381,43.806847,"2004",TRUE,35089,35089
 "Green",NA,"2004-07-08",20,"Denyse Fishwick","M4W3G9","Toronto Centre","Toronto","ON",-79.386795,43.670284,"2004",FALSE,NA,35093
 "Green",NA,"2004-07-08",25,"Donna Mitchell","M6S4J5","Parkdale—High Park","Toronto","ON",-79.488085,43.646826,"2004",FALSE,NA,35068
 "Green",NA,"2004-07-08",300,"Jacques Gauthier","T1W2R8","Wild Rose","Canmore","AB",-115.361031,51.074237,"2004",FALSE,NA,48027
@@ -672,18 +672,18 @@
 "Green","Burlington","2004-07-23",100,"Hillary Arnold","L7N1R1","Burlington","Burlington","ON",-79.775997,43.336978,"2004",TRUE,35010,35010
 "Green","London North Centre","2004-07-24",200,"Brian Macaskill","N6G1W2","London North Centre","London","ON",-81.297795,43.000054,"2004",TRUE,35043,35043
 "Green","Cambridge","2004-07-25",400,"Jane White","N6A2E7","London North Centre","London","ON",-81.26124,43.003893,"2004",TRUE,35011,35043
-"Green","Vancouver Island North","2004-07-26",750,"Pam Munroe","V9N1H6","Vancouver Island North","Courtenay","BC",-125.010354,49.686562,"2004",TRUE,59031,59031
 "Green","Vancouver Island North","2004-07-26",650,"Don Munroe","V9N1H6","Vancouver Island North","Courtenay","BC",-125.010354,49.686562,"2004",TRUE,59031,59031
+"Green","Vancouver Island North","2004-07-26",750,"Pam Munroe","V9N1H6","Vancouver Island North","Courtenay","BC",-125.010354,49.686562,"2004",TRUE,59031,59031
 "Green",NA,"2004-07-26",100,"Ottmar Brandau","B0J2E0","South Shore—St. Margaret's","Whites Lake","NS",-64.374513,44.457133,"2004",FALSE,NA,12009
 "Green",NA,"2004-07-26",100,"Ottmar Brandau","B0J2E0","South Shore—St. Margaret's","Whites Lake","NS",-64.374513,44.457133,"2004",FALSE,NA,12009
 "Green","Cambridge","2004-07-27",400,"Sara Jane White","M4E3R8","Scarborough Southwest","Toronto","ON",-79.280783,43.672764,"2004",TRUE,35011,35084
 "Green",NA,"2004-07-27",50,"Donald Fahey","N6H4E1","London West","London","ON",-81.320947,42.98323,"2004",FALSE,NA,35044
 "Green","Victoria","2004-07-28",400,"Arnie Lade","V8R1B9","Victoria","Victoria","BC",-123.328765,48.426633,"2004",TRUE,59035,59035
-"Green","Delta—Richmond East","2004-07-30",1275,"Barbara J Hague","V4C3Z5","Newton—North Delta","Delta","BC",-122.927382,49.16107,"2004",TRUE,59006,59016
 "Green","Delta—Richmond East","2004-07-30",1761,"John Hague","V4C3Z5","Newton—North Delta","Delta","BC",-122.927382,49.16107,"2004",TRUE,59006,59016
+"Green","Delta—Richmond East","2004-07-30",1275,"Barbara J Hague","V4C3Z5","Newton—North Delta","Delta","BC",-122.927382,49.16107,"2004",TRUE,59006,59016
 "Green","Notre-Dame-de-Grâce—Lachine","2004-07-31",40,"Suzanne L Mills","H4A2K8","Westmount—Ville-Marie","Montréal","QC",-73.621521,45.468627,"2004",TRUE,24045,24075
-"Green","London North Centre","2004-08-01",500,"Matthew Bromwich","N6C1J3","London West","London","ON",-81.262969,42.969413,"2004",TRUE,35043,35044
 "Green","London North Centre","2004-08-01",500,"Rebecca Bromwich","N6C1J3","London West","London","ON",-81.262969,42.969413,"2004",TRUE,35043,35044
+"Green","London North Centre","2004-08-01",500,"Matthew Bromwich","N6C1J3","London West","London","ON",-81.262969,42.969413,"2004",TRUE,35043,35044
 "Green",NA,"2004-08-01",60,"Eamon O'keeffe","T8N1R2","Edmonton—St. Albert","Saint Albert","AB",-113.600689,53.638571,"2004",FALSE,NA,48015
 "Green",NA,"2004-08-01",50,"Brett L Whittla","V8R1V2","Victoria","Victoria","BC",-123.344318,48.43141,"2004",FALSE,NA,59035
 "Green","Nanaimo—Alberni","2004-08-01",300,"Christopher Jones","V8V4H7","Victoria","Victoria","BC",-123.352122,48.41097,"2004",TRUE,59014,59035
@@ -722,16 +722,16 @@
 "Green","Saanich—Gulf Islands","2004-08-13",810.22,"Markus Buchart","R3G1C4","Winnipeg Centre","Winnipeg","MB",-97.162897,49.880192,"2004",TRUE,59024,46011
 "Green",NA,"2004-08-17",10,"David Scrymgeour","M1W1S3","Scarborough—Agincourt","Scarborough","ON",-79.313834,43.787079,"2004",FALSE,NA,35080
 "Green",NA,"2004-08-17",90,"David Scrymgeour","M1W1S3","Scarborough—Agincourt","Scarborough","ON",-79.313834,43.787079,"2004",FALSE,NA,35080
-"Green","Simcoe North","2004-08-18",350,"Elliott T. Barker","L4R4P4","Simcoe North","Midland","ON",-79.881909,44.735801,"2004",TRUE,35086,35086
 "Green","Simcoe North","2004-08-18",200,"Julie Barker","L4R4P4","Simcoe North","Midland","ON",-79.881909,44.735801,"2004",TRUE,35086,35086
+"Green","Simcoe North","2004-08-18",350,"Elliott T. Barker","L4R4P4","Simcoe North","Midland","ON",-79.881909,44.735801,"2004",TRUE,35086,35086
 "Green",NA,"2004-08-18",180,"Colin Mcgregor","K2H6C5","Nepean—Carleton","Nepean","ON",-75.817657,45.322161,"2004",FALSE,NA,35052
 "Green",NA,"2004-08-19",270,"Victor Lau","S4N7N4","Wascana","Regina","SK",-104.532069,50.45828,"2004",FALSE,NA,47013
 "Green",NA,"2004-08-20",180,"Rick Barsky","S7K3J6","Saskatoon—Wanuskewin","Saskatoon","SK",-106.40135,52.119228,"2004",FALSE,NA,47011
 "Green",NA,"2004-08-20",10,"Rick Barsky","S7K3J6","Saskatoon—Wanuskewin","Saskatoon","SK",-106.40135,52.119228,"2004",FALSE,NA,47011
 "Green","Parkdale—High Park","2004-08-22",83,"Lori Drew","M6K2C2","Parkdale—High Park","Toronto","ON",-79.42902,43.639308,"2004",TRUE,35068,35068
 "Green",NA,"2004-08-23",180,"Lee Anne Mcalear","M4J2P3","Toronto—Danforth","East York","ON",-79.345475,43.691126,"2004",FALSE,NA,35094
-"Green","Nanaimo—Alberni","2004-08-24",295,"William Glover","V9T1K2","Nanaimo—Alberni","Nanaimo","BC",-123.945422,49.214145,"2004",TRUE,59014,59014
 "Green","Nanaimo—Alberni","2004-08-24",60,"Jane Glover","V9T1K2","Nanaimo—Alberni","Nanaimo","BC",-123.945422,49.214145,"2004",TRUE,59014,59014
+"Green","Nanaimo—Alberni","2004-08-24",295,"William Glover","V9T1K2","Nanaimo—Alberni","Nanaimo","BC",-123.945422,49.214145,"2004",TRUE,59014,59014
 "Green",NA,"2004-08-25",400,"David Frank","M5J2S2","Trinity—Spadina","Toronto","ON",-79.378105,43.646953,"2004",FALSE,NA,35095
 "Green",NA,"2004-08-26",100,"Ottmar Brandau","B0J2E0","South Shore—St. Margaret's","Whites Lake","NS",-64.374513,44.457133,"2004",FALSE,NA,12009
 "Green",NA,"2004-08-26",90,"Patrick L Smith","S7N0C9","Saskatoon—Humboldt","Saskatoon","SK",-106.661507,52.117672,"2004",FALSE,NA,47009
@@ -964,8 +964,8 @@
 "Green",NA,"2004-12-21",260,"Leslie Varsava","M8Z1H4","Etobicoke—Lakeshore","Etobicoke","ON",-79.502069,43.623297,"2004",FALSE,NA,35023
 "Green",NA,"2004-12-21",75,"William Curtin","V8K2C8","Saanich—Gulf Islands","Salt Spring Island","BC",-123.446683,48.813115,"2004",FALSE,NA,59024
 "Green",NA,"2004-12-21",140,"Mark Sherman","V9B3L2","Esquimalt—Juan de Fuca","Victoria","BC",-123.486516,48.453611,"2004",FALSE,NA,59008
-"Green","St. Catharines","2004-12-23",220,"Donna Woodward","J8B1Z1","Laurentides—Labelle","Sainte-adèle","QC",-74.06176,45.917986,"2004",TRUE,35076,24030
 "Green","St. Catharines","2004-12-23",220,"John Woodward","J8B1Z1","Laurentides—Labelle","Sainte-adèle","QC",-74.06176,45.917986,"2004",TRUE,35076,24030
+"Green","St. Catharines","2004-12-23",220,"Donna Woodward","J8B1Z1","Laurentides—Labelle","Sainte-adèle","QC",-74.06176,45.917986,"2004",TRUE,35076,24030
 "Green",NA,"2004-12-23",1000,"Ann Mully","K2P0V5","Ottawa Centre","Ottawa","ON",-75.687253,45.41617,"2004",FALSE,NA,35062
 "Green",NA,"2004-12-23",20,"Kitty Dunn","T2M3S7","Calgary Centre-North","Calgary","AB",-114.10353,51.069445,"2004",FALSE,NA,48003
 "Green",NA,"2004-12-23",75,"Hayden Roberts","V6T1X4","Vancouver Quadra","Vancouver","BC",-123.241981,49.264571,"2004",FALSE,NA,59033
@@ -1025,5 +1025,5 @@
 "Green",NA,"2004-12-31",1000,"John Paterson","V4B4P5","South Surrey—White Rock—Cloverdale","White Rock","BC",-122.787387,49.02459,"2004",FALSE,NA,59027
 "Green",NA,"2004-12-31",260,"Martin Roland","V6N2K9","Vancouver Quadra","W Vancouver","BC",-123.186696,49.241467,"2004",FALSE,NA,59033
 "Green","Mississauga South","2004-NA",25,"Marion Hansen","L5H3V1","Mississauga South","Mississauga","ON",-79.600567,43.540892,"2004",TRUE,35050,35050
-"Green","Mississauga South","2004-NA",25,"Kathryn Wilkinson","L5J2N6","Mississauga South","Mississauga","ON",-79.614649,43.519309,"2004",TRUE,35050,35050
 "Green","Mississauga South","2004-NA",25,"Stuart Wilkinson","L5J2N6","Mississauga South","Mississauga","ON",-79.614649,43.519309,"2004",TRUE,35050,35050
+"Green","Mississauga South","2004-NA",25,"Kathryn Wilkinson","L5J2N6","Mississauga South","Mississauga","ON",-79.614649,43.519309,"2004",TRUE,35050,35050

@@ -1,65 +1,174 @@
 "party","target.riding_name","contrib.date","contrib.amount","donor.name","postal_code","contributor.riding_name","city","province","pcode.latitude","pcode.longitude","contrib.year","donee.riding_level","target.riding_id","contributor.riding_id"
+"Bloc",NA,"2014-01-01",33.35,"Ghislain Bernier","G1W3C1","Louis-Hébert","Sainte-foy","QC",-71.272112,46.768362,"2014",FALSE,NA,24037
+"Bloc",NA,"2014-01-01",30,"Maurice Fortier","G2K2M5","Louis-Saint-Laurent","Québec","QC",-71.291238,46.840031,"2014",FALSE,NA,24038
+"Bloc",NA,"2014-01-01",28.37,"Jean-françois Plouffe","H1B3A5","La Pointe-de-l'Île","Pointe-aux-trembles","QC",-73.489515,45.638316,"2014",FALSE,NA,24028
+"Bloc",NA,"2014-01-01",20,"Gilbert Paquette","H2J3V6","Laurier—Sainte-Marie","Montréal","QC",-73.577749,45.532408,"2014",FALSE,NA,24031
+"Bloc",NA,"2014-01-01",25,"Paul-émile Robert","J0B1X0","Richmond—Arthabaska","Kingsbury","QC",-72.147677,45.583883,"2014",FALSE,NA,24055
+"Bloc",NA,"2014-01-01",25,"Alain Auclair","J0N1E0","Argenteuil—Papineau—Mirabel","Oka","QC",-74.084288,45.474655,"2014",FALSE,NA,24004
+"Bloc",NA,"2014-01-01",20,"Roger Lespérance","J0X3B0","Laurentides—Labelle","Gatineau","QC",-75.244146,45.600397,"2014",FALSE,NA,24030
+"Bloc",NA,"2014-01-01",25,"Benoit Labelle","J3L6W8","Chambly—Borduas","Carignan","QC",-73.364997,45.428861,"2014",FALSE,NA,24012
+"Bloc",NA,"2014-01-01",30,"Louise Liessens","J3P2L9","Bas-Richelieu—Nicolet—Bécancour","Sorel","QC",-73.125806,46.023671,"2014",FALSE,NA,24054
+"Bloc",NA,"2014-01-01",20,"Jacques Caron","J3T1A7","Bas-Richelieu—Nicolet—Bécancour","Nicolet","QC",-72.609211,46.222373,"2014",FALSE,NA,24054
+"Bloc",NA,"2014-01-01",25,"Robert Bénard","J4B5B5","Verchères—Les Patriotes","Boucherville","QC",-73.454532,45.609332,"2014",FALSE,NA,24074
+"Bloc",NA,"2014-01-01",50,"Guy Amyot","J5Z2M6","Repentigny","Le Gardeur","QC",-73.462991,45.764605,"2014",FALSE,NA,24053
 "Bloc",NA,"2014-01-03",400,"Lucien Beaupré","G0Z1A0","Richmond—Arthabaska","Aston-jonction","QC",-72.23126,46.166745,"2014",FALSE,NA,24055
 "Bloc",NA,"2014-01-10",400,"Paul Crête","G0R1Z0","Montmagny—L'Islet—Kamouraska—Rivière-du-Loup","La Pocatière","QC",-70.029768,47.366652,"2014",FALSE,NA,24058
+"Bloc",NA,"2014-01-15",25,"André Bouchard","G2A2E1","Louis-Saint-Laurent","Québec","QC",-71.349846,46.865078,"2014",FALSE,NA,24038
+"Bloc",NA,"2014-01-15",20,"Bertrand Boily","G4S1T8","Manicouagan","Sept-îles","QC",-66.413623,50.271138,"2014",FALSE,NA,24039
+"Bloc",NA,"2014-01-15",25,"Carole Duval","G5H3K6","Haute-Gaspésie—La Mitis—Matane—Matapédia","Saint-joseph-de-lepage","QC",-68.169,48.578452,"2014",FALSE,NA,24041
+"Bloc",NA,"2014-01-15",50,"Gilles Casgrain","H2L3E9","Laurier—Sainte-Marie","Montréal","QC",-73.560119,45.520632,"2014",FALSE,NA,24031
+"Bloc",NA,"2014-01-15",50,"Michel Brousseau","J0K3L0","Berthier—Maskinongé","Joliette","QC",-73.354312,46.018659,"2014",FALSE,NA,24008
+"Bloc",NA,"2014-01-15",40,"Réjean Talbot","J1N1R1","Compton—Stanstead","Sherbrooke","QC",-71.991708,45.379076,"2014",FALSE,NA,24017
+"Bloc",NA,"2014-01-15",20,"René J. Demers","J3G2R7","Chambly—Borduas","Beloeil","QC",-73.209254,45.570475,"2014",FALSE,NA,24012
+"Bloc",NA,"2014-01-15",20,"Pierre Grandchamp","J6E9C4","Joliette","Notre-dame-des-prairies","QC",-73.427831,46.057192,"2014",FALSE,NA,24025
+"Bloc",NA,"2014-01-19",200,"Éric Daoust","H2R2P8","Papineau","Montréal","QC",-73.619317,45.543394,"2014",FALSE,NA,24048
 "Bloc",NA,"2014-01-20",100,"Camille Leduc","G0C3C1","Gaspésie—Îles-de-la-Madeleine","Hope Town","QC",-65.330633,48.216554,"2014",FALSE,NA,24019
+"Bloc",NA,"2014-01-20",25,"Marc Lesage","H1J2C6","Honoré-Mercier","Anjou","QC",-73.57953,45.60127,"2014",FALSE,NA,24022
 "Bloc",NA,"2014-01-20",100,"Jean-claude Boisvert","H2E1Z9","Rosemont—La Petite-Patrie","Montréal","QC",-73.607112,45.545475,"2014",FALSE,NA,24061
 "Bloc",NA,"2014-01-24",200,"Pierre Beaupré","H1N1C1","La Pointe-de-l'Île","Montréal","QC",-73.545345,45.578709,"2014",FALSE,NA,24028
+"Bloc",NA,"2014-01-24",20,"Lise Mcsween","J0S1H0","Beauharnois—Salaberry","Godmanchester","QC",-74.176195,45.086469,"2014",FALSE,NA,24006
+"Bloc",NA,"2014-01-24",15,"Pierre Raymond","J3P5N3","Verchères—Les Patriotes","Sainte-anne-de-sorel","QC",-73.059998,46.042327,"2014",FALSE,NA,24074
 "Bloc",NA,"2014-01-25",300,"François St-georges","J0K3L0","Berthier—Maskinongé","Joliette","QC",-73.354312,46.018659,"2014",FALSE,NA,24008
+"Bloc",NA,"2014-02-01",33.35,"Ghislain Bernier","G1W3C1","Louis-Hébert","Sainte-foy","QC",-71.272112,46.768362,"2014",FALSE,NA,24037
+"Bloc",NA,"2014-02-01",30,"Maurice Fortier","G2K2M5","Louis-Saint-Laurent","Québec","QC",-71.291238,46.840031,"2014",FALSE,NA,24038
+"Bloc",NA,"2014-02-01",33.33,"Jean-françois Plouffe","H1B3A5","La Pointe-de-l'Île","Pointe-aux-trembles","QC",-73.489515,45.638316,"2014",FALSE,NA,24028
+"Bloc",NA,"2014-02-01",20,"Gilbert Paquette","H2J3V6","Laurier—Sainte-Marie","Montréal","QC",-73.577749,45.532408,"2014",FALSE,NA,24031
+"Bloc",NA,"2014-02-01",25,"Paul-émile Robert","J0B1X0","Richmond—Arthabaska","Kingsbury","QC",-72.147677,45.583883,"2014",FALSE,NA,24055
+"Bloc",NA,"2014-02-01",25,"Alain Auclair","J0N1E0","Argenteuil—Papineau—Mirabel","Oka","QC",-74.084288,45.474655,"2014",FALSE,NA,24004
+"Bloc",NA,"2014-02-01",20,"Roger Lespérance","J0X3B0","Laurentides—Labelle","Gatineau","QC",-75.244146,45.600397,"2014",FALSE,NA,24030
+"Bloc",NA,"2014-02-01",25,"Benoit Labelle","J3L6W8","Chambly—Borduas","Carignan","QC",-73.364997,45.428861,"2014",FALSE,NA,24012
+"Bloc",NA,"2014-02-01",30,"Louise Liessens","J3P2L9","Bas-Richelieu—Nicolet—Bécancour","Sorel","QC",-73.125806,46.023671,"2014",FALSE,NA,24054
+"Bloc",NA,"2014-02-01",20,"Jacques Caron","J3T1A7","Bas-Richelieu—Nicolet—Bécancour","Nicolet","QC",-72.609211,46.222373,"2014",FALSE,NA,24054
+"Bloc",NA,"2014-02-01",25,"Robert Bénard","J4B5B5","Verchères—Les Patriotes","Boucherville","QC",-73.454532,45.609332,"2014",FALSE,NA,24074
+"Bloc",NA,"2014-02-01",50,"Guy Amyot","J5Z2M6","Repentigny","Le Gardeur","QC",-73.462991,45.764605,"2014",FALSE,NA,24053
 "Bloc",NA,"2014-02-06",400,"Marc Thivierge","J8P2T3","Gatineau","Gatineau","QC",-75.67323,45.49146,"2014",FALSE,NA,24020
 "Bloc",NA,"2014-02-07",500,"Jean-françois Barbe","H2X1C6","Laurier—Sainte-Marie","Montréal","QC",-73.570152,45.510931,"2014",FALSE,NA,24031
 "Bloc",NA,"2014-02-07",400,"Bernard Courteau","J1H1B1","Sherbrooke","Sherbrooke","QC",-71.902609,45.40856,"2014",FALSE,NA,24070
+"Bloc",NA,"2014-02-10",50,"Bertrand Boily","G4S1T8","Manicouagan","Sept-îles","QC",-66.413623,50.271138,"2014",FALSE,NA,24039
+"Bloc",NA,"2014-02-10",100,"Gaétan Beaulieu","G5L7R2","Rimouski-Neigette—Témiscouata—Les Basques","Rimouski","QC",-68.52582,48.45473,"2014",FALSE,NA,24056
 "Bloc",NA,"2014-02-10",400,"Manon Davidson","H1K3C8","Honoré-Mercier","Anjou","QC",-73.555838,45.613464,"2014",FALSE,NA,24022
+"Bloc",NA,"2014-02-10",25,"Jocelyne Beaulne","H2J3B9","Laurier—Sainte-Marie","Montréal","QC",-73.582929,45.528314,"2014",FALSE,NA,24031
 "Bloc",NA,"2014-02-10",400,"Ivan Roy","H2P1K4","Papineau","Montréal","QC",-73.641841,45.533389,"2014",FALSE,NA,24048
+"Bloc",NA,"2014-02-10",200,"Claire Blais","J0C1A0","Drummond","Saint-cyrille-de-wendover","QC",-72.348734,45.996528,"2014",FALSE,NA,24018
+"Bloc",NA,"2014-02-10",200,"Paul-émile Lupien","J0C1A0","Drummond","Saint-cyrille-de-wendover","QC",-72.348734,45.996528,"2014",FALSE,NA,24018
+"Bloc",NA,"2014-02-10",20,"Alain Auclair","J0N1E0","Argenteuil—Papineau—Mirabel","Oka","QC",-74.084288,45.474655,"2014",FALSE,NA,24004
 "Bloc",NA,"2014-02-10",400,"Yves Dubé","J5Z4G2","Repentigny","Le Gardeur","QC",-73.473223,45.75891,"2014",FALSE,NA,24053
 "Bloc",NA,"2014-02-10",400,"Denis Rocheleau","J8T8P5","Gatineau","Gatineau","QC",-75.689509,45.486805,"2014",FALSE,NA,24020
+"Bloc",NA,"2014-02-12",200,"Janine Dansereau","H1J2J7","Honoré-Mercier","Anjou","QC",-73.580494,45.602809,"2014",FALSE,NA,24022
 "Bloc",NA,"2014-02-12",400,"Bernard Sévigny","J1N0M4","Compton—Stanstead","Sherbrooke","QC",-72.015423,45.34504,"2014",FALSE,NA,24017
 "Bloc",NA,"2014-02-12",300,"Roger Lalonde","J4R2T7","Saint-Lambert","Saint-lambert","QC",-73.483843,45.483243,"2014",FALSE,NA,24065
+"Bloc",NA,"2014-02-12",200,"Jean Prévost","J7R2B9","Rivière-des-Mille-Îles","Saint-eustache","QC",-73.89204,45.559934,"2014",FALSE,NA,24057
 "Bloc",NA,"2014-02-12",300,"Ida Bilodeau","J8Z1A5","Hull—Aylmer","Gatineau","QC",-75.764018,45.464768,"2014",FALSE,NA,24023
+"Bloc",NA,"2014-02-12",50,"Marie-paule Giasson","J9X0A5","Abitibi—Témiscamingue","Rouyn-Noranda","QC",-79.031473,48.396407,"2014",FALSE,NA,24001
 "Bloc",NA,"2014-02-13",400,"Paul Crête","G0R1Z0","Montmagny—L'Islet—Kamouraska—Rivière-du-Loup","La Pocatière","QC",-70.029768,47.366652,"2014",FALSE,NA,24058
 "Bloc",NA,"2014-02-13",300,"Roger Paradis","G3A1W8","Portneuf—Jacques-Cartier","Saint-augustin-de-desmaures","QC",-71.50214,46.772946,"2014",FALSE,NA,24051
 "Bloc",NA,"2014-02-13",400,"Olive Gagnon","H1J2Y3","Honoré-Mercier","Anjou","QC",-73.589671,45.608549,"2014",FALSE,NA,24022
 "Bloc",NA,"2014-02-14",100,"Camille Leduc","G0C3C1","Gaspésie—Îles-de-la-Madeleine","Hope Town","QC",-65.330633,48.216554,"2014",FALSE,NA,24019
 "Bloc",NA,"2014-02-14",400,"Michel Fortier","G0S2C0","Lotbinière—Chutes-de-la-Chaudière","St-antoine-de-tilly","QC",-71.578563,46.657474,"2014",FALSE,NA,24036
+"Bloc",NA,"2014-02-14",25,"Marc Lesage","H1J2C6","Honoré-Mercier","Anjou","QC",-73.57953,45.60127,"2014",FALSE,NA,24022
 "Bloc",NA,"2014-02-14",100,"Jean-claude Boisvert","H2E1Z9","Rosemont—La Petite-Patrie","Montréal","QC",-73.607112,45.545475,"2014",FALSE,NA,24061
 "Bloc",NA,"2014-02-14",400,"Georges Ouellet","H2S0B6","Rosemont—La Petite-Patrie","Montreal","QC",-73.596018,45.531445,"2014",FALSE,NA,24061
 "Bloc",NA,"2014-02-14",400,"Hélène B. Paré","H2V3W1","Outremont","Outremont","QC",-73.601315,45.519093,"2014",FALSE,NA,24047
 "Bloc",NA,"2014-02-14",400,"Simon Paré","H2V3W1","Outremont","Outremont","QC",-73.601315,45.519093,"2014",FALSE,NA,24047
+"Bloc",NA,"2014-02-14",150,"Lyse Mongeau-allard","H7V1P1","Laval","Laval","QC",-73.727615,45.544299,"2014",FALSE,NA,24032
 "Bloc",NA,"2014-02-14",300,"Roger Cardin","J0P1N0","Glengarry—Prescott—Russell","Rigaud","QC",-74.370804,45.550137,"2014",FALSE,NA,35025
 "Bloc",NA,"2014-02-14",400,"Marc Tremblay","J3B1X1","Saint-Jean","Saint-jean-sur-richelieu","QC",-73.250491,45.309971,"2014",FALSE,NA,24064
 "Bloc",NA,"2014-02-14",400,"Bernard Terreault","J4H2T8","Longueuil—Pierre-Boucher","Longueuil","QC",-73.50658,45.533911,"2014",FALSE,NA,24035
 "Bloc",NA,"2014-02-14",400,"Léopold Ferron","J6A3J8","Repentigny","Repentigny","QC",-73.477472,45.725305,"2014",FALSE,NA,24053
+"Bloc",NA,"2014-02-15",25,"André Bouchard","G2A2E1","Louis-Saint-Laurent","Québec","QC",-71.349846,46.865078,"2014",FALSE,NA,24038
+"Bloc",NA,"2014-02-15",20,"Bertrand Boily","G4S1T8","Manicouagan","Sept-îles","QC",-66.413623,50.271138,"2014",FALSE,NA,24039
+"Bloc",NA,"2014-02-15",50,"Ghislain Miousse","G4W1Z1","Haute-Gaspésie—La Mitis—Matane—Matapédia","Matane","QC",-67.536712,48.848145,"2014",FALSE,NA,24041
+"Bloc",NA,"2014-02-15",25,"Carole Duval","G5H3K6","Haute-Gaspésie—La Mitis—Matane—Matapédia","Saint-joseph-de-lepage","QC",-68.169,48.578452,"2014",FALSE,NA,24041
+"Bloc",NA,"2014-02-15",50,"Gilles Casgrain","H2L3E9","Laurier—Sainte-Marie","Montréal","QC",-73.560119,45.520632,"2014",FALSE,NA,24031
+"Bloc",NA,"2014-02-15",50,"Michel Brousseau","J0K3L0","Berthier—Maskinongé","Joliette","QC",-73.354312,46.018659,"2014",FALSE,NA,24008
+"Bloc",NA,"2014-02-15",40,"Réjean Talbot","J1N1R1","Compton—Stanstead","Sherbrooke","QC",-71.991708,45.379076,"2014",FALSE,NA,24017
+"Bloc",NA,"2014-02-15",20,"René J. Demers","J3G2R7","Chambly—Borduas","Beloeil","QC",-73.209254,45.570475,"2014",FALSE,NA,24012
+"Bloc",NA,"2014-02-15",20,"Pierre Grandchamp","J6E9C4","Joliette","Notre-dame-des-prairies","QC",-73.427831,46.057192,"2014",FALSE,NA,24025
 "Bloc",NA,"2014-02-17",300,"Fernand Potvin","H4R2E3","Saint-Laurent—Cartierville","Saint-laurent","QC",-73.726585,45.51262,"2014",FALSE,NA,24066
+"Bloc",NA,"2014-02-17",200,"Claude Tousignant","H7L5M2","Marc-Aurèle-Fortin","Laval","QC",-73.77806,45.61793,"2014",FALSE,NA,24040
+"Bloc",NA,"2014-02-17",100,"Jean-jacques Boisvert","J1J4C9","Sherbrooke","Sherbrooke","QC",-71.922195,45.409007,"2014",FALSE,NA,24070
 "Bloc",NA,"2014-02-17",400,"Raymonde Dallaire","J4L2J4","Saint-Lambert","Longueuil","QC",-73.467859,45.518747,"2014",FALSE,NA,24065
 "Bloc",NA,"2014-02-17",410,"François Morin","J4L2J4","Saint-Lambert","Longueuil","QC",-73.467859,45.518747,"2014",FALSE,NA,24065
 "Bloc",NA,"2014-02-17",400,"Jean-pierre Amiaud","J6T6B1","Beauharnois—Salaberry","Salaberry-de-valleyfield","QC",-74.142509,45.240707,"2014",FALSE,NA,24006
 "Bloc",NA,"2014-02-17",400,"Lucette Tétreault","J6T6B1","Beauharnois—Salaberry","Salaberry-de-valleyfield","QC",-74.142509,45.240707,"2014",FALSE,NA,24006
 "Bloc",NA,"2014-02-19",400,"Noël Lambert","G0K1C0","Haute-Gaspésie—La Mitis—Matane—Matapédia","Les Hauteurs","QC",-68.11121,48.375115,"2014",FALSE,NA,24041
 "Bloc",NA,"2014-02-19",400,"Pierre Duncan","G0R1Z0","Montmagny—L'Islet—Kamouraska—Rivière-du-Loup","La Pocatière","QC",-70.029768,47.366652,"2014",FALSE,NA,24058
+"Bloc",NA,"2014-02-19",200,"Robert Hotte","G9A3A5","Berthier—Maskinongé","Trois-rivières","QC",-72.572117,46.32279,"2014",FALSE,NA,24008
 "Bloc",NA,"2014-02-19",250,"Gilles Duceppe","H1Y3M6","Rosemont—La Petite-Patrie","Montréal","QC",-73.565617,45.546683,"2014",FALSE,NA,24061
 "Bloc",NA,"2014-02-19",300,"Daniel Pinet","H2K0A3","Laurier—Sainte-Marie","Rosemont","QC",-73.55038,45.523509,"2014",FALSE,NA,24031
 "Bloc",NA,"2014-02-19",400,"Jacques Léonard","H2V3L5","Outremont","Outremont","QC",-73.600544,45.515313,"2014",FALSE,NA,24047
+"Bloc",NA,"2014-02-19",110,"Constance Fréchette","H2X0A5","Laurier—Sainte-Marie","Delorimier","QC",-73.570209,45.51059,"2014",FALSE,NA,24031
+"Bloc",NA,"2014-02-19",200,"Berthier Landry","H2X4E3","Laurier—Sainte-Marie","Montréal","QC",-73.570234,45.511632,"2014",FALSE,NA,24031
+"Bloc",NA,"2014-02-19",100,"Noëlla Lessard","H7W2S3","Laval—Les Îles","Laval","QC",-73.74168,45.53249,"2014",FALSE,NA,24033
 "Bloc",NA,"2014-02-19",300,"Nicolas Dufresne","H7X1M3","Laval—Les Îles","Laval","QC",-73.807905,45.525025,"2014",FALSE,NA,24033
+"Bloc",NA,"2014-02-19",25,"Lise Mcsween","J0S1H0","Beauharnois—Salaberry","Godmanchester","QC",-74.176195,45.086469,"2014",FALSE,NA,24006
 "Bloc",NA,"2014-02-19",400,"Carole Morin-romain","J0X1V0","Renfrew—Nipissing—Pembroke","Fort-coulonge","QC",-76.73521,45.845576,"2014",FALSE,NA,35074
+"Bloc",NA,"2014-02-19",200,"Mario Couture","J7E4T3","Marc-Aurèle-Fortin","Sainte-Therese","QC",-73.85805,45.642,"2014",FALSE,NA,24040
+"Bloc",NA,"2014-02-19",200,"Élie Fallu","J7E5W6","Marc-Aurèle-Fortin","Sainte-thérèse","QC",-73.854125,45.663769,"2014",FALSE,NA,24040
 "Bloc",NA,"2014-02-19",400,"Guy Drouin","J8V2B5","Gatineau","Gatineau","QC",-75.732283,45.494813,"2014",FALSE,NA,24020
 "Bloc",NA,"2014-02-21",300,"Gérard Galestrosi","G0A1L0","Montmorency—Charlevoix—Haute-Côte-Nord","Pont-rouge","QC",-71.77311,46.682689,"2014",FALSE,NA,24014
+"Bloc",NA,"2014-02-21",100,"Andrée L'archevêque","H8Y3N3","Pierrefonds—Dollard","Pierrefonds","QC",-73.7824,45.5002,"2014",FALSE,NA,24049
+"Bloc",NA,"2014-02-21",100,"Jacques Darche","J0B1W0","Brome—Missisquoi","Sainte-catherine-de-hatley","QC",-72.058956,45.263804,"2014",FALSE,NA,24010
+"Bloc",NA,"2014-02-23",100,"Benoit Tessier","H1Y2N9","Rosemont—La Petite-Patrie","Montréal","QC",-73.581503,45.550735,"2014",FALSE,NA,24061
+"Bloc",NA,"2014-02-24",50,"Thérèse Lavoie","G0A2L0","Montmorency—Charlevoix—Haute-Côte-Nord","Petite-riviere-saint-francois","QC",-70.561731,47.331932,"2014",FALSE,NA,24014
 "Bloc",NA,"2014-02-24",300,"Robert G. Tessier","G1S4T9","Louis-Hébert","Sillery","QC",-71.24485,46.782515,"2014",FALSE,NA,24037
 "Bloc",NA,"2014-02-24",400,"Marcel Henry","H1T2W3","Hochelaga","Montréal","QC",-73.564226,45.570501,"2014",FALSE,NA,24021
 "Bloc",NA,"2014-02-26",400,"Maurice Michaud","G2M1K5","Charlesbourg—Haute-Saint-Charles","Charlesbourg","QC",-71.31946,46.916068,"2014",FALSE,NA,24013
 "Bloc",NA,"2014-02-26",400,"Claude Patry","G7S4Z2","Jonquière—Alma","Jonquière","QC",-71.144884,48.40072,"2014",FALSE,NA,24026
 "Bloc",NA,"2014-02-26",400,"Gérard Descheneaux","J6E3E7","Joliette","Joliette","QC",-73.44318,46.022757,"2014",FALSE,NA,24025
 "Bloc",NA,"2014-02-27",400,"Yvon St-onge","G0T1L0","Montmorency—Charlevoix—Haute-Côte-Nord","Notre-dame-des-monts","QC",-70.385691,47.666624,"2014",FALSE,NA,24014
+"Bloc",NA,"2014-02-27",100,"Pierre Bournival","G2G2B2","Louis-Hébert","Quebec","QC",-71.36178,46.77836,"2014",FALSE,NA,24037
 "Bloc",NA,"2014-02-27",400,"Julien Gravel","G7P1P4","Jonquière—Alma","Shipshaw","QC",-71.27399,48.49441,"2014",FALSE,NA,24026
 "Bloc",NA,"2014-02-27",300,"Jean-louis Bibeau","H3E1L7","Jeanne-Le Ber","Verdun","QC",-73.544682,45.459283,"2014",FALSE,NA,24024
 "Bloc",NA,"2014-02-27",500,"Jean Robert","J0T1Y0","Argenteuil—Papineau—Mirabel","Wentworth-nord","QC",-74.466539,45.853491,"2014",FALSE,NA,24004
+"Bloc",NA,"2014-02-27",200,"André Bissonnette","J1X6X3","Brome—Missisquoi","Orford","QC",-72.159175,45.308965,"2014",FALSE,NA,24010
+"Bloc",NA,"2014-02-27",200,"Diane Boivin","J1X6X3","Brome—Missisquoi","Orford","QC",-72.159175,45.308965,"2014",FALSE,NA,24010
+"Bloc",NA,"2014-02-27",200,"Marcel Gagné","V2A5R6","Okanagan—Coquihalla","Penticton","BC",-119.596315,49.493711,"2014",FALSE,NA,59020
+"Bloc",NA,"2014-03-01",33.35,"Ghislain Bernier","G1W3C1","Louis-Hébert","Sainte-foy","QC",-71.272112,46.768362,"2014",FALSE,NA,24037
+"Bloc",NA,"2014-03-01",30,"Maurice Fortier","G2K2M5","Louis-Saint-Laurent","Québec","QC",-71.291238,46.840031,"2014",FALSE,NA,24038
+"Bloc",NA,"2014-03-01",33.33,"Jean-françois Plouffe","H1B3A5","La Pointe-de-l'Île","Pointe-aux-trembles","QC",-73.489515,45.638316,"2014",FALSE,NA,24028
+"Bloc",NA,"2014-03-01",20,"Gilbert Paquette","H2J3V6","Laurier—Sainte-Marie","Montréal","QC",-73.577749,45.532408,"2014",FALSE,NA,24031
+"Bloc",NA,"2014-03-01",25,"Paul-émile Robert","J0B1X0","Richmond—Arthabaska","Kingsbury","QC",-72.147677,45.583883,"2014",FALSE,NA,24055
 "Bloc",NA,"2014-03-01",1100,"Jérôme Landry","J0K1W0","Joliette","Saint-alphonse-rodriguez","QC",-73.689573,46.176018,"2014",FALSE,NA,24025
+"Bloc",NA,"2014-03-01",25,"Alain Auclair","J0N1E0","Argenteuil—Papineau—Mirabel","Oka","QC",-74.084288,45.474655,"2014",FALSE,NA,24004
+"Bloc",NA,"2014-03-01",20,"Roger Lespérance","J0X3B0","Laurentides—Labelle","Gatineau","QC",-75.244146,45.600397,"2014",FALSE,NA,24030
+"Bloc",NA,"2014-03-01",25,"Benoit Labelle","J3L6W8","Chambly—Borduas","Carignan","QC",-73.364997,45.428861,"2014",FALSE,NA,24012
+"Bloc",NA,"2014-03-01",30,"Louise Liessens","J3P2L9","Bas-Richelieu—Nicolet—Bécancour","Sorel","QC",-73.125806,46.023671,"2014",FALSE,NA,24054
+"Bloc",NA,"2014-03-01",20,"Jacques Caron","J3T1A7","Bas-Richelieu—Nicolet—Bécancour","Nicolet","QC",-72.609211,46.222373,"2014",FALSE,NA,24054
+"Bloc",NA,"2014-03-01",25,"Robert Bénard","J4B5B5","Verchères—Les Patriotes","Boucherville","QC",-73.454532,45.609332,"2014",FALSE,NA,24074
+"Bloc",NA,"2014-03-01",50,"Guy Amyot","J5Z2M6","Repentigny","Le Gardeur","QC",-73.462991,45.764605,"2014",FALSE,NA,24053
 "Bloc",NA,"2014-03-04",400,"Christian Labrecque","J2W0A5","Saint-Jean","Saint-Jean-Sur-Richelieu","QC",-73.260159,45.35829,"2014",FALSE,NA,24064
 "Bloc",NA,"2014-03-05",400,"Daniel Morin","G1S3E6","Québec","Québec","QC",-71.244199,46.801168,"2014",FALSE,NA,24052
+"Bloc",NA,"2014-03-05",100,"Philippe Paré","G1X5H8","Louis-Hébert","Sainte-foy","QC",-71.33803,46.762593,"2014",FALSE,NA,24037
 "Bloc",NA,"2014-03-05",400,"Louise Poulin-lemieux","G6V5R1","Lévis—Bellechasse","Lévis","QC",-71.180813,46.806922,"2014",FALSE,NA,24034
 "Bloc",NA,"2014-03-05",300,"Jacques Potvin","G7H8A5","Chicoutimi—Le Fjord","Chicoutimi","QC",-71.047872,48.410728,"2014",FALSE,NA,24016
+"Bloc",NA,"2014-03-05",200,"Pierre Lacombe","H1H4T8","Bourassa","Montréal-nord","QC",-73.647761,45.591484,"2014",FALSE,NA,24009
+"Bloc",NA,"2014-03-05",100,"Alain Auclair","J0N1E0","Argenteuil—Papineau—Mirabel","Oka","QC",-74.084288,45.474655,"2014",FALSE,NA,24004
+"Bloc",NA,"2014-03-05",100,"Henri-georges Robert","J0S1H0","Beauharnois—Salaberry","Godmanchester","QC",-74.176195,45.086469,"2014",FALSE,NA,24006
+"Bloc",NA,"2014-03-05",100,"Michel Péloquin","J3N1K3","Chambly—Borduas","Saint-basile-le-grand","QC",-73.30664,45.513896,"2014",FALSE,NA,24012
 "Bloc",NA,"2014-03-05",300,"Pierre Drapeau","J4B8K1","Verchères—Les Patriotes","Boucherville","QC",-73.428306,45.596208,"2014",FALSE,NA,24074
+"Bloc",NA,"2014-03-05",150,"Claude Bélec","J7P2G3","Rivière-des-Mille-Îles","Saint-eustache","QC",-73.901036,45.565463,"2014",FALSE,NA,24057
+"Bloc",NA,"2014-03-06",200,"Jean-pierre Gagnon","G1R2K7","Québec","Quebec","QC",-71.22269,46.80207,"2014",FALSE,NA,24052
 "Bloc",NA,"2014-03-07",200,"Pierre Beaupré","H1N1C1","La Pointe-de-l'Île","Montréal","QC",-73.545345,45.578709,"2014",FALSE,NA,24028
+"Bloc",NA,"2014-03-07",200,"Claude Desrosiers","H7H2P9","Marc-Aurèle-Fortin","Laval","QC",-73.780787,45.617008,"2014",FALSE,NA,24040
+"Bloc",NA,"2014-03-07",200,"Alexandre Martel","J6E2T2","Joliette","Joliette","QC",-73.44434,46.0278,"2014",FALSE,NA,24025
+"Bloc",NA,"2014-03-07",100,"Vianney Lehouiller","J9L1B6","Laurentides—Labelle","Mont-Laurier","QC",-75.49523,46.54559,"2014",FALSE,NA,24030
 "Bloc",NA,"2014-03-11",400,"Michel Grégoire","G1Y1N2","Louis-Hébert","Cap-rouge","QC",-71.343167,46.756811,"2014",FALSE,NA,24037
 "Bloc",NA,"2014-03-11",400,"Pierre Veillette","H1E5A8","Bourassa","Montreal","QC",-73.62034,45.628446,"2014",FALSE,NA,24009
+"Bloc",NA,"2014-03-15",25,"André Bouchard","G2A2E1","Louis-Saint-Laurent","Québec","QC",-71.349846,46.865078,"2014",FALSE,NA,24038
+"Bloc",NA,"2014-03-15",20,"Bertrand Boily","G4S1T8","Manicouagan","Sept-îles","QC",-66.413623,50.271138,"2014",FALSE,NA,24039
+"Bloc",NA,"2014-03-15",50,"Ghislain Miousse","G4W1Z1","Haute-Gaspésie—La Mitis—Matane—Matapédia","Matane","QC",-67.536712,48.848145,"2014",FALSE,NA,24041
+"Bloc",NA,"2014-03-15",25,"Carole Duval","G5H3K6","Haute-Gaspésie—La Mitis—Matane—Matapédia","Saint-joseph-de-lepage","QC",-68.169,48.578452,"2014",FALSE,NA,24041
+"Bloc",NA,"2014-03-15",40,"Patricia Vincent","H1H3S3","Bourassa","Montréal-nord","QC",-73.640128,45.598675,"2014",FALSE,NA,24009
+"Bloc",NA,"2014-03-15",50,"Gilles Casgrain","H2L3E9","Laurier—Sainte-Marie","Montréal","QC",-73.560119,45.520632,"2014",FALSE,NA,24031
+"Bloc",NA,"2014-03-15",35,"Alain Marcoux","H2X4E3","Laurier—Sainte-Marie","Montréal","QC",-73.570234,45.511632,"2014",FALSE,NA,24031
+"Bloc",NA,"2014-03-15",50,"Michel Brousseau","J0K3L0","Berthier—Maskinongé","Joliette","QC",-73.354312,46.018659,"2014",FALSE,NA,24008
+"Bloc",NA,"2014-03-15",40,"Réjean Talbot","J1N1R1","Compton—Stanstead","Sherbrooke","QC",-71.991708,45.379076,"2014",FALSE,NA,24017
+"Bloc",NA,"2014-03-15",20,"René J. Demers","J3G2R7","Chambly—Borduas","Beloeil","QC",-73.209254,45.570475,"2014",FALSE,NA,24012
+"Bloc",NA,"2014-03-15",35,"Mario Daneau-landry","J6E0G8","Joliette","Joliette","QC",-73.425148,46.000387,"2014",FALSE,NA,24025
+"Bloc",NA,"2014-03-15",20,"Pierre Grandchamp","J6E9C4","Joliette","Notre-dame-des-prairies","QC",-73.427831,46.057192,"2014",FALSE,NA,24025
+"Bloc",NA,"2014-03-17",25,"Lise Mcsween","J0S1H0","Beauharnois—Salaberry","Godmanchester","QC",-74.176195,45.086469,"2014",FALSE,NA,24006
+"Bloc",NA,"2014-03-17",20,"Pierre Raymond","J3P5N3","Verchères—Les Patriotes","Sainte-anne-de-sorel","QC",-73.059998,46.042327,"2014",FALSE,NA,24074
 "Bloc",NA,"2014-03-18",100,"Camille Leduc","G0C3C1","Gaspésie—Îles-de-la-Madeleine","Hope Town","QC",-65.330633,48.216554,"2014",FALSE,NA,24019
 "Bloc",NA,"2014-03-18",400,"Michel Cotton","G1C6G9","Montmorency—Charlevoix—Haute-Côte-Nord","Québec","QC",-71.170407,46.892934,"2014",FALSE,NA,24014
 "Bloc",NA,"2014-03-18",400,"Paul-eugène Couture","G1Y3C6","Louis-Hébert","Cap-rouge","QC",-71.353928,46.755482,"2014",FALSE,NA,24037
@@ -68,18 +177,48 @@
 "Bloc",NA,"2014-03-18",300,"Marc Viel","H2H2G9","Laurier—Sainte-Marie","Montréal","QC",-73.575626,45.538335,"2014",FALSE,NA,24031
 "Bloc",NA,"2014-03-26",400,"Hélène Lavoie","G8H2H8","Roberval—Lac-Saint-Jean","Roberval","QC",-72.218383,48.502919,"2014",FALSE,NA,24060
 "Bloc",NA,"2014-03-26",400,"Claude Pilote","G8H2H8","Roberval—Lac-Saint-Jean","Roberval","QC",-72.218383,48.502919,"2014",FALSE,NA,24060
+"Bloc",NA,"2014-03-27",40,"André Gagnon","G0J1M0","Haute-Gaspésie—La Mitis—Matane—Matapédia","Lac-au-saumon","QC",-67.348935,48.423253,"2014",FALSE,NA,24041
 "Bloc",NA,"2014-03-27",400,"Guillaume Gagnon","G0J2L0","Haute-Gaspésie—La Mitis—Matane—Matapédia","St-jean-baptiste","QC",-68.2199,48.607147,"2014",FALSE,NA,24041
 "Bloc",NA,"2014-03-27",400,"Lynn Francoeur","G4W4H9","Haute-Gaspésie—La Mitis—Matane—Matapédia","Matane","QC",-67.548408,48.840758,"2014",FALSE,NA,24041
+"Bloc",NA,"2014-04-01",33.35,"Ghislain Bernier","G1W3C1","Louis-Hébert","Sainte-foy","QC",-71.272112,46.768362,"2014",FALSE,NA,24037
+"Bloc",NA,"2014-04-01",30,"Maurice Fortier","G2K2M5","Louis-Saint-Laurent","Québec","QC",-71.291238,46.840031,"2014",FALSE,NA,24038
+"Bloc",NA,"2014-04-01",33.33,"Jean-françois Plouffe","H1B3A5","La Pointe-de-l'Île","Pointe-aux-trembles","QC",-73.489515,45.638316,"2014",FALSE,NA,24028
+"Bloc",NA,"2014-04-01",20,"Gilbert Paquette","H2J3V6","Laurier—Sainte-Marie","Montréal","QC",-73.577749,45.532408,"2014",FALSE,NA,24031
+"Bloc",NA,"2014-04-01",25,"Paul-émile Robert","J0B1X0","Richmond—Arthabaska","Kingsbury","QC",-72.147677,45.583883,"2014",FALSE,NA,24055
 "Bloc",NA,"2014-04-01",25,"Alain Auclair","J0N1E0","Argenteuil—Papineau—Mirabel","Oka","QC",-74.084288,45.474655,"2014",FALSE,NA,24004
+"Bloc",NA,"2014-04-01",20,"Roger Lespérance","J0X3B0","Laurentides—Labelle","Gatineau","QC",-75.244146,45.600397,"2014",FALSE,NA,24030
+"Bloc",NA,"2014-04-01",25,"Benoit Labelle","J3L6W8","Chambly—Borduas","Carignan","QC",-73.364997,45.428861,"2014",FALSE,NA,24012
+"Bloc",NA,"2014-04-01",30,"Louise Liessens","J3P2L9","Bas-Richelieu—Nicolet—Bécancour","Sorel","QC",-73.125806,46.023671,"2014",FALSE,NA,24054
+"Bloc",NA,"2014-04-01",20,"Jacques Caron","J3T1A7","Bas-Richelieu—Nicolet—Bécancour","Nicolet","QC",-72.609211,46.222373,"2014",FALSE,NA,24054
+"Bloc",NA,"2014-04-01",25,"Robert Bénard","J4B5B5","Verchères—Les Patriotes","Boucherville","QC",-73.454532,45.609332,"2014",FALSE,NA,24074
+"Bloc",NA,"2014-04-01",50,"Guy Amyot","J5Z2M6","Repentigny","Le Gardeur","QC",-73.462991,45.764605,"2014",FALSE,NA,24053
 "Bloc",NA,"2014-04-01",400,"Christian Rioux","J8M2G8","Pontiac","Gatineau","QC",-75.483735,45.534243,"2014",FALSE,NA,24050
+"Bloc",NA,"2014-04-04",50,"Ghislaine Martineau","H2R2S8","Papineau","Montréal","QC",-73.616732,45.544782,"2014",FALSE,NA,24048
+"Bloc",NA,"2014-04-04",50,"Claude Debellefeuille","J0S1K0","Beauharnois—Salaberry","Ormstown","QC",-73.990257,45.119499,"2014",FALSE,NA,24006
 "Bloc",NA,"2014-04-08",400,"Marc-andré Dupont","H1H5K6","Bourassa","Montréal-nord","QC",-73.65166,45.582749,"2014",FALSE,NA,24009
 "Bloc",NA,"2014-04-10",400,"Louis Bérard","H2M0A3","Ahuntsic","Montréal","QC",-73.630985,45.551806,"2014",FALSE,NA,24002
 "Bloc",NA,"2014-04-10",400,"Pascal Vigot","J0K2K0","Joliette","Sainte-émélie-de-l'énergie","QC",-73.628313,46.318231,"2014",FALSE,NA,24025
+"Bloc",NA,"2014-04-12",200,"Constant Tzournavelis","J5W2N9","Repentigny","L'assomption","QC",-73.41534,45.84742,"2014",FALSE,NA,24053
+"Bloc",NA,"2014-04-14",100,"Camille Leduc","G0C3C1","Gaspésie—Îles-de-la-Madeleine","Hope Town","QC",-65.330633,48.216554,"2014",FALSE,NA,24019
+"Bloc",NA,"2014-04-14",100,"Jean-claude Boisvert","H2E1Z9","Rosemont—La Petite-Patrie","Montréal","QC",-73.607112,45.545475,"2014",FALSE,NA,24061
 "Bloc",NA,"2014-04-14",500,"Louise Bourgault","J6A4J8","Repentigny","Repentigny","QC",-73.45387,45.73636,"2014",FALSE,NA,24053
 "Bloc",NA,"2014-04-14",500,"Normand Drolet","J6A4J8","Repentigny","Repentigny","QC",-73.45387,45.73636,"2014",FALSE,NA,24053
+"Bloc",NA,"2014-04-15",40,"André Gagnon","G0J1M0","Haute-Gaspésie—La Mitis—Matane—Matapédia","Lac-au-saumon","QC",-67.348935,48.423253,"2014",FALSE,NA,24041
+"Bloc",NA,"2014-04-15",25,"André Bouchard","G2A2E1","Louis-Saint-Laurent","Québec","QC",-71.349846,46.865078,"2014",FALSE,NA,24038
+"Bloc",NA,"2014-04-15",20,"Bertrand Boily","G4S1T8","Manicouagan","Sept-îles","QC",-66.413623,50.271138,"2014",FALSE,NA,24039
+"Bloc",NA,"2014-04-15",50,"Ghislain Miousse","G4W1Z1","Haute-Gaspésie—La Mitis—Matane—Matapédia","Matane","QC",-67.536712,48.848145,"2014",FALSE,NA,24041
+"Bloc",NA,"2014-04-15",25,"Carole Duval","G5H3K6","Haute-Gaspésie—La Mitis—Matane—Matapédia","Saint-joseph-de-lepage","QC",-68.169,48.578452,"2014",FALSE,NA,24041
 "Bloc",NA,"2014-04-15",40,"Patricia Vincent","H1H3S3","Bourassa","Montréal-nord","QC",-73.640128,45.598675,"2014",FALSE,NA,24009
+"Bloc",NA,"2014-04-15",50,"Gilles Casgrain","H2L3E9","Laurier—Sainte-Marie","Montréal","QC",-73.560119,45.520632,"2014",FALSE,NA,24031
 "Bloc",NA,"2014-04-15",35,"Alain Marcoux","H2X4E3","Laurier—Sainte-Marie","Montréal","QC",-73.570234,45.511632,"2014",FALSE,NA,24031
 "Bloc",NA,"2014-04-15",400,"Louis-georges Lefebvre","H3L3K1","Ahuntsic","Montréal","QC",-73.670841,45.542018,"2014",FALSE,NA,24002
+"Bloc",NA,"2014-04-15",50,"Michel Brousseau","J0K3L0","Berthier—Maskinongé","Joliette","QC",-73.354312,46.018659,"2014",FALSE,NA,24008
+"Bloc",NA,"2014-04-15",25,"Lise Mcsween","J0S1H0","Beauharnois—Salaberry","Godmanchester","QC",-74.176195,45.086469,"2014",FALSE,NA,24006
+"Bloc",NA,"2014-04-15",40,"Réjean Talbot","J1N1R1","Compton—Stanstead","Sherbrooke","QC",-71.991708,45.379076,"2014",FALSE,NA,24017
+"Bloc",NA,"2014-04-15",20,"René J. Demers","J3G2R7","Chambly—Borduas","Beloeil","QC",-73.209254,45.570475,"2014",FALSE,NA,24012
+"Bloc",NA,"2014-04-15",20,"Pierre Raymond","J3P5N3","Verchères—Les Patriotes","Sainte-anne-de-sorel","QC",-73.059998,46.042327,"2014",FALSE,NA,24074
+"Bloc",NA,"2014-04-15",35,"Mario Daneau-landry","J6E0G8","Joliette","Joliette","QC",-73.425148,46.000387,"2014",FALSE,NA,24025
+"Bloc",NA,"2014-04-15",20,"Pierre Grandchamp","J6E9C4","Joliette","Notre-dame-des-prairies","QC",-73.427831,46.057192,"2014",FALSE,NA,24025
 "Bloc",NA,"2014-04-15",250,"Vincent Roy","J8Y3T8","Hull—Aylmer","Gatineau","QC",-75.73942,45.45584,"2014",FALSE,NA,24023
 "Bloc",NA,"2014-04-16",400,"Paul Audet","G0R2S0","Montmagny—L'Islet—Kamouraska—Rivière-du-Loup","Saint-camille-de-bellechasse","QC",-70.447358,46.540194,"2014",FALSE,NA,24058
 "Bloc",NA,"2014-04-16",250,"Louis Thibaudeau","H4L3W1","Saint-Laurent—Cartierville","Saint-laurent","QC",-73.683966,45.517875,"2014",FALSE,NA,24066
@@ -88,40 +227,77 @@
 "Bloc",NA,"2014-04-16",500,"Jean Gérin-roze","J7P2G2","Rivière-des-Mille-Îles","Saint-eustache","QC",-73.900993,45.565422,"2014",FALSE,NA,24057
 "Bloc",NA,"2014-04-17",400,"Réal Grondin","G6B1R5","Mégantic—L'Érable","Lac-mégantic","QC",-70.913698,45.584151,"2014",FALSE,NA,24042
 "Bloc",NA,"2014-04-17",400,"Guy Cormier","H3S2N5","Outremont","Montreal","QC",-73.61865,45.51039,"2014",FALSE,NA,24047
+"Bloc",NA,"2014-04-17",200,"Jacques Darche","J0B1W0","Brome—Missisquoi","Sainte-catherine-de-hatley","QC",-72.058956,45.263804,"2014",FALSE,NA,24010
+"Bloc",NA,"2014-04-17",60,"Pierre Grandchamp","J6E9C4","Joliette","Notre-dame-des-prairies","QC",-73.427831,46.057192,"2014",FALSE,NA,24025
+"Bloc",NA,"2014-04-18",100,"Gaétan Beaulieu","G5L7R2","Rimouski-Neigette—Témiscouata—Les Basques","Rimouski","QC",-68.52582,48.45473,"2014",FALSE,NA,24056
 "Bloc",NA,"2014-04-22",400,"Michel Hudon","G0L3X0","Rimouski-Neigette—Témiscouata—Les Basques","Saint-pacome","QC",-69.952761,47.407742,"2014",FALSE,NA,24056
+"Bloc",NA,"2014-04-22",200,"Pierre-paul Sénéchal","G0R1C0","Lévis—Bellechasse","Beaumont","QC",-71.004069,46.828262,"2014",FALSE,NA,24034
 "Bloc",NA,"2014-04-22",400,"Maurice Renaud","G0X1W0","Saint-Maurice—Champlain","Notre-dame-de-montauban","QC",-72.309468,46.872201,"2014",FALSE,NA,24068
 "Bloc",NA,"2014-04-22",400,"Julien Gravel","G7P1P4","Jonquière—Alma","Shipshaw","QC",-71.27399,48.49441,"2014",FALSE,NA,24026
 "Bloc",NA,"2014-04-22",400,"André Fortin","G8T1X9","Trois-Rivières","Cap-de-la-madeleine","QC",-72.542597,46.385683,"2014",FALSE,NA,24072
 "Bloc",NA,"2014-04-22",400,"Robert Beaulieu","H2M1P4","Ahuntsic","Montreal","QC",-73.65299,45.54931,"2014",FALSE,NA,24002
+"Bloc",NA,"2014-04-22",100,"Constance Fréchette","H2X0A5","Laurier—Sainte-Marie","Delorimier","QC",-73.570209,45.51059,"2014",FALSE,NA,24031
+"Bloc",NA,"2014-04-22",100,"Émilien Arseneault","J0K2N0","Berthier—Maskinongé","Saint-gabriel","QC",-73.386199,46.295985,"2014",FALSE,NA,24008
 "Bloc",NA,"2014-04-22",200,"Normand Paquette","J3A1S9","Saint-Jean","Saint-Jean-Sur-Richelieu","QC",-73.2794,45.33127,"2014",FALSE,NA,24064
 "Bloc",NA,"2014-04-22",400,"Sylvain Prévost","J3N1M4","Saint-Bruno—Saint-Hubert","Saint-basile-le-grand","QC",-73.261062,45.504549,"2014",FALSE,NA,24062
 "Bloc",NA,"2014-04-22",400,"Benoit Houde","J3T1P5","Bas-Richelieu—Nicolet—Bécancour","Nicolet","QC",-72.607605,46.273122,"2014",FALSE,NA,24054
 "Bloc",NA,"2014-04-22",400,"Gilles Bélisle","J8N1B2","Pontiac","Val-des-monts","QC",-75.781345,45.716066,"2014",FALSE,NA,24050
+"Bloc",NA,"2014-04-24",100,"Blandine Girard","G1W3B4","Louis-Hébert","Quebec","QC",-71.27247,46.77233,"2014",FALSE,NA,24037
 "Bloc",NA,"2014-04-24",400,"Johanne Bergeron","G5A3A4","Montmorency—Charlevoix—Haute-Côte-Nord","La Malbaie","QC",-70.145713,47.63196,"2014",FALSE,NA,24014
 "Bloc",NA,"2014-04-24",400,"Roger Garant","G6B2Z6","Mégantic—L'Érable","Lac-mégantic","QC",-70.902143,45.588564,"2014",FALSE,NA,24042
 "Bloc",NA,"2014-04-24",400,"Daniel Daigneault","H1A2N4","La Pointe-de-l'Île","Pointe-aux-trembles","QC",-73.492368,45.675375,"2014",FALSE,NA,24028
+"Bloc",NA,"2014-04-24",200,"Luc Charlebois","H1A3B9","La Pointe-de-l'Île","Pointe-Aux-Trembles","QC",-73.50359,45.66412,"2014",FALSE,NA,24028
 "Bloc",NA,"2014-04-24",400,"Denis Séguin","H1E4T9","Honoré-Mercier","Montréal","QC",-73.581175,45.647433,"2014",FALSE,NA,24022
 "Bloc",NA,"2014-04-24",300,"Pierre Lacombe","H1H4T8","Bourassa","Montréal-nord","QC",-73.647761,45.591484,"2014",FALSE,NA,24009
 "Bloc",NA,"2014-04-24",400,"François Soumis","H2V2A6","Outremont","Outremont","QC",-73.595306,45.51604,"2014",FALSE,NA,24047
 "Bloc",NA,"2014-04-24",100,"Nicole De Grandmont","H7K3Z2","Marc-Aurèle-Fortin","Laval","QC",-73.762329,45.626622,"2014",FALSE,NA,24040
+"Bloc",NA,"2014-04-24",200,"Jean Robert","J0T1Y0","Argenteuil—Papineau—Mirabel","Wentworth-nord","QC",-74.466539,45.853491,"2014",FALSE,NA,24004
+"Bloc",NA,"2014-04-24",200,"Michel Péloquin","J3N1K3","Chambly—Borduas","Saint-basile-le-grand","QC",-73.30664,45.513896,"2014",FALSE,NA,24012
+"Bloc",NA,"2014-04-24",200,"Mario Couture","J7E4T3","Marc-Aurèle-Fortin","Sainte-Therese","QC",-73.85805,45.642,"2014",FALSE,NA,24040
+"Bloc",NA,"2014-04-24",100,"Élie Fallu","J7E5W6","Marc-Aurèle-Fortin","Sainte-thérèse","QC",-73.854125,45.663769,"2014",FALSE,NA,24040
+"Bloc",NA,"2014-04-24",150,"Claude Bélec","J7P2G3","Rivière-des-Mille-Îles","Saint-eustache","QC",-73.901036,45.565463,"2014",FALSE,NA,24057
+"Bloc",NA,"2014-04-24",100,"Marie-paule Giasson","J9X0A5","Abitibi—Témiscamingue","Rouyn-Noranda","QC",-79.031473,48.396407,"2014",FALSE,NA,24001
 "Bloc",NA,"2014-04-25",400,"Louise Fournier","H4A3M5","Westmount—Ville-Marie","Montréal","QC",-73.605401,45.475127,"2014",FALSE,NA,24075
+"Bloc",NA,"2014-04-25",100,"Lyse Mongeau-allard","H7V1P1","Laval","Laval","QC",-73.727615,45.544299,"2014",FALSE,NA,24032
 "Bloc",NA,"2014-04-25",400,"André Lemay","J0T1M0","Laurentides—Labelle","La Conception","QC",-74.722159,46.160648,"2014",FALSE,NA,24030
 "Bloc",NA,"2014-04-25",400,"Pierre Bastien","J0T2R0","Argenteuil—Papineau—Mirabel","Sainte-agathe-des-monts","QC",-74.190247,46.002537,"2014",FALSE,NA,24004
+"Bloc",NA,"2014-04-25",200,"Jean-jacques Boisvert","J1J4C9","Sherbrooke","Sherbrooke","QC",-71.922195,45.409007,"2014",FALSE,NA,24070
 "Bloc",NA,"2014-04-25",400,"Pierre Majeau","J6E3K9","Joliette","Joliette","QC",-73.45035,46.015074,"2014",FALSE,NA,24025
+"Bloc",NA,"2014-04-27",50,"Marie Simard","J0L2E0","Verchères—Les Patriotes","Saint-marc-sur-richelieu","QC",-73.20894,45.667737,"2014",FALSE,NA,24074
 "Bloc",NA,"2014-04-28",400,"Alfred Doiron","G0L1B0","Montmorency—Charlevoix—Haute-Côte-Nord","Le Bic","QC",-68.691389,48.376499,"2014",FALSE,NA,24014
 "Bloc",NA,"2014-04-28",400,"Guy Ouellet","G2A2S8","Louis-Saint-Laurent","Québec","QC",-71.364911,46.851,"2014",FALSE,NA,24038
+"Bloc",NA,"2014-04-28",60,"Jacques Potvin","G7H8A5","Chicoutimi—Le Fjord","Chicoutimi","QC",-71.047872,48.410728,"2014",FALSE,NA,24016
 "Bloc",NA,"2014-04-28",200,"Patricia Vincent","H1H3S3","Bourassa","Montréal-nord","QC",-73.640128,45.598675,"2014",FALSE,NA,24009
+"Bloc",NA,"2014-04-28",100,"Henriette Roy","J2C0C7","Drummond","Drummondville","QC",-72.50321,45.888598,"2014",FALSE,NA,24018
 "Bloc",NA,"2014-04-28",400,"Michel Rousseau","J6Z3T5","Marc-Aurèle-Fortin","Lorraine","QC",-73.787246,45.669649,"2014",FALSE,NA,24040
 "Bloc",NA,"2014-04-28",400,"Nicole Gaboury","J8Z1C5","Hull—Aylmer","Gatineau","QC",-75.767539,45.463343,"2014",FALSE,NA,24023
 "Bloc",NA,"2014-04-29",400,"Martin Blanchette","G1R1V7","Québec","Québec","QC",-71.225615,46.806843,"2014",FALSE,NA,24052
 "Bloc",NA,"2014-04-29",400,"Michel Grégoire","G1Y1N2","Louis-Hébert","Cap-rouge","QC",-71.343167,46.756811,"2014",FALSE,NA,24037
 "Bloc",NA,"2014-04-29",300,"Guy Joyal","J2S2Y2","Saint-Hyacinthe—Bagot","Saint-hyacinthe","QC",-72.940462,45.634409,"2014",FALSE,NA,24063
+"Bloc",NA,"2014-04-29",150,"Marcel Gagné","V2A5R6","Okanagan—Coquihalla","Penticton","BC",-119.596315,49.493711,"2014",FALSE,NA,59020
+"Bloc",NA,"2014-04-30",45,"Nicole Perron","G1R1J1","Québec","Quebec","QC",-71.23246,46.80532,"2014",FALSE,NA,24052
 "Bloc",NA,"2014-04-30",400,"Gilbert Beaudet","G2B3X9","Louis-Saint-Laurent","Québec","QC",-71.353147,46.837446,"2014",FALSE,NA,24038
 "Bloc",NA,"2014-04-30",400,"Angèle Lefebvre","G9X2V4","Saint-Maurice—Champlain","La Tuque","QC",-72.781874,47.434116,"2014",FALSE,NA,24068
 "Bloc",NA,"2014-04-30",400,"Julien Tremblay","G9X2V4","Saint-Maurice—Champlain","La Tuque","QC",-72.781874,47.434116,"2014",FALSE,NA,24068
 "Bloc",NA,"2014-04-30",400,"Christian Marois","J0E2G0","Brome—Missisquoi","Waterloo","QC",-72.519583,45.431959,"2014",FALSE,NA,24010
+"Bloc",NA,"2014-05-01",33.35,"Ghislain Bernier","G1W3C1","Louis-Hébert","Sainte-foy","QC",-71.272112,46.768362,"2014",FALSE,NA,24037
+"Bloc",NA,"2014-05-01",30,"Maurice Fortier","G2K2M5","Louis-Saint-Laurent","Québec","QC",-71.291238,46.840031,"2014",FALSE,NA,24038
+"Bloc",NA,"2014-05-01",100,"Claude Lizotte","G4R3T2","Manicouagan","Sept-îles","QC",-66.375028,50.217635,"2014",FALSE,NA,24039
+"Bloc",NA,"2014-05-01",33.33,"Jean-françois Plouffe","H1B3A5","La Pointe-de-l'Île","Pointe-aux-trembles","QC",-73.489515,45.638316,"2014",FALSE,NA,24028
+"Bloc",NA,"2014-05-01",20,"Gilbert Paquette","H2J3V6","Laurier—Sainte-Marie","Montréal","QC",-73.577749,45.532408,"2014",FALSE,NA,24031
+"Bloc",NA,"2014-05-01",50,"Ghislaine Martineau","H2R2S8","Papineau","Montréal","QC",-73.616732,45.544782,"2014",FALSE,NA,24048
+"Bloc",NA,"2014-05-01",100,"Berthier Landry","H2X4E3","Laurier—Sainte-Marie","Montréal","QC",-73.570234,45.511632,"2014",FALSE,NA,24031
+"Bloc",NA,"2014-05-01",100,"Jean-louis Bibeau","H3E1L7","Jeanne-Le Ber","Verdun","QC",-73.544682,45.459283,"2014",FALSE,NA,24024
 "Bloc",NA,"2014-05-01",300,"Pierre Ducharme","H7E3R1","Alfred-Pellan","Laval","QC",-73.666058,45.588469,"2014",FALSE,NA,24003
+"Bloc",NA,"2014-05-01",25,"Paul-émile Robert","J0B1X0","Richmond—Arthabaska","Kingsbury","QC",-72.147677,45.583883,"2014",FALSE,NA,24055
 "Bloc",NA,"2014-05-01",25,"Alain Auclair","J0N1E0","Argenteuil—Papineau—Mirabel","Oka","QC",-74.084288,45.474655,"2014",FALSE,NA,24004
+"Bloc",NA,"2014-05-01",20,"Roger Lespérance","J0X3B0","Laurentides—Labelle","Gatineau","QC",-75.244146,45.600397,"2014",FALSE,NA,24030
+"Bloc",NA,"2014-05-01",25,"Benoit Labelle","J3L6W8","Chambly—Borduas","Carignan","QC",-73.364997,45.428861,"2014",FALSE,NA,24012
+"Bloc",NA,"2014-05-01",30,"Louise Liessens","J3P2L9","Bas-Richelieu—Nicolet—Bécancour","Sorel","QC",-73.125806,46.023671,"2014",FALSE,NA,24054
+"Bloc",NA,"2014-05-01",20,"Jacques Caron","J3T1A7","Bas-Richelieu—Nicolet—Bécancour","Nicolet","QC",-72.609211,46.222373,"2014",FALSE,NA,24054
+"Bloc",NA,"2014-05-01",25,"Robert Bénard","J4B5B5","Verchères—Les Patriotes","Boucherville","QC",-73.454532,45.609332,"2014",FALSE,NA,24074
+"Bloc",NA,"2014-05-01",50,"Guy Amyot","J5Z2M6","Repentigny","Le Gardeur","QC",-73.462991,45.764605,"2014",FALSE,NA,24053
+"Bloc",NA,"2014-05-01",100,"Denis Rocheleau","J8T8P5","Gatineau","Gatineau","QC",-75.689509,45.486805,"2014",FALSE,NA,24020
 "Bloc",NA,"2014-05-02",400,"Thérèse Naud","G0A3B0","Saint-Maurice—Champlain","Pont-rouge","QC",-72.083368,46.722917,"2014",FALSE,NA,24068
 "Bloc",NA,"2014-05-02",400,"André Lamarre","H1K3B1","Honoré-Mercier","Montréal","QC",-73.533958,45.604141,"2014",FALSE,NA,24022
 "Bloc",NA,"2014-05-02",400,"Michel Horth","J6A4E6","Repentigny","Repentigny","QC",-73.454229,45.733873,"2014",FALSE,NA,24053
@@ -131,65 +307,258 @@
 "Bloc",NA,"2014-05-04",400,"Agnès Maltais","G1R1V9","Québec","Québec","QC",-71.223155,46.808043,"2014",FALSE,NA,24052
 "Bloc",NA,"2014-05-04",400,"André Brunel","H7K2W6","Marc-Aurèle-Fortin","Laval","QC",-73.755973,45.628249,"2014",FALSE,NA,24040
 "Bloc",NA,"2014-05-05",405,"Maurice Renaud","G0X1W0","Saint-Maurice—Champlain","Notre-dame-de-montauban","QC",-72.309468,46.872201,"2014",FALSE,NA,24068
+"Bloc",NA,"2014-05-05",200,"Manon Giroux","G1Y3C3","Louis-Hébert","Cap-rouge","QC",-71.35942,46.738772,"2014",FALSE,NA,24037
 "Bloc",NA,"2014-05-05",300,"Gilles Gingras","H7B1B2","Alfred-Pellan","Laval","QC",-73.63816,45.687997,"2014",FALSE,NA,24003
+"Bloc",NA,"2014-05-05",200,"Pierre-albert Caza","J1X6Y6","Brome—Missisquoi","Orford","QC",-72.148648,45.277,"2014",FALSE,NA,24010
+"Bloc",NA,"2014-05-06",30,"André Garant","J7A3X7","Marc-Aurèle-Fortin","Rosemère","QC",-73.801062,45.644511,"2014",FALSE,NA,24040
+"Bloc",NA,"2014-05-07",200,"Janine Dansereau","H1J2J7","Honoré-Mercier","Anjou","QC",-73.580494,45.602809,"2014",FALSE,NA,24022
+"Bloc",NA,"2014-05-07",100,"Vianney Lehouiller","J9L1B6","Laurentides—Labelle","Mont-Laurier","QC",-75.49523,46.54559,"2014",FALSE,NA,24030
+"Bloc",NA,"2014-05-08",100,"Paul-andré Bastille","G5R3X8","Montmagny—L'Islet—Kamouraska—Rivière-du-Loup","Rivière-du-loup","QC",-69.543133,47.817084,"2014",FALSE,NA,24058
 "Bloc",NA,"2014-05-08",400,"Pierre Benoit","H1N3N6","Honoré-Mercier","Montréal","QC",-73.628686,45.463873,"2014",FALSE,NA,24022
 "Bloc",NA,"2014-05-08",400,"Georges Ouellet","H2S0B6","Rosemont—La Petite-Patrie","Montreal","QC",-73.596018,45.531445,"2014",FALSE,NA,24061
 "Bloc",NA,"2014-05-09",300,"Gérald Larose","H1N2S9","Hochelaga","Montreal","QC",-73.54506,45.57553,"2014",FALSE,NA,24021
 "Bloc",NA,"2014-05-09",400,"Albert Racicot","H2P2E6","Papineau","Montréal","QC",-73.633799,45.545156,"2014",FALSE,NA,24048
+"Bloc",NA,"2014-05-09",200,"Pierre Laperrière","J0R1R3","Laurentides—Labelle","Piedmont","QC",-74.156039,45.881837,"2014",FALSE,NA,24030
 "Bloc",NA,"2014-05-12",400,"Olivier Laroche","H3N2A5","Papineau","Montréal","QC",-73.630367,45.531001,"2014",FALSE,NA,24048
+"Bloc",NA,"2014-05-12",10,"Frédéric Côté","J2A2N2","Drummond","Saint-nicéphore","QC",-72.43168,45.850249,"2014",FALSE,NA,24018
 "Bloc",NA,"2014-05-12",100,"Normand Paquette","J3A1S9","Saint-Jean","Saint-Jean-Sur-Richelieu","QC",-73.2794,45.33127,"2014",FALSE,NA,24064
 "Bloc",NA,"2014-05-12",400,"Jean-pierre Coutu","J6A4M4","Repentigny","Repentigny","QC",-73.450414,45.737357,"2014",FALSE,NA,24053
+"Bloc",NA,"2014-05-13",50,"Claude Debellefeuille","J0S1K0","Beauharnois—Salaberry","Ormstown","QC",-73.990257,45.119499,"2014",FALSE,NA,24006
+"Bloc",NA,"2014-05-14",60,"Marc Lesage","H1J2C6","Honoré-Mercier","Anjou","QC",-73.57953,45.60127,"2014",FALSE,NA,24022
 "Bloc",NA,"2014-05-14",300,"Louis B. Courtemanche","H3T1N7","Outremont","Montréal","QC",-73.618706,45.499242,"2014",FALSE,NA,24047
 "Bloc",NA,"2014-05-14",300,"Lise Lagacé","H3T1N7","Outremont","Montréal","QC",-73.618706,45.499242,"2014",FALSE,NA,24047
 "Bloc",NA,"2014-05-14",400,"André Lupien","J8Z1T7","Hull—Aylmer","Gatineau","QC",-75.74653,45.46375,"2014",FALSE,NA,24023
+"Bloc",NA,"2014-05-15",40,"André Gagnon","G0J1M0","Haute-Gaspésie—La Mitis—Matane—Matapédia","Lac-au-saumon","QC",-67.348935,48.423253,"2014",FALSE,NA,24041
+"Bloc",NA,"2014-05-15",25,"André Bouchard","G2A2E1","Louis-Saint-Laurent","Québec","QC",-71.349846,46.865078,"2014",FALSE,NA,24038
+"Bloc",NA,"2014-05-15",20,"Bertrand Boily","G4S1T8","Manicouagan","Sept-îles","QC",-66.413623,50.271138,"2014",FALSE,NA,24039
+"Bloc",NA,"2014-05-15",50,"Ghislain Miousse","G4W1Z1","Haute-Gaspésie—La Mitis—Matane—Matapédia","Matane","QC",-67.536712,48.848145,"2014",FALSE,NA,24041
+"Bloc",NA,"2014-05-15",25,"Carole Duval","G5H3K6","Haute-Gaspésie—La Mitis—Matane—Matapédia","Saint-joseph-de-lepage","QC",-68.169,48.578452,"2014",FALSE,NA,24041
 "Bloc",NA,"2014-05-15",40,"Patricia Vincent","H1H3S3","Bourassa","Montréal-nord","QC",-73.640128,45.598675,"2014",FALSE,NA,24009
+"Bloc",NA,"2014-05-15",50,"Gilles Casgrain","H2L3E9","Laurier—Sainte-Marie","Montréal","QC",-73.560119,45.520632,"2014",FALSE,NA,24031
+"Bloc",NA,"2014-05-15",50,"Michel Brousseau","J0K3L0","Berthier—Maskinongé","Joliette","QC",-73.354312,46.018659,"2014",FALSE,NA,24008
+"Bloc",NA,"2014-05-15",25,"Lise Mcsween","J0S1H0","Beauharnois—Salaberry","Godmanchester","QC",-74.176195,45.086469,"2014",FALSE,NA,24006
+"Bloc",NA,"2014-05-15",40,"Réjean Talbot","J1N1R1","Compton—Stanstead","Sherbrooke","QC",-71.991708,45.379076,"2014",FALSE,NA,24017
+"Bloc",NA,"2014-05-15",20,"René J. Demers","J3G2R7","Chambly—Borduas","Beloeil","QC",-73.209254,45.570475,"2014",FALSE,NA,24012
+"Bloc",NA,"2014-05-15",20,"Pierre Raymond","J3P5N3","Verchères—Les Patriotes","Sainte-anne-de-sorel","QC",-73.059998,46.042327,"2014",FALSE,NA,24074
+"Bloc",NA,"2014-05-15",35,"Mario Daneau-landry","J6E0G8","Joliette","Joliette","QC",-73.425148,46.000387,"2014",FALSE,NA,24025
+"Bloc",NA,"2014-05-15",20,"Pierre Grandchamp","J6E9C4","Joliette","Notre-dame-des-prairies","QC",-73.427831,46.057192,"2014",FALSE,NA,24025
+"Bloc",NA,"2014-05-15",50,"Patrice Jasmin-tremblay","J6Z2L4","Marc-Aurèle-Fortin","Bois-Des-Filion","QC",-73.75894,45.66186,"2014",FALSE,NA,24040
 "Bloc",NA,"2014-05-19",100,"Marc Labelle","J8X1Z8","Hull—Aylmer","Gatineau","QC",-75.711747,45.433413,"2014",FALSE,NA,24023
 "Bloc",NA,"2014-05-20",400,"Camille Bronsard","H3V1B3","Outremont","Montréal","QC",-73.618148,45.494511,"2014",FALSE,NA,24047
+"Bloc",NA,"2014-05-20",200,"Henri-georges Robert","J0S1H0","Beauharnois—Salaberry","Godmanchester","QC",-74.176195,45.086469,"2014",FALSE,NA,24006
 "Bloc",NA,"2014-05-24",150,"Alain Auclair","J0N1E0","Argenteuil—Papineau—Mirabel","Oka","QC",-74.084288,45.474655,"2014",FALSE,NA,24004
+"Bloc",NA,"2014-05-28",50,"Bertrand Boily","G4S1T8","Manicouagan","Sept-îles","QC",-66.413623,50.271138,"2014",FALSE,NA,24039
 "Bloc",NA,"2014-05-28",350,"Alain Marcoux","H2X4E3","Laurier—Sainte-Marie","Montréal","QC",-73.570234,45.511632,"2014",FALSE,NA,24031
 "Bloc",NA,"2014-05-28",250,"Serge Roberge","J0T2B0","Argenteuil—Papineau—Mirabel","Sainte-agathe-des-monts","QC",-74.340601,45.959983,"2014",FALSE,NA,24004
 "Bloc",NA,"2014-05-28",400,"Gemma Gauthier","J1X7P4","Brome—Missisquoi","Canton Magog","QC",-72.17216,45.27554,"2014",FALSE,NA,24010
 "Bloc",NA,"2014-05-28",400,"Giselle Chagnon","J4L4H7","Longueuil—Pierre-Boucher","Longueuil","QC",-73.452593,45.522478,"2014",FALSE,NA,24035
 "Bloc",NA,"2014-05-29",400,"Adrienne Laplante","G1C4K3","Montmorency—Charlevoix—Haute-Côte-Nord","Québec","QC",-71.153812,46.890479,"2014",FALSE,NA,24014
+"Bloc",NA,"2014-05-29",200,"Robert Hotte","G9A3A5","Berthier—Maskinongé","Trois-rivières","QC",-72.572117,46.32279,"2014",FALSE,NA,24008
+"Bloc",NA,"2014-06-01",33.35,"Ghislain Bernier","G1W3C1","Louis-Hébert","Sainte-foy","QC",-71.272112,46.768362,"2014",FALSE,NA,24037
+"Bloc",NA,"2014-06-01",30,"Maurice Fortier","G2K2M5","Louis-Saint-Laurent","Québec","QC",-71.291238,46.840031,"2014",FALSE,NA,24038
+"Bloc",NA,"2014-06-01",33.33,"Jean-françois Plouffe","H1B3A5","La Pointe-de-l'Île","Pointe-aux-trembles","QC",-73.489515,45.638316,"2014",FALSE,NA,24028
+"Bloc",NA,"2014-06-01",20,"Gilbert Paquette","H2J3V6","Laurier—Sainte-Marie","Montréal","QC",-73.577749,45.532408,"2014",FALSE,NA,24031
+"Bloc",NA,"2014-06-01",25,"Paul-émile Robert","J0B1X0","Richmond—Arthabaska","Kingsbury","QC",-72.147677,45.583883,"2014",FALSE,NA,24055
 "Bloc",NA,"2014-06-01",25,"Alain Auclair","J0N1E0","Argenteuil—Papineau—Mirabel","Oka","QC",-74.084288,45.474655,"2014",FALSE,NA,24004
+"Bloc",NA,"2014-06-01",20,"Roger Lespérance","J0X3B0","Laurentides—Labelle","Gatineau","QC",-75.244146,45.600397,"2014",FALSE,NA,24030
+"Bloc",NA,"2014-06-01",25,"Benoit Labelle","J3L6W8","Chambly—Borduas","Carignan","QC",-73.364997,45.428861,"2014",FALSE,NA,24012
+"Bloc",NA,"2014-06-01",30,"Louise Liessens","J3P2L9","Bas-Richelieu—Nicolet—Bécancour","Sorel","QC",-73.125806,46.023671,"2014",FALSE,NA,24054
+"Bloc",NA,"2014-06-01",20,"Jacques Caron","J3T1A7","Bas-Richelieu—Nicolet—Bécancour","Nicolet","QC",-72.609211,46.222373,"2014",FALSE,NA,24054
+"Bloc",NA,"2014-06-01",25,"Robert Bénard","J4B5B5","Verchères—Les Patriotes","Boucherville","QC",-73.454532,45.609332,"2014",FALSE,NA,24074
+"Bloc",NA,"2014-06-01",50,"Guy Amyot","J5Z2M6","Repentigny","Le Gardeur","QC",-73.462991,45.764605,"2014",FALSE,NA,24053
 "Bloc",NA,"2014-06-02",400,"Rémi Lefebvre","J6K5C3","Châteauguay—Saint-Constant","Châteauguay","QC",-73.755595,45.354799,"2014",FALSE,NA,24015
+"Bloc",NA,"2014-06-04",50,"Ghislaine Martineau","H2R2S8","Papineau","Montréal","QC",-73.616732,45.544782,"2014",FALSE,NA,24048
+"Bloc",NA,"2014-06-04",50,"Claude Debellefeuille","J0S1K0","Beauharnois—Salaberry","Ormstown","QC",-73.990257,45.119499,"2014",FALSE,NA,24006
+"Bloc",NA,"2014-06-04",200,"André Bissonnette","J1X6X3","Brome—Missisquoi","Orford","QC",-72.159175,45.308965,"2014",FALSE,NA,24010
+"Bloc",NA,"2014-06-04",200,"Diane Boivin","J1X6X3","Brome—Missisquoi","Orford","QC",-72.159175,45.308965,"2014",FALSE,NA,24010
 "Bloc",NA,"2014-06-06",400,"Alain Boucher","H7C2A7","Alfred-Pellan","Laval","QC",-73.65274,45.61258,"2014",FALSE,NA,24003
 "Bloc",NA,"2014-06-11",400,"Gaétan Bond","J4M1R8","Longueuil—Pierre-Boucher","Longueuil","QC",-73.44902,45.52657,"2014",FALSE,NA,24035
+"Bloc",NA,"2014-06-11",40,"Suzanne Gagnon","J4X2A6","Brossard—La Prairie","Brossard","QC",-73.494591,45.449568,"2014",FALSE,NA,24011
 "Bloc",NA,"2014-06-12",608,"Marc Bégin","G3A1A5","Portneuf—Jacques-Cartier","Saint-augustin-de-desmaures","QC",-71.379185,46.747432,"2014",FALSE,NA,24051
 "Bloc",NA,"2014-06-14",515,"Nicole De Grandmont","H7K3Z2","Marc-Aurèle-Fortin","Laval","QC",-73.762329,45.626622,"2014",FALSE,NA,24040
 "Bloc",NA,"2014-06-14",500,"Marc Labelle","J8X1Z8","Hull—Aylmer","Gatineau","QC",-75.711747,45.433413,"2014",FALSE,NA,24023
+"Bloc",NA,"2014-06-15",25,"André Bouchard","G2A2E1","Louis-Saint-Laurent","Québec","QC",-71.349846,46.865078,"2014",FALSE,NA,24038
+"Bloc",NA,"2014-06-15",20,"Bertrand Boily","G4S1T8","Manicouagan","Sept-îles","QC",-66.413623,50.271138,"2014",FALSE,NA,24039
+"Bloc",NA,"2014-06-15",50,"Ghislain Miousse","G4W1Z1","Haute-Gaspésie—La Mitis—Matane—Matapédia","Matane","QC",-67.536712,48.848145,"2014",FALSE,NA,24041
+"Bloc",NA,"2014-06-15",25,"Carole Duval","G5H3K6","Haute-Gaspésie—La Mitis—Matane—Matapédia","Saint-joseph-de-lepage","QC",-68.169,48.578452,"2014",FALSE,NA,24041
 "Bloc",NA,"2014-06-15",40,"Patricia Vincent","H1H3S3","Bourassa","Montréal-nord","QC",-73.640128,45.598675,"2014",FALSE,NA,24009
+"Bloc",NA,"2014-06-15",50,"Gilles Casgrain","H2L3E9","Laurier—Sainte-Marie","Montréal","QC",-73.560119,45.520632,"2014",FALSE,NA,24031
+"Bloc",NA,"2014-06-15",50,"Michel Brousseau","J0K3L0","Berthier—Maskinongé","Joliette","QC",-73.354312,46.018659,"2014",FALSE,NA,24008
+"Bloc",NA,"2014-06-15",40,"Réjean Talbot","J1N1R1","Compton—Stanstead","Sherbrooke","QC",-71.991708,45.379076,"2014",FALSE,NA,24017
+"Bloc",NA,"2014-06-15",20,"René J. Demers","J3G2R7","Chambly—Borduas","Beloeil","QC",-73.209254,45.570475,"2014",FALSE,NA,24012
+"Bloc",NA,"2014-06-15",35,"Mario Daneau-landry","J6E0G8","Joliette","Joliette","QC",-73.425148,46.000387,"2014",FALSE,NA,24025
+"Bloc",NA,"2014-06-15",20,"Pierre Grandchamp","J6E9C4","Joliette","Notre-dame-des-prairies","QC",-73.427831,46.057192,"2014",FALSE,NA,24025
+"Bloc",NA,"2014-06-15",50,"Patrice Jasmin-tremblay","J6Z2L4","Marc-Aurèle-Fortin","Bois-Des-Filion","QC",-73.75894,45.66186,"2014",FALSE,NA,24040
 "Bloc",NA,"2014-06-15",400,"David Henderson","V8N5W8","Victoria","Victoria","BC",-123.277677,48.458946,"2014",FALSE,NA,59035
+"Bloc",NA,"2014-06-16",40,"André Gagnon","G0J1M0","Haute-Gaspésie—La Mitis—Matane—Matapédia","Lac-au-saumon","QC",-67.348935,48.423253,"2014",FALSE,NA,24041
 "Bloc",NA,"2014-06-16",300,"André Beaupré","G5Y7N4","Beauce","Saint-georges","QC",-70.69533,46.136318,"2014",FALSE,NA,24005
+"Bloc",NA,"2014-06-16",60,"Marc Lesage","H1J2C6","Honoré-Mercier","Anjou","QC",-73.57953,45.60127,"2014",FALSE,NA,24022
+"Bloc",NA,"2014-06-16",200,"Claude Tousignant","H7L5M2","Marc-Aurèle-Fortin","Laval","QC",-73.77806,45.61793,"2014",FALSE,NA,24040
+"Bloc",NA,"2014-06-16",25,"Lise Mcsween","J0S1H0","Beauharnois—Salaberry","Godmanchester","QC",-74.176195,45.086469,"2014",FALSE,NA,24006
+"Bloc",NA,"2014-06-16",80,"Armandine Huard","J1X3W2","Brome—Missisquoi","Magog","QC",-72.138983,45.213026,"2014",FALSE,NA,24010
+"Bloc",NA,"2014-06-16",20,"Pierre Raymond","J3P5N3","Verchères—Les Patriotes","Sainte-anne-de-sorel","QC",-73.059998,46.042327,"2014",FALSE,NA,24074
+"Bloc",NA,"2014-06-16",200,"Mathieu Traversy","J6W6C6","Montcalm","Lachenaie","QC",-73.583603,45.702694,"2014",FALSE,NA,24043
 "Bloc",NA,"2014-06-17",400,"Philippe Davignon","J8X3G3","Hull—Aylmer","Gatineau","QC",-75.71647,45.43287,"2014",FALSE,NA,24023
+"Bloc",NA,"2014-06-20",100,"Benoit Tessier","H1Y2N9","Rosemont—La Petite-Patrie","Montréal","QC",-73.581503,45.550735,"2014",FALSE,NA,24061
 "Bloc",NA,"2014-06-20",400,"Michel Paul Archambault","H3Z1J9","Westmount—Ville-Marie","Westmount","QC",-73.592281,45.484383,"2014",FALSE,NA,24075
+"Bloc",NA,"2014-06-20",100,"Andrée L'archevêque","H8Y3N3","Pierrefonds—Dollard","Pierrefonds","QC",-73.7824,45.5002,"2014",FALSE,NA,24049
 "Bloc",NA,"2014-06-20",290,"Renée Descoteaux","J1N1R1","Compton—Stanstead","Sherbrooke","QC",-71.991708,45.379076,"2014",FALSE,NA,24017
 "Bloc",NA,"2014-06-21",400,"Jean-jacques Lauzier","H2E1X6","Papineau","Montréal","QC",-73.62309,45.548156,"2014",FALSE,NA,24048
+"Bloc",NA,"2014-06-27",200,"Philippe Paré","G1X5H8","Louis-Hébert","Sainte-foy","QC",-71.33803,46.762593,"2014",FALSE,NA,24037
 "Bloc",NA,"2014-06-28",400,"André Julien","H4G2S5","Jeanne-Le Ber","Verdun","QC",-73.565177,45.460034,"2014",FALSE,NA,24024
+"Bloc",NA,"2014-07-01",33.35,"Ghislain Bernier","G1W3C1","Louis-Hébert","Sainte-foy","QC",-71.272112,46.768362,"2014",FALSE,NA,24037
+"Bloc",NA,"2014-07-01",30,"Maurice Fortier","G2K2M5","Louis-Saint-Laurent","Québec","QC",-71.291238,46.840031,"2014",FALSE,NA,24038
+"Bloc",NA,"2014-07-01",33.33,"Jean-françois Plouffe","H1B3A5","La Pointe-de-l'Île","Pointe-aux-trembles","QC",-73.489515,45.638316,"2014",FALSE,NA,24028
+"Bloc",NA,"2014-07-01",20,"Gilbert Paquette","H2J3V6","Laurier—Sainte-Marie","Montréal","QC",-73.577749,45.532408,"2014",FALSE,NA,24031
+"Bloc",NA,"2014-07-01",25,"Paul-émile Robert","J0B1X0","Richmond—Arthabaska","Kingsbury","QC",-72.147677,45.583883,"2014",FALSE,NA,24055
+"Bloc",NA,"2014-07-01",20,"Roger Lespérance","J0X3B0","Laurentides—Labelle","Gatineau","QC",-75.244146,45.600397,"2014",FALSE,NA,24030
+"Bloc",NA,"2014-07-01",25,"Benoit Labelle","J3L6W8","Chambly—Borduas","Carignan","QC",-73.364997,45.428861,"2014",FALSE,NA,24012
+"Bloc",NA,"2014-07-01",30,"Louise Liessens","J3P2L9","Bas-Richelieu—Nicolet—Bécancour","Sorel","QC",-73.125806,46.023671,"2014",FALSE,NA,24054
+"Bloc",NA,"2014-07-01",20,"Jacques Caron","J3T1A7","Bas-Richelieu—Nicolet—Bécancour","Nicolet","QC",-72.609211,46.222373,"2014",FALSE,NA,24054
+"Bloc",NA,"2014-07-01",25,"Robert Bénard","J4B5B5","Verchères—Les Patriotes","Boucherville","QC",-73.454532,45.609332,"2014",FALSE,NA,24074
+"Bloc",NA,"2014-07-01",50,"Guy Amyot","J5Z2M6","Repentigny","Le Gardeur","QC",-73.462991,45.764605,"2014",FALSE,NA,24053
 "Bloc",NA,"2014-07-02",400,"Jean-yves Guillet","G1S2W7","Québec","Québec","QC",-71.229039,46.800566,"2014",FALSE,NA,24052
+"Bloc",NA,"2014-07-02",100,"Claude Lizotte","G4R3T2","Manicouagan","Sept-îles","QC",-66.375028,50.217635,"2014",FALSE,NA,24039
+"Bloc",NA,"2014-07-02",50,"Ghislaine Martineau","H2R2S8","Papineau","Montréal","QC",-73.616732,45.544782,"2014",FALSE,NA,24048
+"Bloc",NA,"2014-07-02",50,"Claude Debellefeuille","J0S1K0","Beauharnois—Salaberry","Ormstown","QC",-73.990257,45.119499,"2014",FALSE,NA,24006
 "Bloc",NA,"2014-07-03",485,"Marc-maximilien Authier","H4N1V1","Saint-Laurent—Cartierville","Saint-laurent","QC",-73.67552,45.53023,"2014",FALSE,NA,24066
 "Bloc",NA,"2014-07-03",400,"Claude Desrosiers","H7H2P9","Marc-Aurèle-Fortin","Laval","QC",-73.780787,45.617008,"2014",FALSE,NA,24040
+"Bloc",NA,"2014-07-15",25,"André Bouchard","G2A2E1","Louis-Saint-Laurent","Québec","QC",-71.349846,46.865078,"2014",FALSE,NA,24038
+"Bloc",NA,"2014-07-15",20,"Bertrand Boily","G4S1T8","Manicouagan","Sept-îles","QC",-66.413623,50.271138,"2014",FALSE,NA,24039
+"Bloc",NA,"2014-07-15",25,"Carole Duval","G5H3K6","Haute-Gaspésie—La Mitis—Matane—Matapédia","Saint-joseph-de-lepage","QC",-68.169,48.578452,"2014",FALSE,NA,24041
+"Bloc",NA,"2014-07-15",40,"Patricia Vincent","H1H3S3","Bourassa","Montréal-nord","QC",-73.640128,45.598675,"2014",FALSE,NA,24009
+"Bloc",NA,"2014-07-15",50,"Gilles Casgrain","H2L3E9","Laurier—Sainte-Marie","Montréal","QC",-73.560119,45.520632,"2014",FALSE,NA,24031
+"Bloc",NA,"2014-07-15",50,"Michel Brousseau","J0K3L0","Berthier—Maskinongé","Joliette","QC",-73.354312,46.018659,"2014",FALSE,NA,24008
+"Bloc",NA,"2014-07-15",40,"Réjean Talbot","J1N1R1","Compton—Stanstead","Sherbrooke","QC",-71.991708,45.379076,"2014",FALSE,NA,24017
+"Bloc",NA,"2014-07-15",20,"René J. Demers","J3G2R7","Chambly—Borduas","Beloeil","QC",-73.209254,45.570475,"2014",FALSE,NA,24012
+"Bloc",NA,"2014-07-15",35,"Mario Daneau-landry","J6E0G8","Joliette","Joliette","QC",-73.425148,46.000387,"2014",FALSE,NA,24025
+"Bloc",NA,"2014-07-15",20,"Pierre Grandchamp","J6E9C4","Joliette","Notre-dame-des-prairies","QC",-73.427831,46.057192,"2014",FALSE,NA,24025
+"Bloc",NA,"2014-07-15",50,"Patrice Jasmin-tremblay","J6Z2L4","Marc-Aurèle-Fortin","Bois-Des-Filion","QC",-73.75894,45.66186,"2014",FALSE,NA,24040
+"Bloc",NA,"2014-07-26",100,"Gilles Turcotte","G3J1R2","Louis-Saint-Laurent","Quebec","QC",-71.46578,46.87659,"2014",FALSE,NA,24038
+"Bloc",NA,"2014-08-01",33.35,"Ghislain Bernier","G1W3C1","Louis-Hébert","Sainte-foy","QC",-71.272112,46.768362,"2014",FALSE,NA,24037
+"Bloc",NA,"2014-08-01",30,"Maurice Fortier","G2K2M5","Louis-Saint-Laurent","Québec","QC",-71.291238,46.840031,"2014",FALSE,NA,24038
+"Bloc",NA,"2014-08-01",100,"Paul-andré Bastille","G5R3X8","Montmagny—L'Islet—Kamouraska—Rivière-du-Loup","Rivière-du-loup","QC",-69.543133,47.817084,"2014",FALSE,NA,24058
+"Bloc",NA,"2014-08-01",33.33,"Jean-françois Plouffe","H1B3A5","La Pointe-de-l'Île","Pointe-aux-trembles","QC",-73.489515,45.638316,"2014",FALSE,NA,24028
+"Bloc",NA,"2014-08-01",20,"Gilbert Paquette","H2J3V6","Laurier—Sainte-Marie","Montréal","QC",-73.577749,45.532408,"2014",FALSE,NA,24031
+"Bloc",NA,"2014-08-01",25,"Paul-émile Robert","J0B1X0","Richmond—Arthabaska","Kingsbury","QC",-72.147677,45.583883,"2014",FALSE,NA,24055
+"Bloc",NA,"2014-08-01",20,"Roger Lespérance","J0X3B0","Laurentides—Labelle","Gatineau","QC",-75.244146,45.600397,"2014",FALSE,NA,24030
 "Bloc",NA,"2014-08-01",400,"André Breton","J1X2J9","Brome—Missisquoi","Magog","QC",-72.149888,45.270403,"2014",FALSE,NA,24010
+"Bloc",NA,"2014-08-01",25,"Benoit Labelle","J3L6W8","Chambly—Borduas","Carignan","QC",-73.364997,45.428861,"2014",FALSE,NA,24012
+"Bloc",NA,"2014-08-01",30,"Louise Liessens","J3P2L9","Bas-Richelieu—Nicolet—Bécancour","Sorel","QC",-73.125806,46.023671,"2014",FALSE,NA,24054
+"Bloc",NA,"2014-08-01",20,"Jacques Caron","J3T1A7","Bas-Richelieu—Nicolet—Bécancour","Nicolet","QC",-72.609211,46.222373,"2014",FALSE,NA,24054
+"Bloc",NA,"2014-08-01",25,"Robert Bénard","J4B5B5","Verchères—Les Patriotes","Boucherville","QC",-73.454532,45.609332,"2014",FALSE,NA,24074
+"Bloc",NA,"2014-08-01",50,"Guy Amyot","J5Z2M6","Repentigny","Le Gardeur","QC",-73.462991,45.764605,"2014",FALSE,NA,24053
 "Bloc",NA,"2014-08-03",400,"Daniel Lebeau","G1G5M6","Charlesbourg—Haute-Saint-Charles","Charlesbourg","QC",-71.282442,46.889618,"2014",FALSE,NA,24013
 "Bloc",NA,"2014-08-03",400,"Isabelle Laporte","H2V4R3","Outremont","Outremont","QC",-73.59524,45.516433,"2014",FALSE,NA,24047
 "Bloc",NA,"2014-08-10",400,"David Gagnon","J3A1E7","Saint-Jean","Saint-jean-sur-richelieu","QC",-73.267028,45.331868,"2014",FALSE,NA,24064
+"Bloc",NA,"2014-08-15",25,"André Bouchard","G2A2E1","Louis-Saint-Laurent","Québec","QC",-71.349846,46.865078,"2014",FALSE,NA,24038
+"Bloc",NA,"2014-08-15",20,"Bertrand Boily","G4S1T8","Manicouagan","Sept-îles","QC",-66.413623,50.271138,"2014",FALSE,NA,24039
+"Bloc",NA,"2014-08-15",25,"Carole Duval","G5H3K6","Haute-Gaspésie—La Mitis—Matane—Matapédia","Saint-joseph-de-lepage","QC",-68.169,48.578452,"2014",FALSE,NA,24041
+"Bloc",NA,"2014-08-15",40,"Patricia Vincent","H1H3S3","Bourassa","Montréal-nord","QC",-73.640128,45.598675,"2014",FALSE,NA,24009
+"Bloc",NA,"2014-08-15",50,"Gilles Casgrain","H2L3E9","Laurier—Sainte-Marie","Montréal","QC",-73.560119,45.520632,"2014",FALSE,NA,24031
+"Bloc",NA,"2014-08-15",50,"Michel Brousseau","J0K3L0","Berthier—Maskinongé","Joliette","QC",-73.354312,46.018659,"2014",FALSE,NA,24008
+"Bloc",NA,"2014-08-15",40,"Réjean Talbot","J1N1R1","Compton—Stanstead","Sherbrooke","QC",-71.991708,45.379076,"2014",FALSE,NA,24017
+"Bloc",NA,"2014-08-15",20,"René J. Demers","J3G2R7","Chambly—Borduas","Beloeil","QC",-73.209254,45.570475,"2014",FALSE,NA,24012
+"Bloc",NA,"2014-08-15",35,"Mario Daneau-landry","J6E0G8","Joliette","Joliette","QC",-73.425148,46.000387,"2014",FALSE,NA,24025
+"Bloc",NA,"2014-08-15",20,"Pierre Grandchamp","J6E9C4","Joliette","Notre-dame-des-prairies","QC",-73.427831,46.057192,"2014",FALSE,NA,24025
+"Bloc",NA,"2014-08-15",50,"Patrice Jasmin-tremblay","J6Z2L4","Marc-Aurèle-Fortin","Bois-Des-Filion","QC",-73.75894,45.66186,"2014",FALSE,NA,24040
 "Bloc",NA,"2014-08-18",800,"Jacques Binette","H2H2B5","Laurier—Sainte-Marie","Montréal","QC",-73.574651,45.53635,"2014",FALSE,NA,24031
 "Bloc",NA,"2014-08-18",400,"Denis Demers","J1H6H1","Compton—Stanstead","Sherbrooke","QC",-71.90708,45.372003,"2014",FALSE,NA,24017
+"Bloc",NA,"2014-08-22",80,"André Gagnon","G0J1M0","Haute-Gaspésie—La Mitis—Matane—Matapédia","Lac-au-saumon","QC",-67.348935,48.423253,"2014",FALSE,NA,24041
+"Bloc",NA,"2014-08-22",120,"Marc Lesage","H1J2C6","Honoré-Mercier","Anjou","QC",-73.57953,45.60127,"2014",FALSE,NA,24022
+"Bloc",NA,"2014-08-22",200,"Jean Archambault","H2C2L6","Ahuntsic","Montréal","QC",-73.660919,45.558196,"2014",FALSE,NA,24002
+"Bloc",NA,"2014-08-22",50,"Ghislaine Martineau","H2R2S8","Papineau","Montréal","QC",-73.616732,45.544782,"2014",FALSE,NA,24048
+"Bloc",NA,"2014-08-22",50,"Lise Mcsween","J0S1H0","Beauharnois—Salaberry","Godmanchester","QC",-74.176195,45.086469,"2014",FALSE,NA,24006
+"Bloc",NA,"2014-08-22",50,"Claude Debellefeuille","J0S1K0","Beauharnois—Salaberry","Ormstown","QC",-73.990257,45.119499,"2014",FALSE,NA,24006
 "Bloc",NA,"2014-08-22",160,"Armandine Huard","J1X3W2","Brome—Missisquoi","Magog","QC",-72.138983,45.213026,"2014",FALSE,NA,24010
+"Bloc",NA,"2014-08-22",40,"Pierre Raymond","J3P5N3","Verchères—Les Patriotes","Sainte-anne-de-sorel","QC",-73.059998,46.042327,"2014",FALSE,NA,24074
+"Bloc",NA,"2014-09-01",33.35,"Ghislain Bernier","G1W3C1","Louis-Hébert","Sainte-foy","QC",-71.272112,46.768362,"2014",FALSE,NA,24037
+"Bloc",NA,"2014-09-01",30,"Maurice Fortier","G2K2M5","Louis-Saint-Laurent","Québec","QC",-71.291238,46.840031,"2014",FALSE,NA,24038
+"Bloc",NA,"2014-09-01",33.33,"Jean-françois Plouffe","H1B3A5","La Pointe-de-l'Île","Pointe-aux-trembles","QC",-73.489515,45.638316,"2014",FALSE,NA,24028
+"Bloc",NA,"2014-09-01",20,"Gilbert Paquette","H2J3V6","Laurier—Sainte-Marie","Montréal","QC",-73.577749,45.532408,"2014",FALSE,NA,24031
+"Bloc",NA,"2014-09-01",25,"Paul-émile Robert","J0B1X0","Richmond—Arthabaska","Kingsbury","QC",-72.147677,45.583883,"2014",FALSE,NA,24055
+"Bloc",NA,"2014-09-01",20,"Roger Lespérance","J0X3B0","Laurentides—Labelle","Gatineau","QC",-75.244146,45.600397,"2014",FALSE,NA,24030
+"Bloc",NA,"2014-09-01",25,"Benoit Labelle","J3L6W8","Chambly—Borduas","Carignan","QC",-73.364997,45.428861,"2014",FALSE,NA,24012
+"Bloc",NA,"2014-09-01",30,"Louise Liessens","J3P2L9","Bas-Richelieu—Nicolet—Bécancour","Sorel","QC",-73.125806,46.023671,"2014",FALSE,NA,24054
+"Bloc",NA,"2014-09-01",20,"Jacques Caron","J3T1A7","Bas-Richelieu—Nicolet—Bécancour","Nicolet","QC",-72.609211,46.222373,"2014",FALSE,NA,24054
+"Bloc",NA,"2014-09-01",25,"Robert Bénard","J4B5B5","Verchères—Les Patriotes","Boucherville","QC",-73.454532,45.609332,"2014",FALSE,NA,24074
+"Bloc",NA,"2014-09-01",50,"Guy Amyot","J5Z2M6","Repentigny","Le Gardeur","QC",-73.462991,45.764605,"2014",FALSE,NA,24053
+"Bloc",NA,"2014-09-05",100,"Claude Lizotte","G4R3T2","Manicouagan","Sept-îles","QC",-66.375028,50.217635,"2014",FALSE,NA,24039
+"Bloc",NA,"2014-09-09",50,"Ghislaine Martineau","H2R2S8","Papineau","Montréal","QC",-73.616732,45.544782,"2014",FALSE,NA,24048
+"Bloc",NA,"2014-09-12",150,"Noëlla Lessard","H7W2S3","Laval—Les Îles","Laval","QC",-73.74168,45.53249,"2014",FALSE,NA,24033
+"Bloc",NA,"2014-09-15",25,"André Bouchard","G2A2E1","Louis-Saint-Laurent","Québec","QC",-71.349846,46.865078,"2014",FALSE,NA,24038
+"Bloc",NA,"2014-09-15",20,"Bertrand Boily","G4S1T8","Manicouagan","Sept-îles","QC",-66.413623,50.271138,"2014",FALSE,NA,24039
+"Bloc",NA,"2014-09-15",25,"Carole Duval","G5H3K6","Haute-Gaspésie—La Mitis—Matane—Matapédia","Saint-joseph-de-lepage","QC",-68.169,48.578452,"2014",FALSE,NA,24041
+"Bloc",NA,"2014-09-15",40,"Patricia Vincent","H1H3S3","Bourassa","Montréal-nord","QC",-73.640128,45.598675,"2014",FALSE,NA,24009
+"Bloc",NA,"2014-09-15",50,"Gilles Casgrain","H2L3E9","Laurier—Sainte-Marie","Montréal","QC",-73.560119,45.520632,"2014",FALSE,NA,24031
+"Bloc",NA,"2014-09-15",50,"Michel Brousseau","J0K3L0","Berthier—Maskinongé","Joliette","QC",-73.354312,46.018659,"2014",FALSE,NA,24008
+"Bloc",NA,"2014-09-15",40,"Réjean Talbot","J1N1R1","Compton—Stanstead","Sherbrooke","QC",-71.991708,45.379076,"2014",FALSE,NA,24017
+"Bloc",NA,"2014-09-15",20,"René J. Demers","J3G2R7","Chambly—Borduas","Beloeil","QC",-73.209254,45.570475,"2014",FALSE,NA,24012
+"Bloc",NA,"2014-09-15",35,"Mario Daneau-landry","J6E0G8","Joliette","Joliette","QC",-73.425148,46.000387,"2014",FALSE,NA,24025
+"Bloc",NA,"2014-09-15",20,"Pierre Grandchamp","J6E9C4","Joliette","Notre-dame-des-prairies","QC",-73.427831,46.057192,"2014",FALSE,NA,24025
+"Bloc",NA,"2014-09-15",50,"Patrice Jasmin-tremblay","J6Z2L4","Marc-Aurèle-Fortin","Bois-Des-Filion","QC",-73.75894,45.66186,"2014",FALSE,NA,24040
+"Bloc",NA,"2014-09-16",100,"Paul-andré Bastille","G5R3X8","Montmagny—L'Islet—Kamouraska—Rivière-du-Loup","Rivière-du-loup","QC",-69.543133,47.817084,"2014",FALSE,NA,24058
+"Bloc",NA,"2014-09-16",35,"Marc Lesage","H1J2C6","Honoré-Mercier","Anjou","QC",-73.57953,45.60127,"2014",FALSE,NA,24022
+"Bloc",NA,"2014-09-17",40,"André Gagnon","G0J1M0","Haute-Gaspésie—La Mitis—Matane—Matapédia","Lac-au-saumon","QC",-67.348935,48.423253,"2014",FALSE,NA,24041
+"Bloc",NA,"2014-09-17",25,"Lise Mcsween","J0S1H0","Beauharnois—Salaberry","Godmanchester","QC",-74.176195,45.086469,"2014",FALSE,NA,24006
 "Bloc",NA,"2014-09-17",80,"Armandine Huard","J1X3W2","Brome—Missisquoi","Magog","QC",-72.138983,45.213026,"2014",FALSE,NA,24010
+"Bloc",NA,"2014-09-17",20,"Pierre Raymond","J3P5N3","Verchères—Les Patriotes","Sainte-anne-de-sorel","QC",-73.059998,46.042327,"2014",FALSE,NA,24074
+"Bloc",NA,"2014-09-19",100,"Benoit Tessier","H1Y2N9","Rosemont—La Petite-Patrie","Montréal","QC",-73.581503,45.550735,"2014",FALSE,NA,24061
 "Bloc",NA,"2014-09-21",400,"Dany Thibault","H2S3A6","Rosemont—La Petite-Patrie","Montreal","QC",-73.60674,45.53024,"2014",FALSE,NA,24061
 "Bloc",NA,"2014-09-24",400,"Henri Joli-coeur","H3A1W8","Westmount—Ville-Marie","Montréal","QC",-73.578338,45.502773,"2014",FALSE,NA,24075
 "Bloc",NA,"2014-09-24",400,"Bernard St-amour","H4N2Z1","Ahuntsic","Montréal","QC",-73.677662,45.536775,"2014",FALSE,NA,24002
 "Bloc",NA,"2014-09-29",400,"Francine Héon","G0J3J0","Haute-Gaspésie—La Mitis—Matane—Matapédia","Saint-vianney","QC",-67.406936,48.610586,"2014",FALSE,NA,24041
+"Bloc",NA,"2014-09-29",100,"Nicole Perron","G1R1J1","Québec","Quebec","QC",-71.23246,46.80532,"2014",FALSE,NA,24052
+"Bloc",NA,"2014-10-01",33.35,"Ghislain Bernier","G1W3C1","Louis-Hébert","Sainte-foy","QC",-71.272112,46.768362,"2014",FALSE,NA,24037
+"Bloc",NA,"2014-10-01",30,"Maurice Fortier","G2K2M5","Louis-Saint-Laurent","Québec","QC",-71.291238,46.840031,"2014",FALSE,NA,24038
+"Bloc",NA,"2014-10-01",33.33,"Jean-françois Plouffe","H1B3A5","La Pointe-de-l'Île","Pointe-aux-trembles","QC",-73.489515,45.638316,"2014",FALSE,NA,24028
+"Bloc",NA,"2014-10-01",20,"Gilbert Paquette","H2J3V6","Laurier—Sainte-Marie","Montréal","QC",-73.577749,45.532408,"2014",FALSE,NA,24031
+"Bloc",NA,"2014-10-01",25,"Paul-émile Robert","J0B1X0","Richmond—Arthabaska","Kingsbury","QC",-72.147677,45.583883,"2014",FALSE,NA,24055
+"Bloc",NA,"2014-10-01",25,"Alain Auclair","J0N1E0","Argenteuil—Papineau—Mirabel","Oka","QC",-74.084288,45.474655,"2014",FALSE,NA,24004
+"Bloc",NA,"2014-10-01",20,"Roger Lespérance","J0X3B0","Laurentides—Labelle","Gatineau","QC",-75.244146,45.600397,"2014",FALSE,NA,24030
+"Bloc",NA,"2014-10-01",25,"Benoit Labelle","J3L6W8","Chambly—Borduas","Carignan","QC",-73.364997,45.428861,"2014",FALSE,NA,24012
+"Bloc",NA,"2014-10-01",30,"Louise Liessens","J3P2L9","Bas-Richelieu—Nicolet—Bécancour","Sorel","QC",-73.125806,46.023671,"2014",FALSE,NA,24054
+"Bloc",NA,"2014-10-01",20,"Jacques Caron","J3T1A7","Bas-Richelieu—Nicolet—Bécancour","Nicolet","QC",-72.609211,46.222373,"2014",FALSE,NA,24054
+"Bloc",NA,"2014-10-01",25,"Robert Bénard","J4B5B5","Verchères—Les Patriotes","Boucherville","QC",-73.454532,45.609332,"2014",FALSE,NA,24074
+"Bloc",NA,"2014-10-01",50,"Guy Amyot","J5Z2M6","Repentigny","Le Gardeur","QC",-73.462991,45.764605,"2014",FALSE,NA,24053
 "Bloc",NA,"2014-10-03",400,"Serge Côté","G0J3J0","Haute-Gaspésie—La Mitis—Matane—Matapédia","Saint-vianney","QC",-67.406936,48.610586,"2014",FALSE,NA,24041
 "Bloc",NA,"2014-10-05",400,"Marie-françoise Arthus","H2P2C9","Papineau","Montréal","QC",-73.632778,45.545675,"2014",FALSE,NA,24048
 "Bloc",NA,"2014-10-14",300,"Carol Létourneau","G1X1T7","Louis-Hébert","Sainte-foy","QC",-71.310079,46.774839,"2014",FALSE,NA,24037
+"Bloc",NA,"2014-10-14",200,"Luc Charlebois","H1A3B9","La Pointe-de-l'Île","Pointe-Aux-Trembles","QC",-73.50359,45.66412,"2014",FALSE,NA,24028
+"Bloc",NA,"2014-10-14",35,"Marc Lesage","H1J2C6","Honoré-Mercier","Anjou","QC",-73.57953,45.60127,"2014",FALSE,NA,24022
 "Bloc",NA,"2014-10-14",795,"Michel Choquette","H1L5M6","La Pointe-de-l'Île","Montreal","QC",-73.53239,45.60004,"2014",FALSE,NA,24028
+"Bloc",NA,"2014-10-15",40,"André Gagnon","G0J1M0","Haute-Gaspésie—La Mitis—Matane—Matapédia","Lac-au-saumon","QC",-67.348935,48.423253,"2014",FALSE,NA,24041
+"Bloc",NA,"2014-10-15",25,"André Bouchard","G2A2E1","Louis-Saint-Laurent","Québec","QC",-71.349846,46.865078,"2014",FALSE,NA,24038
+"Bloc",NA,"2014-10-15",20,"Bertrand Boily","G4S1T8","Manicouagan","Sept-îles","QC",-66.413623,50.271138,"2014",FALSE,NA,24039
+"Bloc",NA,"2014-10-15",40,"Patricia Vincent","H1H3S3","Bourassa","Montréal-nord","QC",-73.640128,45.598675,"2014",FALSE,NA,24009
+"Bloc",NA,"2014-10-15",50,"Gilles Casgrain","H2L3E9","Laurier—Sainte-Marie","Montréal","QC",-73.560119,45.520632,"2014",FALSE,NA,24031
+"Bloc",NA,"2014-10-15",50,"Michel Brousseau","J0K3L0","Berthier—Maskinongé","Joliette","QC",-73.354312,46.018659,"2014",FALSE,NA,24008
+"Bloc",NA,"2014-10-15",40,"Réjean Talbot","J1N1R1","Compton—Stanstead","Sherbrooke","QC",-71.991708,45.379076,"2014",FALSE,NA,24017
+"Bloc",NA,"2014-10-15",80,"Armandine Huard","J1X3W2","Brome—Missisquoi","Magog","QC",-72.138983,45.213026,"2014",FALSE,NA,24010
+"Bloc",NA,"2014-10-15",20,"René J. Demers","J3G2R7","Chambly—Borduas","Beloeil","QC",-73.209254,45.570475,"2014",FALSE,NA,24012
+"Bloc",NA,"2014-10-15",20,"Pierre Raymond","J3P5N3","Verchères—Les Patriotes","Sainte-anne-de-sorel","QC",-73.059998,46.042327,"2014",FALSE,NA,24074
+"Bloc",NA,"2014-10-15",35,"Mario Daneau-landry","J6E0G8","Joliette","Joliette","QC",-73.425148,46.000387,"2014",FALSE,NA,24025
+"Bloc",NA,"2014-10-15",20,"Pierre Grandchamp","J6E9C4","Joliette","Notre-dame-des-prairies","QC",-73.427831,46.057192,"2014",FALSE,NA,24025
+"Bloc",NA,"2014-10-15",50,"Patrice Jasmin-tremblay","J6Z2L4","Marc-Aurèle-Fortin","Bois-Des-Filion","QC",-73.75894,45.66186,"2014",FALSE,NA,24040
 "Bloc",NA,"2014-10-22",100,"Marie-louise Séguin","J0P1Y0","Vaudreuil-Soulanges","Sainte-justine-de-newton","QC",-74.393468,45.295806,"2014",FALSE,NA,24073
 "Bloc",NA,"2014-10-23",300,"Gérard Lauzé","J4Z1M8","Brossard—La Prairie","Brossard","QC",-73.457357,45.472665,"2014",FALSE,NA,24011
 "Bloc",NA,"2014-10-28",400,"Richard Fortin","J7C4S8","Terrebonne—Blainville","Blainville","QC",-73.879789,45.688004,"2014",FALSE,NA,24071
+"Bloc",NA,"2014-10-29",100,"Jean-jacques Boisvert","J1J4C9","Sherbrooke","Sherbrooke","QC",-71.922195,45.409007,"2014",FALSE,NA,24070
 "Bloc",NA,"2014-10-29",400,"Yvan Côté","J3Y8P6","Saint-Bruno—Saint-Hubert","Saint-hubert","QC",-73.399892,45.482156,"2014",FALSE,NA,24062
+"Bloc",NA,"2014-11-01",33.35,"Ghislain Bernier","G1W3C1","Louis-Hébert","Sainte-foy","QC",-71.272112,46.768362,"2014",FALSE,NA,24037
+"Bloc",NA,"2014-11-01",33.33,"Jean-françois Plouffe","H1B3A5","La Pointe-de-l'Île","Pointe-aux-trembles","QC",-73.489515,45.638316,"2014",FALSE,NA,24028
+"Bloc",NA,"2014-11-01",20,"Gilbert Paquette","H2J3V6","Laurier—Sainte-Marie","Montréal","QC",-73.577749,45.532408,"2014",FALSE,NA,24031
+"Bloc",NA,"2014-11-01",25,"Paul-émile Robert","J0B1X0","Richmond—Arthabaska","Kingsbury","QC",-72.147677,45.583883,"2014",FALSE,NA,24055
+"Bloc",NA,"2014-11-01",25,"Alain Auclair","J0N1E0","Argenteuil—Papineau—Mirabel","Oka","QC",-74.084288,45.474655,"2014",FALSE,NA,24004
+"Bloc",NA,"2014-11-01",20,"Roger Lespérance","J0X3B0","Laurentides—Labelle","Gatineau","QC",-75.244146,45.600397,"2014",FALSE,NA,24030
+"Bloc",NA,"2014-11-01",25,"Benoit Labelle","J3L6W8","Chambly—Borduas","Carignan","QC",-73.364997,45.428861,"2014",FALSE,NA,24012
+"Bloc",NA,"2014-11-01",30,"Louise Liessens","J3P2L9","Bas-Richelieu—Nicolet—Bécancour","Sorel","QC",-73.125806,46.023671,"2014",FALSE,NA,24054
+"Bloc",NA,"2014-11-01",20,"Jacques Caron","J3T1A7","Bas-Richelieu—Nicolet—Bécancour","Nicolet","QC",-72.609211,46.222373,"2014",FALSE,NA,24054
+"Bloc",NA,"2014-11-01",25,"Robert Bénard","J4B5B5","Verchères—Les Patriotes","Boucherville","QC",-73.454532,45.609332,"2014",FALSE,NA,24074
+"Bloc",NA,"2014-11-01",50,"Guy Amyot","J5Z2M6","Repentigny","Le Gardeur","QC",-73.462991,45.764605,"2014",FALSE,NA,24053
 "Bloc",NA,"2014-11-03",400,"Laval Cavanagh","G0C1J0","Gaspésie—Îles-de-la-Madeleine","Carleton-sur-mer","QC",-66.124804,48.10718,"2014",FALSE,NA,24019
+"Bloc",NA,"2014-11-03",100,"Claude Lizotte","G4R3T2","Manicouagan","Sept-îles","QC",-66.375028,50.217635,"2014",FALSE,NA,24039
+"Bloc",NA,"2014-11-03",195,"Jean Archambault","H2C2L6","Ahuntsic","Montréal","QC",-73.660919,45.558196,"2014",FALSE,NA,24002
 "Bloc",NA,"2014-11-03",400,"Claude Morissette","H3L1K1","Ahuntsic","Montréal","QC",-73.681825,45.547904,"2014",FALSE,NA,24002
 "Bloc",NA,"2014-11-04",400,"Gabriel Laliberté","G1P1J1","Québec","Quebec","QC",-71.31532,46.80399,"2014",FALSE,NA,24052
 "Bloc",NA,"2014-11-05",400,"Monique Plouffe-renaud","H2V4R3","Outremont","Outremont","QC",-73.59524,45.516433,"2014",FALSE,NA,24047
@@ -216,9 +585,11 @@
 "Bloc",NA,"2014-11-10",400,"François Bellemare","H2S2K4","Rosemont—La Petite-Patrie","Montréal","QC",-73.597802,45.534116,"2014",FALSE,NA,24061
 "Bloc",NA,"2014-11-10",400,"Réal Larochelle","H2V3B1","Outremont","Outremont","QC",-73.613379,45.51636,"2014",FALSE,NA,24047
 "Bloc",NA,"2014-11-10",300,"Camilien Corbeil","H4E1P6","Jeanne-Le Ber","Montreal","QC",-73.586835,45.459271,"2014",FALSE,NA,24024
+"Bloc",NA,"2014-11-10",100,"Fernand Potvin","H4R2E3","Saint-Laurent—Cartierville","Saint-laurent","QC",-73.726585,45.51262,"2014",FALSE,NA,24066
 "Bloc",NA,"2014-11-10",215,"Jean-claude Giguère","J0T1T0","Argenteuil—Papineau—Mirabel","L'annonciation","QC",-74.876431,46.414809,"2014",FALSE,NA,24004
 "Bloc",NA,"2014-11-10",400,"Pierre Lapointe","J0T2N0","Laurentides—Labelle","Val-david","QC",-74.213995,46.028659,"2014",FALSE,NA,24030
 "Bloc",NA,"2014-11-10",400,"Diane Duplin","J3X1R1","Verchères—Les Patriotes","Varennes","QC",-73.437906,45.686218,"2014",FALSE,NA,24074
+"Bloc",NA,"2014-11-10",20,"Jean Prévost","J7R2B9","Rivière-des-Mille-Îles","Saint-eustache","QC",-73.89204,45.559934,"2014",FALSE,NA,24057
 "Bloc",NA,"2014-11-10",400,"Lise Castonguay-roy","J8Z2A6","Hull—Aylmer","Gatineau","QC",-75.763167,45.473785,"2014",FALSE,NA,24023
 "Bloc",NA,"2014-11-11",400,"André Louis-seize","J4L4K2","Saint-Lambert","Longueuil","QC",-73.448979,45.509416,"2014",FALSE,NA,24065
 "Bloc",NA,"2014-11-12",400,"Oscar-robert Longtin","H1W3J7","Hochelaga","Montréal","QC",-73.54986,45.547441,"2014",FALSE,NA,24021
@@ -228,21 +599,34 @@
 "Bloc",NA,"2014-11-12",500,"Michel Gouault","J0J1C0","Brome—Missisquoi","Bedford","QC",-72.822789,45.049515,"2014",FALSE,NA,24010
 "Bloc",NA,"2014-11-12",210,"Pierre Laperrière","J0R1R3","Laurentides—Labelle","Piedmont","QC",-74.156039,45.881837,"2014",FALSE,NA,24030
 "Bloc",NA,"2014-11-12",500,"Ginette Fournier","J5Z4G2","Repentigny","Le Gardeur","QC",-73.473223,45.75891,"2014",FALSE,NA,24053
+"Bloc",NA,"2014-11-12",100,"Vianney Lehouiller","J9L1B6","Laurentides—Labelle","Mont-Laurier","QC",-75.49523,46.54559,"2014",FALSE,NA,24030
 "Bloc",NA,"2014-11-13",400,"Marc Gilbert","G0T1Y0","Montmorency—Charlevoix—Haute-Côte-Nord","Sacrã©-coeur","QC",-70.607373,48.348816,"2014",FALSE,NA,24014
 "Bloc",NA,"2014-11-14",400,"Michel Fortier","G0S2C0","Lotbinière—Chutes-de-la-Chaudière","St-antoine-de-tilly","QC",-71.578563,46.657474,"2014",FALSE,NA,24036
+"Bloc",NA,"2014-11-14",100,"Paul-andré Bastille","G5R3X8","Montmagny—L'Islet—Kamouraska—Rivière-du-Loup","Rivière-du-loup","QC",-69.543133,47.817084,"2014",FALSE,NA,24058
 "Bloc",NA,"2014-11-14",300,"Denis Monière","H2L3M6","Laurier—Sainte-Marie","Montreal","QC",-73.57059,45.52337,"2014",FALSE,NA,24031
 "Bloc",NA,"2014-11-14",400,"Nathalie Mongeau","H3C1J2","Westmount—Ville-Marie","Montréal","QC",-73.557111,45.50403,"2014",FALSE,NA,24075
 "Bloc",NA,"2014-11-14",400,"Charles Campbell","H8R1L4","Notre-Dame-de-Grâce—Lachine","Lachine","QC",-73.64671,45.4462,"2014",FALSE,NA,24045
 "Bloc",NA,"2014-11-14",400,"Gaétan Breault","J3L2Z9","Chambly—Borduas","Chambly","QC",-73.286685,45.444101,"2014",FALSE,NA,24012
 "Bloc",NA,"2014-11-14",300,"Hélène Gaudreau","J4M2M5","Longueuil—Pierre-Boucher","Longueuil","QC",-73.445288,45.539521,"2014",FALSE,NA,24035
+"Bloc",NA,"2014-11-15",20,"Bertrand Boily","G4S1T8","Manicouagan","Sept-îles","QC",-66.413623,50.271138,"2014",FALSE,NA,24039
+"Bloc",NA,"2014-11-15",40,"Patricia Vincent","H1H3S3","Bourassa","Montréal-nord","QC",-73.640128,45.598675,"2014",FALSE,NA,24009
+"Bloc",NA,"2014-11-15",50,"Gilles Casgrain","H2L3E9","Laurier—Sainte-Marie","Montréal","QC",-73.560119,45.520632,"2014",FALSE,NA,24031
+"Bloc",NA,"2014-11-15",50,"Michel Brousseau","J0K3L0","Berthier—Maskinongé","Joliette","QC",-73.354312,46.018659,"2014",FALSE,NA,24008
+"Bloc",NA,"2014-11-15",40,"Réjean Talbot","J1N1R1","Compton—Stanstead","Sherbrooke","QC",-71.991708,45.379076,"2014",FALSE,NA,24017
+"Bloc",NA,"2014-11-15",20,"René J. Demers","J3G2R7","Chambly—Borduas","Beloeil","QC",-73.209254,45.570475,"2014",FALSE,NA,24012
+"Bloc",NA,"2014-11-15",35,"Mario Daneau-landry","J6E0G8","Joliette","Joliette","QC",-73.425148,46.000387,"2014",FALSE,NA,24025
+"Bloc",NA,"2014-11-15",20,"Pierre Grandchamp","J6E9C4","Joliette","Notre-dame-des-prairies","QC",-73.427831,46.057192,"2014",FALSE,NA,24025
+"Bloc",NA,"2014-11-15",50,"Patrice Jasmin-tremblay","J6Z2L4","Marc-Aurèle-Fortin","Bois-Des-Filion","QC",-73.75894,45.66186,"2014",FALSE,NA,24040
 "Bloc",NA,"2014-11-16",400,"François Aumond","G3B1R9","Portneuf—Jacques-Cartier","Québec","QC",-71.307059,46.945556,"2014",FALSE,NA,24051
 "Bloc",NA,"2014-11-17",400,"André B. Chéné","G0G1H0","Manicouagan","Sept-iles","QC",-66.612357,50.177094,"2014",FALSE,NA,24039
 "Bloc",NA,"2014-11-17",400,"Odette Poirier","G0G1H0","Manicouagan","Sept-iles","QC",-66.612357,50.177094,"2014",FALSE,NA,24039
 "Bloc",NA,"2014-11-17",500,"François Bérard","H1K5C8","Honoré-Mercier","Montréal","QC",-73.540653,45.596947,"2014",FALSE,NA,24022
 "Bloc",NA,"2014-11-19",200,"Thérèse Lavoie","G0A2L0","Montmorency—Charlevoix—Haute-Côte-Nord","Petite-riviere-saint-francois","QC",-70.561731,47.331932,"2014",FALSE,NA,24014
+"Bloc",NA,"2014-11-19",40,"André Gagnon","G0J1M0","Haute-Gaspésie—La Mitis—Matane—Matapédia","Lac-au-saumon","QC",-67.348935,48.423253,"2014",FALSE,NA,24041
 "Bloc",NA,"2014-11-19",300,"Jean-marie Boisvert","G1W3B2","Louis-Hébert","Quebec","QC",-71.31518,46.75196,"2014",FALSE,NA,24037
 "Bloc",NA,"2014-11-19",400,"Pierre Valois","H1W3L5","Hochelaga","Montréal","QC",-73.551636,45.548746,"2014",FALSE,NA,24021
 "Bloc",NA,"2014-11-19",400,"Paul Déry","H2P2E7","Papineau","Montréal","QC",-73.633071,45.545227,"2014",FALSE,NA,24048
+"Bloc",NA,"2014-11-19",20,"Pierre Raymond","J3P5N3","Verchères—Les Patriotes","Sainte-anne-de-sorel","QC",-73.059998,46.042327,"2014",FALSE,NA,24074
 "Bloc",NA,"2014-11-19",400,"Yves Vaillancourt","J4P3R6","Saint-Lambert","Saint-lambert","QC",-73.510906,45.500442,"2014",FALSE,NA,24065
 "Bloc",NA,"2014-11-20",400,"Germain Julien","G3A1N4","Portneuf—Jacques-Cartier","Saint-augustin-de-desmaures","QC",-71.449145,46.735033,"2014",FALSE,NA,24051
 "Bloc",NA,"2014-11-20",400,"Pierrette Jutras","J0C1B0","Drummond","L'avenir","QC",-72.303856,45.772595,"2014",FALSE,NA,24018
@@ -251,6 +635,8 @@
 "Bloc",NA,"2014-11-20",1000,"Diane Bourgeois","J0C1N0","Richmond—Arthabaska","Saint-lucien","QC",-72.303425,45.863117,"2014",FALSE,NA,24055
 "Bloc",NA,"2014-11-20",750,"Jean Laframboise","J6S6A2","Beauharnois—Salaberry","Saint-timothée","QC",-74.029903,45.294831,"2014",FALSE,NA,24006
 "Bloc",NA,"2014-11-21",400,"Marielle Deguire","H2M2K7","Ahuntsic","Montréal","QC",-73.637723,45.558547,"2014",FALSE,NA,24002
+"Bloc",NA,"2014-11-22",200,"Claire Blais","J0C1A0","Drummond","Saint-cyrille-de-wendover","QC",-72.348734,45.996528,"2014",FALSE,NA,24018
+"Bloc",NA,"2014-11-22",200,"Paul-émile Lupien","J0C1A0","Drummond","Saint-cyrille-de-wendover","QC",-72.348734,45.996528,"2014",FALSE,NA,24018
 "Bloc",NA,"2014-11-23",400,"Roch-yves Simard","G3N1X8","Portneuf—Jacques-Cartier","Sainte-catherine-de-la-jacques-cartier","QC",-71.610145,46.883925,"2014",FALSE,NA,24051
 "Bloc",NA,"2014-11-24",400,"Gilles Morin","G0A3L0","Portneuf—Jacques-Cartier","Saint-casimir","QC",-72.141037,46.660694,"2014",FALSE,NA,24051
 "Bloc",NA,"2014-11-24",400,"Robert Asselin","G1C7P9","Beauport—Limoilou","Beauport","QC",-71.219529,46.872692,"2014",FALSE,NA,24007
@@ -265,6 +651,7 @@
 "Bloc",NA,"2014-11-24",300,"Christine Léonard","J5W1W4","Repentigny","L'assomption","QC",-73.427388,45.814097,"2014",FALSE,NA,24053
 "Bloc",NA,"2014-11-24",600,"Gérard Héroux","J6X4L6","Terrebonne—Blainville","Terrebonne","QC",-73.68639,45.715596,"2014",FALSE,NA,24071
 "Bloc",NA,"2014-11-25",100,"Roger Gaudet","J0K2X0","Berthier—Maskinongé","Saint-liguori","QC",-73.579463,46.011851,"2014",FALSE,NA,24008
+"Bloc",NA,"2014-11-26",125,"Blandine Girard","G1W3B4","Louis-Hébert","Quebec","QC",-71.27247,46.77233,"2014",FALSE,NA,24037
 "Bloc",NA,"2014-11-26",400,"Josée Véronneau","H3L2L5","Ahuntsic","Montréal","QC",-73.665447,45.550711,"2014",FALSE,NA,24002
 "Bloc",NA,"2014-11-26",400,"Gérard Houle","J8V4A8","Gatineau","Gatineau","QC",-75.752408,45.500624,"2014",FALSE,NA,24020
 "Bloc",NA,"2014-11-27",400,"Germain Gauvin","G1S3E6","Québec","Québec","QC",-71.244199,46.801168,"2014",FALSE,NA,24052
@@ -275,23 +662,42 @@
 "Bloc",NA,"2014-11-27",400,"Adibas Delisle","H4E1N7","LaSalle—Émard","Montréal","QC",-73.59487,45.460304,"2014",FALSE,NA,24029
 "Bloc",NA,"2014-11-27",400,"Jean Jacques Delisle","H4E1N7","LaSalle—Émard","Montréal","QC",-73.59487,45.460304,"2014",FALSE,NA,24029
 "Bloc",NA,"2014-11-27",400,"Bernard Courteau","J1H1B1","Sherbrooke","Sherbrooke","QC",-71.902609,45.40856,"2014",FALSE,NA,24070
+"Bloc",NA,"2014-11-27",100,"Marie-paule Giasson","J9X0A5","Abitibi—Témiscamingue","Rouyn-Noranda","QC",-79.031473,48.396407,"2014",FALSE,NA,24001
 "Bloc",NA,"2014-11-27",300,"Roger Bureau","J9X3E7","Abitibi—Témiscamingue","Rouyn-noranda","QC",-79.011323,48.237491,"2014",FALSE,NA,24001
+"Bloc",NA,"2014-11-28",200,"Pierre Bournival","G2G2B2","Louis-Hébert","Quebec","QC",-71.36178,46.77836,"2014",FALSE,NA,24037
+"Bloc",NA,"2014-11-28",100,"Gaétan Beaulieu","G5L7R2","Rimouski-Neigette—Témiscouata—Les Basques","Rimouski","QC",-68.52582,48.45473,"2014",FALSE,NA,24056
 "Bloc",NA,"2014-11-28",400,"Mario Martel","J2N1G7","Brome—Missisquoi","Farnham","QC",-72.974811,45.287625,"2014",FALSE,NA,24010
 "Bloc",NA,"2014-11-29",350,"Luc Bissonnette","H2N1V9","Ahuntsic","Montréal","QC",-73.64586,45.538475,"2014",FALSE,NA,24002
 "Bloc",NA,"2014-11-30",400,"Frédéric Guérin","G6P8J9","Richmond—Arthabaska","Victoriaville","QC",-71.97849,46.05415,"2014",FALSE,NA,24055
 "Bloc",NA,"2014-11-30",400,"Jean-guy Perron","G9T3E8","Saint-Maurice—Champlain","Lemoyne","QC",-72.665598,46.621368,"2014",FALSE,NA,24068
+"Bloc",NA,"2014-11-30",100,"Benoit Tessier","H1Y2N9","Rosemont—La Petite-Patrie","Montréal","QC",-73.581503,45.550735,"2014",FALSE,NA,24061
 "Bloc",NA,"2014-12-01",400,"Daniel Morin","G1S3E6","Québec","Québec","QC",-71.244199,46.801168,"2014",FALSE,NA,24052
+"Bloc",NA,"2014-12-01",33.35,"Ghislain Bernier","G1W3C1","Louis-Hébert","Sainte-foy","QC",-71.272112,46.768362,"2014",FALSE,NA,24037
+"Bloc",NA,"2014-12-01",33.33,"Jean-françois Plouffe","H1B3A5","La Pointe-de-l'Île","Pointe-aux-trembles","QC",-73.489515,45.638316,"2014",FALSE,NA,24028
+"Bloc",NA,"2014-12-01",20,"Gilbert Paquette","H2J3V6","Laurier—Sainte-Marie","Montréal","QC",-73.577749,45.532408,"2014",FALSE,NA,24031
 "Bloc",NA,"2014-12-01",400,"Réjean Côté","H3C4J6","Jeanne-Le Ber","Montréal","QC",-73.556282,45.506971,"2014",FALSE,NA,24024
 "Bloc",NA,"2014-12-01",400,"Ginette Robitaille","J0K2E0","Berthier—Maskinongé","Saint-gabriel","QC",-73.51584,46.321876,"2014",FALSE,NA,24008
 "Bloc",NA,"2014-12-01",400,"Martin Robitaille","J0K2E0","Berthier—Maskinongé","Saint-gabriel","QC",-73.51584,46.321876,"2014",FALSE,NA,24008
+"Bloc",NA,"2014-12-01",25,"Alain Auclair","J0N1E0","Argenteuil—Papineau—Mirabel","Oka","QC",-74.084288,45.474655,"2014",FALSE,NA,24004
+"Bloc",NA,"2014-12-01",200,"Claude Debellefeuille","J0S1K0","Beauharnois—Salaberry","Ormstown","QC",-73.990257,45.119499,"2014",FALSE,NA,24006
+"Bloc",NA,"2014-12-01",20,"Roger Lespérance","J0X3B0","Laurentides—Labelle","Gatineau","QC",-75.244146,45.600397,"2014",FALSE,NA,24030
+"Bloc",NA,"2014-12-01",25,"Benoit Labelle","J3L6W8","Chambly—Borduas","Carignan","QC",-73.364997,45.428861,"2014",FALSE,NA,24012
+"Bloc",NA,"2014-12-01",30,"Louise Liessens","J3P2L9","Bas-Richelieu—Nicolet—Bécancour","Sorel","QC",-73.125806,46.023671,"2014",FALSE,NA,24054
+"Bloc",NA,"2014-12-01",20,"Jacques Caron","J3T1A7","Bas-Richelieu—Nicolet—Bécancour","Nicolet","QC",-72.609211,46.222373,"2014",FALSE,NA,24054
+"Bloc",NA,"2014-12-01",25,"Robert Bénard","J4B5B5","Verchères—Les Patriotes","Boucherville","QC",-73.454532,45.609332,"2014",FALSE,NA,24074
+"Bloc",NA,"2014-12-01",50,"Guy Amyot","J5Z2M6","Repentigny","Le Gardeur","QC",-73.462991,45.764605,"2014",FALSE,NA,24053
 "Bloc",NA,"2014-12-01",400,"Gisèle Courtemanche","J7Y3Z7","Rivière-du-Nord","Saint-jérôme","QC",-74.016696,45.777767,"2014",FALSE,NA,24059
 "Bloc",NA,"2014-12-02",400,"Richard Filion","J8X3W9","Hull—Aylmer","Gatineau","QC",-75.696211,45.445778,"2014",FALSE,NA,24023
 "Bloc",NA,"2014-12-03",400,"Ashley Watson","G1P1A7","Louis-Saint-Laurent","Québec","QC",-71.325281,46.822404,"2014",FALSE,NA,24038
+"Bloc",NA,"2014-12-03",140,"Claude Desrosiers","H7H2P9","Marc-Aurèle-Fortin","Laval","QC",-73.780787,45.617008,"2014",FALSE,NA,24040
 "Bloc",NA,"2014-12-03",400,"Jean Crevier","J0R1K0","Laurentides—Labelle","Gore","QC",-74.131018,45.89991,"2014",FALSE,NA,24030
+"Bloc",NA,"2014-12-03",200,"Frédéric Côté","J2A2N2","Drummond","Saint-nicéphore","QC",-72.43168,45.850249,"2014",FALSE,NA,24018
+"Bloc",NA,"2014-12-03",200,"André Garant","J7A3X7","Marc-Aurèle-Fortin","Rosemère","QC",-73.801062,45.644511,"2014",FALSE,NA,24040
 "Bloc",NA,"2014-12-04",400,"Lionel Ouellet","G1T1Y6","Louis-Hébert","Québec","QC",-71.257003,46.785623,"2014",FALSE,NA,24037
 "Bloc",NA,"2014-12-04",400,"Sabin Gaudreault","G8B2E3","Jonquière—Alma","Alma","QC",-71.654046,48.543045,"2014",FALSE,NA,24026
 "Bloc",NA,"2014-12-04",400,"Bernard Michaud","J3Y8M7","Saint-Bruno—Saint-Hubert","Saint-hubert","QC",-73.404674,45.502629,"2014",FALSE,NA,24062
 "Bloc",NA,"2014-12-04",300,"Martin Foisy","J5W1K4","Repentigny","L'assomption","QC",-73.437783,45.829338,"2014",FALSE,NA,24053
+"Bloc",NA,"2014-12-04",100,"Constant Tzournavelis","J5W2N9","Repentigny","L'assomption","QC",-73.41534,45.84742,"2014",FALSE,NA,24053
 "Bloc",NA,"2014-12-04",400,"Marcel Bellehumeur","J6A6K4","Repentigny","Repentigny","QC",-73.439101,45.764977,"2014",FALSE,NA,24053
 "Bloc",NA,"2014-12-05",400,"Régent Lussier","H1L5N6","La Pointe-de-l'Île","Montréal","QC",-73.528031,45.598044,"2014",FALSE,NA,24028
 "Bloc",NA,"2014-12-05",400,"Françoise Dumitrescu","H1X2E2","Rosemont—La Petite-Patrie","Montréal","QC",-73.564263,45.556826,"2014",FALSE,NA,24061
@@ -311,6 +717,7 @@
 "Bloc",NA,"2014-12-09",115,"André Duval","H1B5T6","La Pointe-de-l'Île","Pointe-aux-trembles","QC",-73.505773,45.63843,"2014",FALSE,NA,24028
 "Bloc",NA,"2014-12-09",230,"Louis Sauvé","H1L2P7","La Pointe-de-l'Île","Montréal","QC",-73.515847,45.609012,"2014",FALSE,NA,24028
 "Bloc",NA,"2014-12-09",230,"Isaac Locat","H1N1J1","La Pointe-de-l'Île","Montreal","QC",-73.54411,45.57637,"2014",FALSE,NA,24028
+"Bloc",NA,"2014-12-09",115,"Jacques Binette","H2H2B5","Laurier—Sainte-Marie","Montréal","QC",-73.574651,45.53635,"2014",FALSE,NA,24031
 "Bloc",NA,"2014-12-09",230,"Suzanne Gagnon","J4X2A6","Brossard—La Prairie","Brossard","QC",-73.494591,45.449568,"2014",FALSE,NA,24011
 "Bloc",NA,"2014-12-09",400,"Monique Coderre","J7E2Z8","Marc-Aurèle-Fortin","Sainte-Therese","QC",-73.83616,45.64183,"2014",FALSE,NA,24040
 "Bloc",NA,"2014-12-10",400,"Paul-eugène Couture","G1Y3C6","Louis-Hébert","Cap-rouge","QC",-71.353928,46.755482,"2014",FALSE,NA,24037
@@ -319,12 +726,14 @@
 "Bloc",NA,"2014-12-10",1000,"Yves Samson","J2B1L2","Drummond","Drummondville","QC",-72.47908,45.87379,"2014",FALSE,NA,24018
 "Bloc",NA,"2014-12-10",400,"Gaston Pinard","J2B3C6","Drummond","Drummondville","QC",-72.460672,45.850255,"2014",FALSE,NA,24018
 "Bloc",NA,"2014-12-10",400,"Denise Yergeau","J2B3C6","Drummond","Drummondville","QC",-72.460672,45.850255,"2014",FALSE,NA,24018
+"Bloc",NA,"2014-12-10",200,"Henriette Roy","J2C0C7","Drummond","Drummondville","QC",-72.50321,45.888598,"2014",FALSE,NA,24018
 "Bloc",NA,"2014-12-10",400,"Vivianne Dupont","J5Y3Z8","Repentigny","Repentigny","QC",-73.440262,45.770732,"2014",FALSE,NA,24053
 "Bloc",NA,"2014-12-10",400,"Francis Taillefer","J6W0B6","Montcalm","Lachenaie","QC",-73.644706,45.714918,"2014",FALSE,NA,24043
 "Bloc",NA,"2014-12-10",984,"Lise Barry","J6W1K4","Terrebonne—Blainville","Terrebonne","QC",-73.675211,45.693284,"2014",FALSE,NA,24071
 "Bloc",NA,"2014-12-10",984,"Michel Taillefer","J6W1K4","Terrebonne—Blainville","Terrebonne","QC",-73.675211,45.693284,"2014",FALSE,NA,24071
 "Bloc",NA,"2014-12-10",400,"Bibianne Therrien","J6W5H2","Montcalm","Lachenaie","QC",-73.639065,45.71487,"2014",FALSE,NA,24043
 "Bloc",NA,"2014-12-10",364,"Pierre Traversy","J6W5H2","Montcalm","Lachenaie","QC",-73.639065,45.71487,"2014",FALSE,NA,24043
+"Bloc",NA,"2014-12-10",164,"Mathieu Traversy","J6W6C6","Montcalm","Lachenaie","QC",-73.583603,45.702694,"2014",FALSE,NA,24043
 "Bloc",NA,"2014-12-11",300,"Madeleine Laflamme","G1R1V9","Québec","Québec","QC",-71.223155,46.808043,"2014",FALSE,NA,24052
 "Bloc",NA,"2014-12-11",405,"Bruno Lajoie","G1V1P8","Québec","Québec","QC",-71.265671,46.790904,"2014",FALSE,NA,24052
 "Bloc",NA,"2014-12-11",365,"Nicolas Kaliaguine","H1L3G9","La Pointe-de-l'Île","Montréal","QC",-73.512979,45.59228,"2014",FALSE,NA,24028
@@ -334,10 +743,20 @@
 "Bloc",NA,"2014-12-13",400,"Romain Gagné","G4W7A1","Haute-Gaspésie—La Mitis—Matane—Matapédia","Matane","QC",-67.442052,48.868373,"2014",FALSE,NA,24041
 "Bloc",NA,"2014-12-13",400,"Luc Rochefort","J8Y2J3","Hull—Aylmer","Gatineau","QC",-75.73421,45.438808,"2014",FALSE,NA,24023
 "Bloc",NA,"2014-12-14",300,"Marie-louise Séguin","J0P1Y0","Vaudreuil-Soulanges","Sainte-justine-de-newton","QC",-74.393468,45.295806,"2014",FALSE,NA,24073
+"Bloc",NA,"2014-12-15",20,"Bertrand Boily","G4S1T8","Manicouagan","Sept-îles","QC",-66.413623,50.271138,"2014",FALSE,NA,24039
 "Bloc",NA,"2014-12-15",400,"Denise Fraser","G5R3X8","Montmagny—L'Islet—Kamouraska—Rivière-du-Loup","Rivière-du-loup","QC",-69.543133,47.817084,"2014",FALSE,NA,24058
+"Bloc",NA,"2014-12-15",40,"Patricia Vincent","H1H3S3","Bourassa","Montréal-nord","QC",-73.640128,45.598675,"2014",FALSE,NA,24009
+"Bloc",NA,"2014-12-15",50,"Gilles Casgrain","H2L3E9","Laurier—Sainte-Marie","Montréal","QC",-73.560119,45.520632,"2014",FALSE,NA,24031
 "Bloc",NA,"2014-12-15",400,"Anne-marie Boire-lavigne","J0B1B0","Brome—Missisquoi","Austin","QC",-72.264854,45.246035,"2014",FALSE,NA,24010
+"Bloc",NA,"2014-12-15",50,"Michel Brousseau","J0K3L0","Berthier—Maskinongé","Joliette","QC",-73.354312,46.018659,"2014",FALSE,NA,24008
+"Bloc",NA,"2014-12-15",40,"Réjean Talbot","J1N1R1","Compton—Stanstead","Sherbrooke","QC",-71.991708,45.379076,"2014",FALSE,NA,24017
+"Bloc",NA,"2014-12-15",20,"René J. Demers","J3G2R7","Chambly—Borduas","Beloeil","QC",-73.209254,45.570475,"2014",FALSE,NA,24012
+"Bloc",NA,"2014-12-15",20,"Pierre Raymond","J3P5N3","Verchères—Les Patriotes","Sainte-anne-de-sorel","QC",-73.059998,46.042327,"2014",FALSE,NA,24074
+"Bloc",NA,"2014-12-15",35,"Mario Daneau-landry","J6E0G8","Joliette","Joliette","QC",-73.425148,46.000387,"2014",FALSE,NA,24025
 "Bloc",NA,"2014-12-15",400,"Louis Martin","J6E5C7","Joliette","Joliette","QC",-73.442994,46.027605,"2014",FALSE,NA,24025
+"Bloc",NA,"2014-12-15",20,"Pierre Grandchamp","J6E9C4","Joliette","Notre-dame-des-prairies","QC",-73.427831,46.057192,"2014",FALSE,NA,24025
 "Bloc",NA,"2014-12-15",400,"Denis Laître","J6S1A5","Beauharnois—Salaberry","Grande-île","QC",-74.13801,45.278947,"2014",FALSE,NA,24006
+"Bloc",NA,"2014-12-15",50,"Patrice Jasmin-tremblay","J6Z2L4","Marc-Aurèle-Fortin","Bois-Des-Filion","QC",-73.75894,45.66186,"2014",FALSE,NA,24040
 "Bloc",NA,"2014-12-15",400,"Michel De Courcy","J8E3H6","Laurentides—Labelle","Mont-tremblant","QC",-74.598491,46.120981,"2014",FALSE,NA,24030
 "Bloc",NA,"2014-12-15",400,"Gaston Carmichael","J8R1E9","Gatineau","Gatineau","QC",-75.64944,45.50235,"2014",FALSE,NA,24020
 "Bloc",NA,"2014-12-15",400,"Diane Carmichaël","J8R1E9","Gatineau","Gatineau","QC",-75.64944,45.50235,"2014",FALSE,NA,24020
@@ -350,6 +769,7 @@
 "Bloc",NA,"2014-12-16",400,"Jacinthe Lavoie","J4N1K9","Longueuil—Pierre-Boucher","Longueuil","QC",-73.459314,45.552483,"2014",FALSE,NA,24035
 "Bloc",NA,"2014-12-16",300,"Jacques Cayouette","J9H4A3","Hull—Aylmer","Gatineau","QC",-75.839486,45.384237,"2014",FALSE,NA,24023
 "Bloc",NA,"2014-12-16",400,"Georges Mainville","J9P4E3","Abitibi—Baie-James—Nunavik—Eeyou","Val-d'or","QC",-77.79869,48.102302,"2014",FALSE,NA,24046
+"Bloc",NA,"2014-12-17",40,"André Gagnon","G0J1M0","Haute-Gaspésie—La Mitis—Matane—Matapédia","Lac-au-saumon","QC",-67.348935,48.423253,"2014",FALSE,NA,24041
 "Bloc",NA,"2014-12-17",300,"Lyane Chevrefils","H2E2P2","Papineau","Montréal","QC",-73.607848,45.551456,"2014",FALSE,NA,24048
 "Bloc",NA,"2014-12-17",400,"Jacques Klein","H3E1T6","Jeanne-Le Ber","Verdun","QC",-73.541591,45.462674,"2014",FALSE,NA,24024
 "Bloc",NA,"2014-12-17",400,"Norman Dansereau","H7X3H2","Laval—Les Îles","Laval","QC",-73.816263,45.527866,"2014",FALSE,NA,24033
@@ -376,6 +796,7 @@
 "Bloc",NA,"2014-12-22",350,"Marie Simard","J0L2E0","Verchères—Les Patriotes","Saint-marc-sur-richelieu","QC",-73.20894,45.667737,"2014",FALSE,NA,24074
 "Bloc",NA,"2014-12-22",400,"Jérôme Filiatrault","J7Y2E7","Rivière-du-Nord","Saint-jerome","QC",-74.01561,45.780332,"2014",FALSE,NA,24059
 "Bloc",NA,"2014-12-23",400,"Gilles Théberge","G0P1C0","Mégantic—L'Érable","Notre-dame-de-ham","QC",-71.724458,45.912299,"2014",FALSE,NA,24042
+"Bloc",NA,"2014-12-23",200,"Pierre-paul Sénéchal","G0R1C0","Lévis—Bellechasse","Beaumont","QC",-71.004069,46.828262,"2014",FALSE,NA,24034
 "Bloc",NA,"2014-12-23",250,"Kakola Nsaka","G1J4E7","Beauport—Limoilou","Quebec","QC",-71.2279,46.84005,"2014",FALSE,NA,24007
 "Bloc",NA,"2014-12-23",400,"Gilles Grenier","G1L1H1","Beauport—Limoilou","Québec","QC",-70.916977,46.898094,"2014",FALSE,NA,24007
 "Bloc",NA,"2014-12-23",400,"Michel Giguère","G2K0K4","Louis-Saint-Laurent","Quebec","QC",-71.303073,46.845646,"2014",FALSE,NA,24038
@@ -411,14 +832,18 @@
 "Bloc",NA,"2014-12-30",165,"Jocelyne Beaulne","H2J3B9","Laurier—Sainte-Marie","Montréal","QC",-73.582929,45.528314,"2014",FALSE,NA,24031
 "Bloc",NA,"2014-12-30",200,"Paul Déry","H2P2E7","Papineau","Montréal","QC",-73.633071,45.545227,"2014",FALSE,NA,24048
 "Bloc",NA,"2014-12-30",400,"Denis Brault","H7S1Y1","Laval","Laval","QC",-73.736155,45.572255,"2014",FALSE,NA,24032
+"Bloc",NA,"2014-12-30",100,"Andrée L'archevêque","H8Y3N3","Pierrefonds—Dollard","Pierrefonds","QC",-73.7824,45.5002,"2014",FALSE,NA,24049
 "Bloc",NA,"2014-12-30",400,"René Janelle","J0C1A0","Drummond","Saint-cyrille-de-wendover","QC",-72.348734,45.996528,"2014",FALSE,NA,24018
 "Bloc",NA,"2014-12-30",500,"Dave Turcotte","J2W1M2","Saint-Jean","Saint-jean-sur-richelieu","QC",-73.268096,45.352669,"2014",FALSE,NA,24064
 "Bloc",NA,"2014-12-30",300,"Marie-andrée Forget","J3R2K4","Bas-Richelieu—Nicolet—Bécancour","Sorel-Tracy","QC",-73.14216,46.0284,"2014",FALSE,NA,24054
 "Bloc",NA,"2014-12-30",400,"Maurice Major","J9A1B7","Hull—Aylmer","Gatineau","QC",-75.747625,45.422842,"2014",FALSE,NA,24023
 "Bloc",NA,"2014-12-31",400,"Margee Valverde More","E3C0G4","Fredericton","Fredericton","NB",-66.714181,45.899205,"2014",FALSE,NA,13003
+"Bloc",NA,"2014-12-31",100,"Nicole Perron","G1R1J1","Québec","Quebec","QC",-71.23246,46.80532,"2014",FALSE,NA,24052
+"Bloc",NA,"2014-12-31",200,"Jean-pierre Gagnon","G1R2K7","Québec","Quebec","QC",-71.22269,46.80207,"2014",FALSE,NA,24052
 "Bloc",NA,"2014-12-31",400,"André Joli-coeur","G1T1X1","Louis-Hébert","Sillery","QC",-71.267419,46.762224,"2014",FALSE,NA,24037
 "Bloc",NA,"2014-12-31",400,"Gilles Turcotte","G3J1R2","Louis-Saint-Laurent","Quebec","QC",-71.46578,46.87659,"2014",FALSE,NA,24038
 "Bloc",NA,"2014-12-31",395,"Benoît Bergeron","H1B3G8","La Pointe-de-l'Île","Pointe-aux-trembles","QC",-73.51041,45.648647,"2014",FALSE,NA,24028
+"Bloc",NA,"2014-12-31",200,"Éric Daoust","H2R2P8","Papineau","Montréal","QC",-73.619317,45.543394,"2014",FALSE,NA,24048
 "Bloc",NA,"2014-12-31",400,"Jean-sébastien Moreau","H2S2N4","Rosemont—La Petite-Patrie","Montréal","QC",-73.604407,45.535126,"2014",FALSE,NA,24061
 "Bloc",NA,"2014-12-31",400,"Serge Rosselet","J2N2R2","Shefford","Farnham","QC",-72.971255,45.303156,"2014",FALSE,NA,24069
 "Bloc",NA,"2014-12-31",400,"Gisèle Beaupré-filion","J2T1P3","Saint-Hyacinthe—Bagot","Saint-Hyacinthe","QC",-72.93933,45.62072,"2014",FALSE,NA,24063

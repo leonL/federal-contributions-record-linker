@@ -56,8 +56,8 @@
 "Bloc",NA,"2012-02-01",25,"Robert Bénard","J4B5B5","Verchères—Les Patriotes","Boucherville","QC",-73.454532,45.609332,"2012",FALSE,NA,24074
 "Bloc",NA,"2012-02-01",50,"Guy Amyot","J5Z2M6","Repentigny","Le Gardeur","QC",-73.462991,45.764605,"2012",FALSE,NA,24053
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2012-02-06",400,"André Ap Philippot","J3P3E7","Bas-Richelieu—Nicolet—Bécancour","Sorel-tracy","QC",-73.085934,46.033166,"2012",TRUE,24054,24054
-"Bloc","Bas-Richelieu—Nicolet—Bécancour","2012-02-06",400,"Claude C F Forcier","J3R5E7","Bas-Richelieu—Nicolet—Bécancour","Sorel-tracy","QC",-73.148633,45.983347,"2012",TRUE,24054,24054
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2012-02-06",500,"Jocelyne Jg Gariépy","J3R5E7","Bas-Richelieu—Nicolet—Bécancour","Sorel-tracy","QC",-73.148633,45.983347,"2012",TRUE,24054,24054
+"Bloc","Bas-Richelieu—Nicolet—Bécancour","2012-02-06",400,"Claude C F Forcier","J3R5E7","Bas-Richelieu—Nicolet—Bécancour","Sorel-tracy","QC",-73.148633,45.983347,"2012",TRUE,24054,24054
 "Bloc","Roberval—Lac-Saint-Jean","2012-02-15",400,"Gratien Ouellet","G8H3G4","Roberval—Lac-Saint-Jean","Roberval","QC",-72.215618,48.499668,"2012",TRUE,24060,24060
 "Bloc",NA,"2012-02-15",70,"Paul Crête","G0R1Z0","Montmagny—L'Islet—Kamouraska—Rivière-du-Loup","La Pocatière","QC",-70.029768,47.366652,"2012",FALSE,NA,24058
 "Bloc",NA,"2012-02-15",20,"Raymond Turcotte","G1H1L8","Charlesbourg—Haute-Saint-Charles","Charlesbourg","QC",-71.260715,46.858455,"2012",FALSE,NA,24013
@@ -409,8 +409,8 @@
 "Bloc",NA,"2012-06-15",25,"Francis Bénard","J6Y1H4","Terrebonne—Blainville","Terrebonne","QC",-73.682912,45.694148,"2012",FALSE,NA,24071
 "Bloc",NA,"2012-06-15",50,"Yvette Roussy","J9P2A3","Abitibi—Baie-James—Nunavik—Eeyou","Val-d'or","QC",-77.773519,48.099772,"2012",FALSE,NA,24046
 "Bloc",NA,"2012-06-17",400,"Diane Bélanger","J1L0C3","Sherbrooke","Sherbrooke","QC",-71.946335,45.414546,"2012",FALSE,NA,24070
-"Bloc","Haute-Gaspésie—La Mitis—Matane—Matapédia","2012-06-18",400,"André Morin","G0J1K0","Haute-Gaspésie—La Mitis—Matane—Matapédia","Grosses-roches","QC",-67.170877,48.938746,"2012",TRUE,24041,24041
 "Bloc","Haute-Gaspésie—La Mitis—Matane—Matapédia","2012-06-18",400,"Hélène Plante","G0J1K0","Haute-Gaspésie—La Mitis—Matane—Matapédia","Grosses-roches","QC",-67.170877,48.938746,"2012",TRUE,24041,24041
+"Bloc","Haute-Gaspésie—La Mitis—Matane—Matapédia","2012-06-18",400,"André Morin","G0J1K0","Haute-Gaspésie—La Mitis—Matane—Matapédia","Grosses-roches","QC",-67.170877,48.938746,"2012",TRUE,24041,24041
 "Bloc","Haute-Gaspésie—La Mitis—Matane—Matapédia","2012-06-18",400,"Pascal Bérubé","G4W1C3","Haute-Gaspésie—La Mitis—Matane—Matapédia","Matane","QC",-67.516328,48.849876,"2012",TRUE,24041,24041
 "Bloc","Haute-Gaspésie—La Mitis—Matane—Matapédia","2012-06-18",400,"Ghislain Miousse","G4W1Z1","Haute-Gaspésie—La Mitis—Matane—Matapédia","Matane","QC",-67.536712,48.848145,"2012",TRUE,24041,24041
 "Bloc","Haute-Gaspésie—La Mitis—Matane—Matapédia","2012-06-18",400,"Marcelline Gauthier","G4W9E7","Haute-Gaspésie—La Mitis—Matane—Matapédia","Matane","QC",-67.48458,48.809492,"2012",TRUE,24041,24041
@@ -856,8 +856,8 @@
 "Bloc",NA,"2012-11-23",400,"Yvan Tellier","H2V2T8","Outremont","Outremont","QC",-73.621297,45.514696,"2012",FALSE,NA,24047
 "Bloc",NA,"2012-11-24",400,"Iza Godbout","J8Y2J3","Hull—Aylmer","Gatineau","QC",-75.73421,45.438808,"2012",FALSE,NA,24023
 "Bloc","Chicoutimi—Le Fjord","2012-11-26",375,"Marc-urbain Proulx","G7H2L6","Chicoutimi—Le Fjord","Chicoutimi","QC",-71.039346,48.418778,"2012",TRUE,24016,24016
-"Bloc","Roberval—Lac-Saint-Jean","2012-11-26",400,"Claude Pilote","G8H2H8","Roberval—Lac-Saint-Jean","Roberval","QC",-72.218383,48.502919,"2012",TRUE,24060,24060
 "Bloc","Roberval—Lac-Saint-Jean","2012-11-26",400,"Hélène Lavoie","G8H2H8","Roberval—Lac-Saint-Jean","Roberval","QC",-72.218383,48.502919,"2012",TRUE,24060,24060
+"Bloc","Roberval—Lac-Saint-Jean","2012-11-26",400,"Claude Pilote","G8H2H8","Roberval—Lac-Saint-Jean","Roberval","QC",-72.218383,48.502919,"2012",TRUE,24060,24060
 "Bloc",NA,"2012-11-26",400,"Guy Lymburner","G3H2E6","Portneuf—Jacques-Cartier","Pont-rouge","QC",-71.698098,46.746453,"2012",FALSE,NA,24051
 "Bloc",NA,"2012-11-26",500,"François Bérard","H1K5C8","Honoré-Mercier","Montréal","QC",-73.540653,45.596947,"2012",FALSE,NA,24022
 "Bloc",NA,"2012-11-26",200,"Marielle Deguire","H2M2K7","Ahuntsic","Montréal","QC",-73.637723,45.558547,"2012",FALSE,NA,24002
@@ -904,8 +904,8 @@
 "Bloc",NA,"2012-12-01",25,"Guy Amyot","J5Z2M6","Repentigny","Le Gardeur","QC",-73.462991,45.764605,"2012",FALSE,NA,24053
 "Bloc",NA,"2012-12-01",30,"Bernard Bouthillette","J8T8R6","Gatineau","Gatineau","QC",-75.694895,45.479703,"2012",FALSE,NA,24020
 "Bloc",NA,"2012-12-01",400,"Albert Guillemette","J9H6G2","Hull—Aylmer","Gatineau","QC",-75.844666,45.385258,"2012",FALSE,NA,24023
-"Bloc","Gatineau","2012-12-01",1000,"Mariem Malak","K1K4V6","Ottawa—Vanier","Ottawa","ON",-75.631894,45.444197,"2012",TRUE,24020,35065
 "Bloc","Gatineau","2012-12-01",952,"Toufic Sbeiti","K1K4V6","Ottawa—Vanier","Ottawa","ON",-75.631894,45.444197,"2012",TRUE,24020,35065
+"Bloc","Gatineau","2012-12-01",1000,"Mariem Malak","K1K4V6","Ottawa—Vanier","Ottawa","ON",-75.631894,45.444197,"2012",TRUE,24020,35065
 "Bloc",NA,"2012-12-02",500,"Marc-andré Denis","J8Z3K7","Hull—Aylmer","Gatineau","QC",-75.75925,45.473338,"2012",FALSE,NA,24023
 "Bloc","Abitibi—Baie-James—Nunavik—Eeyou","2012-12-03",400,"Claude Beaudet","J9P4T5","Abitibi—Baie-James—Nunavik—Eeyou","Val-d'or","QC",-77.815422,48.09149,"2012",TRUE,24046,24046
 "Bloc",NA,"2012-12-03",400,"Daniel Leblond","G0A1H0","Portneuf—Jacques-Cartier","Boischatel","QC",-71.146445,46.90183,"2012",FALSE,NA,24051
@@ -917,9 +917,9 @@
 "Bloc",NA,"2012-12-03",400,"Jean Crevier","H4J1H8","Saint-Laurent—Cartierville","Montréal","QC",-73.706767,45.532748,"2012",FALSE,NA,24066
 "Bloc",NA,"2012-12-03",20,"Michel Pagé","J4Z2R4","Brossard—La Prairie","Brossard","QC",-73.449883,45.46493,"2012",FALSE,NA,24011
 "Bloc",NA,"2012-12-03",400,"Georges Mainville","J9P4E3","Abitibi—Baie-James—Nunavik—Eeyou","Val-d'or","QC",-77.79869,48.102302,"2012",FALSE,NA,24046
+"Bloc","Bas-Richelieu—Nicolet—Bécancour","2012-12-04",400,"André Ad Deblois","J0G1M0","Bas-Richelieu—Nicolet—Bécancour","Saint-francois-du-lac","QC",-72.834093,46.065802,"2012",TRUE,24054,24054
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2012-12-04",395,"Jocelyn Jj Joyal","J0G1M0","Bas-Richelieu—Nicolet—Bécancour","Saint-francois-du-lac","QC",-72.834093,46.065802,"2012",TRUE,24054,24054
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2012-12-04",400,"Jean-guy Jgp Pelletier","J0G1M0","Bas-Richelieu—Nicolet—Bécancour","Saint-francois-du-lac","QC",-72.834093,46.065802,"2012",TRUE,24054,24054
-"Bloc","Bas-Richelieu—Nicolet—Bécancour","2012-12-04",400,"André Ad Deblois","J0G1M0","Bas-Richelieu—Nicolet—Bécancour","Saint-francois-du-lac","QC",-72.834093,46.065802,"2012",TRUE,24054,24054
 "Bloc","Brome—Missisquoi","2012-12-04",400,"Martin Malenfant","J0J1A0","Brome—Missisquoi","Bedford","QC",-72.983439,45.120355,"2012",TRUE,24010,24010
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2012-12-04",400,"Claude Cp Pothier","J0L2M0","Bas-Richelieu—Nicolet—Bécancour","Saint-roch-de-richelieu","QC",-73.160605,45.892328,"2012",TRUE,24054,24054
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2012-12-04",395,"Normand Nj Jacques","J0L2M0","Bas-Richelieu—Nicolet—Bécancour","Saint-roch-de-richelieu","QC",-73.160605,45.892328,"2012",TRUE,24054,24054
@@ -958,14 +958,14 @@
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2012-12-04",400,"Carole Cb Bouchard","J3L6B9","Chambly—Borduas","Saint-mathias-sur-richelieu","QC",-73.259392,45.462131,"2012",TRUE,24054,24012
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2012-12-04",400,"Rémy Rl Lavoie","J3L6B9","Chambly—Borduas","Saint-mathias-sur-richelieu","QC",-73.259392,45.462131,"2012",TRUE,24054,24012
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2012-12-04",400,"Daniel Dl Lavoie","J4M2T3","Longueuil—Pierre-Boucher","Longueuil","QC",-73.44591,45.544707,"2012",TRUE,24054,24035
-"Bloc","Haute-Gaspésie—La Mitis—Matane—Matapédia","2012-12-05",1000,"Jean-françois Fortin","G0J2L0","Haute-Gaspésie—La Mitis—Matane—Matapédia","St-jean-baptiste","QC",-68.2199,48.607147,"2012",TRUE,24041,24041
 "Bloc","Haute-Gaspésie—La Mitis—Matane—Matapédia","2012-12-05",400,"Jean Guimond","G0J2L0","Haute-Gaspésie—La Mitis—Matane—Matapédia","St-jean-baptiste","QC",-68.2199,48.607147,"2012",TRUE,24041,24041
+"Bloc","Haute-Gaspésie—La Mitis—Matane—Matapédia","2012-12-05",1000,"Jean-françois Fortin","G0J2L0","Haute-Gaspésie—La Mitis—Matane—Matapédia","St-jean-baptiste","QC",-68.2199,48.607147,"2012",TRUE,24041,24041
 "Bloc","Haute-Gaspésie—La Mitis—Matane—Matapédia","2012-12-05",400,"Benoit Levesque Beaulieu","G0J3H0","Haute-Gaspésie—La Mitis—Matane—Matapédia","Saint-ulric","QC",-67.688056,48.778485,"2012",TRUE,24041,24041
 "Bloc","Haute-Gaspésie—La Mitis—Matane—Matapédia","2012-12-05",400,"Noël Lambert","G0K1C0","Haute-Gaspésie—La Mitis—Matane—Matapédia","Les Hauteurs","QC",-68.11121,48.375115,"2012",TRUE,24041,24041
 "Bloc","Haute-Gaspésie—La Mitis—Matane—Matapédia","2012-12-05",250,"Serge Bernier","G4W2X9","Haute-Gaspésie—La Mitis—Matane—Matapédia","Matane","QC",-67.520109,48.851021,"2012",TRUE,24041,24041
 "Bloc","Haute-Gaspésie—La Mitis—Matane—Matapédia","2012-12-05",400,"Pierre Villeneuve","G4W3N8","Haute-Gaspésie—La Mitis—Matane—Matapédia","Matane","QC",-67.51441,48.838709,"2012",TRUE,24041,24041
-"Bloc","Haute-Gaspésie—La Mitis—Matane—Matapédia","2012-12-05",400,"Micheline Bernier","G4W7A1","Haute-Gaspésie—La Mitis—Matane—Matapédia","Matane","QC",-67.442052,48.868373,"2012",TRUE,24041,24041
 "Bloc","Haute-Gaspésie—La Mitis—Matane—Matapédia","2012-12-05",400,"Romain Gagné","G4W7A1","Haute-Gaspésie—La Mitis—Matane—Matapédia","Matane","QC",-67.442052,48.868373,"2012",TRUE,24041,24041
+"Bloc","Haute-Gaspésie—La Mitis—Matane—Matapédia","2012-12-05",400,"Micheline Bernier","G4W7A1","Haute-Gaspésie—La Mitis—Matane—Matapédia","Matane","QC",-67.442052,48.868373,"2012",TRUE,24041,24041
 "Bloc","Haute-Gaspésie—La Mitis—Matane—Matapédia","2012-12-05",500,"Gino Ouellet","G5H1V7","Haute-Gaspésie—La Mitis—Matane—Matapédia","St-jean-baptiste","QC",-68.205836,48.57734,"2012",TRUE,24041,24041
 "Bloc","Sherbrooke","2012-12-05",400,"Serge Houle","J1G3W2","Sherbrooke","Sherbrooke","QC",-71.840106,45.405184,"2012",TRUE,24070,24070
 "Bloc","Sherbrooke","2012-12-05",265,"Luc Faucher","J1K2X3","Sherbrooke","Sherbrooke","QC",-71.941412,45.381636,"2012",TRUE,24070,24070
@@ -1020,9 +1020,9 @@
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2012-12-11",395,"Carole Cl Lepage","J3P1C3","Bas-Richelieu—Nicolet—Bécancour","Sorel-tracy","QC",-73.111867,46.045134,"2012",TRUE,24054,24054
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2012-12-11",350,"Robert Rg Gaudette","J3P4E8","Bas-Richelieu—Nicolet—Bécancour","Sorel-tracy","QC",-72.920222,46.116306,"2012",TRUE,24054,24054
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2012-12-11",400,"Michel Md Denis","J3P4M8","Bas-Richelieu—Nicolet—Bécancour","Sorel-tracy","QC",-73.116296,46.044502,"2012",TRUE,24054,24054
-"Bloc","Bas-Richelieu—Nicolet—Bécancour","2012-12-11",395,"Alain Ac Chalifoux","J3P5N3","Bas-Richelieu—Nicolet—Bécancour","Sainte-anne-de-sorel","QC",-73.059998,46.042327,"2012",TRUE,24054,24054
-"Bloc","Bas-Richelieu—Nicolet—Bécancour","2012-12-11",400,"Keven Kh Hébert","J3P5N3","Bas-Richelieu—Nicolet—Bécancour","Sainte-anne-de-sorel","QC",-73.059998,46.042327,"2012",TRUE,24054,24054
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2012-12-11",395,"Élaine Ez Zakaïb","J3P5N3","Bas-Richelieu—Nicolet—Bécancour","Sainte-anne-de-sorel","QC",-73.059998,46.042327,"2012",TRUE,24054,24054
+"Bloc","Bas-Richelieu—Nicolet—Bécancour","2012-12-11",400,"Keven Kh Hébert","J3P5N3","Bas-Richelieu—Nicolet—Bécancour","Sainte-anne-de-sorel","QC",-73.059998,46.042327,"2012",TRUE,24054,24054
+"Bloc","Bas-Richelieu—Nicolet—Bécancour","2012-12-11",395,"Alain Ac Chalifoux","J3P5N3","Bas-Richelieu—Nicolet—Bécancour","Sainte-anne-de-sorel","QC",-73.059998,46.042327,"2012",TRUE,24054,24054
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2012-12-11",400,"Serge Sd Desjardins","J3P5W3","Bas-Richelieu—Nicolet—Bécancour","Sorel","QC",-73.101289,46.02665,"2012",TRUE,24054,24054
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2012-12-11",400,"Jean Jc Cournoyer","J3P7Z8","Bas-Richelieu—Nicolet—Bécancour","Sorel","QC",-73.130483,46.024637,"2012",TRUE,24054,24054
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2012-12-11",400,"Jean-guy Jgc Caplette","J3R1T2","Bas-Richelieu—Nicolet—Bécancour","Sorel-tracy","QC",-73.169904,45.998706,"2012",TRUE,24054,24054
@@ -1061,8 +1061,8 @@
 "Bloc","Gatineau","2012-12-13",720,"Richard Nadeau","J8R1N2","Gatineau","Gatineau","QC",-75.643169,45.505291,"2012",TRUE,24020,24020
 "Bloc","Gatineau","2012-12-13",134,"Claudette Dionne","J8T8R6","Gatineau","Gatineau","QC",-75.694895,45.479703,"2012",TRUE,24020,24020
 "Bloc","Gatineau","2012-12-13",268,"Dino Lemay","J8V3T7","Pontiac","Cantley","QC",-75.757706,45.524495,"2012",TRUE,24020,24050
-"Bloc","Gatineau","2012-12-13",250,"Jean Jb Bernier","J8Z2A5","Hull—Aylmer","Gatineau","QC",-75.762911,45.473626,"2012",TRUE,24020,24023
 "Bloc","Gatineau","2012-12-13",134,"Jean Jb Bernier","J8Z2A5","Hull—Aylmer","Gatineau","QC",-75.762911,45.473626,"2012",TRUE,24020,24023
+"Bloc","Gatineau","2012-12-13",250,"Jean Jb Bernier","J8Z2A5","Hull—Aylmer","Gatineau","QC",-75.762911,45.473626,"2012",TRUE,24020,24023
 "Bloc","Gatineau","2012-12-13",268,"Nazih Ibrahim","J9H6Y2","Hull—Aylmer","Gatineau","QC",-75.795949,45.392203,"2012",TRUE,24020,24023
 "Bloc","Montcalm","2012-12-14",400,"Jean-luc Arène","J5M1W6","Montcalm","Saint-lin-laurentides","QC",-73.879693,45.880646,"2012",TRUE,24043,24043
 "Bloc",NA,"2012-12-14",500,"Pierre Demers","H4L4S4","Saint-Laurent—Cartierville","Saint-laurent","QC",-73.675962,45.524175,"2012",FALSE,NA,24066

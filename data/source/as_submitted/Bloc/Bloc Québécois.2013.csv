@@ -29,8 +29,8 @@
 "Bloc",NA,"2013-01-15",20,"Benoit Labelle","J3L6W8","Chambly—Borduas","Carignan","QC",-73.364997,45.428861,"2013",FALSE,NA,24012
 "Bloc",NA,"2013-01-15",25,"Mario Daneau-landry","J6E0G8","Joliette","Joliette","QC",-73.425148,46.000387,"2013",FALSE,NA,24025
 "Bloc",NA,"2013-01-15",10,"Marthe Laprise","J7R2W9","Rivière-des-Mille-Îles","Saint-eustache","QC",-73.909257,45.564526,"2013",FALSE,NA,24057
-"Bloc","Bas-Richelieu—Nicolet—Bécancour","2013-01-17",500,"Jocelyne Jg Gariépy","J3R5E7","Bas-Richelieu—Nicolet—Bécancour","Sorel-tracy","QC",-73.148633,45.983347,"2013",TRUE,24054,24054
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2013-01-17",400,"Claude C F Forcier","J3R5E7","Bas-Richelieu—Nicolet—Bécancour","Sorel-tracy","QC",-73.148633,45.983347,"2013",TRUE,24054,24054
+"Bloc","Bas-Richelieu—Nicolet—Bécancour","2013-01-17",500,"Jocelyne Jg Gariépy","J3R5E7","Bas-Richelieu—Nicolet—Bécancour","Sorel-tracy","QC",-73.148633,45.983347,"2013",TRUE,24054,24054
 "Bloc",NA,"2013-01-17",300,"Michel Grégoire","G1Y1N2","Louis-Hébert","Cap-rouge","QC",-71.343167,46.756811,"2013",FALSE,NA,24037
 "Bloc",NA,"2013-01-17",300,"Louis Bérard","H2M0A3","Ahuntsic","Montréal","QC",-73.630985,45.551806,"2013",FALSE,NA,24002
 "Bloc",NA,"2013-01-17",100,"Jean-claude Giguère","J0T1T0","Argenteuil—Papineau—Mirabel","L'annonciation","QC",-74.876431,46.414809,"2013",FALSE,NA,24004
@@ -930,10 +930,10 @@
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2013-12-10",400,"Benoit Bm Mongeon","J3P2Z9","Bas-Richelieu—Nicolet—Bécancour","Sainte-anne-de-sorel","QC",-73.083839,46.051112,"2013",TRUE,24054,24054
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2013-12-10",400,"Robert Rg Gaudette","J3P4E8","Bas-Richelieu—Nicolet—Bécancour","Sorel-tracy","QC",-72.920222,46.116306,"2013",TRUE,24054,24054
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2013-12-10",395,"Marc Mj Jacques","J3P4G6","Bas-Richelieu—Nicolet—Bécancour","Sorel-tracy","QC",-73.112474,46.044149,"2013",TRUE,24054,24054
-"Bloc","Bas-Richelieu—Nicolet—Bécancour","2013-12-10",400,"Keven Kh Hébert","J3P5N3","Bas-Richelieu—Nicolet—Bécancour","Sainte-anne-de-sorel","QC",-73.059998,46.042327,"2013",TRUE,24054,24054
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2013-12-10",395,"Claude Cc Champagne","J3P5N3","Bas-Richelieu—Nicolet—Bécancour","Sainte-anne-de-sorel","QC",-73.059998,46.042327,"2013",TRUE,24054,24054
-"Bloc","Bas-Richelieu—Nicolet—Bécancour","2013-12-10",400,"Reynald Rb Bergeron","J3P5N3","Bas-Richelieu—Nicolet—Bécancour","Sainte-anne-de-sorel","QC",-73.059998,46.042327,"2013",TRUE,24054,24054
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2013-12-10",395,"Alain Ac Chalifoux","J3P5N3","Bas-Richelieu—Nicolet—Bécancour","Sainte-anne-de-sorel","QC",-73.059998,46.042327,"2013",TRUE,24054,24054
+"Bloc","Bas-Richelieu—Nicolet—Bécancour","2013-12-10",400,"Keven Kh Hébert","J3P5N3","Bas-Richelieu—Nicolet—Bécancour","Sainte-anne-de-sorel","QC",-73.059998,46.042327,"2013",TRUE,24054,24054
+"Bloc","Bas-Richelieu—Nicolet—Bécancour","2013-12-10",400,"Reynald Rb Bergeron","J3P5N3","Bas-Richelieu—Nicolet—Bécancour","Sainte-anne-de-sorel","QC",-73.059998,46.042327,"2013",TRUE,24054,24054
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2013-12-10",400,"Maxime Péloquin","J3P7E1","Bas-Richelieu—Nicolet—Bécancour","Sorel-tracy","QC",-73.087342,46.026297,"2013",TRUE,24054,24054
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2013-12-10",400,"Guy Gb Bardier","J3P7W6","Bas-Richelieu—Nicolet—Bécancour","Sorel-tracy","QC",-73.11106,46.014882,"2013",TRUE,24054,24054
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2013-12-10",400,"Jean Jc Cournoyer","J3P7Z8","Bas-Richelieu—Nicolet—Bécancour","Sorel","QC",-73.130483,46.024637,"2013",TRUE,24054,24054
@@ -952,8 +952,8 @@
 "Bloc",NA,"2013-12-10",400,"Pascal Lebel","G1S3G7","Québec","Québec","QC",-71.244376,46.80033,"2013",FALSE,NA,24052
 "Bloc",NA,"2013-12-10",750,"Julie Jean","H1G1T9","Bourassa","Montréal-nord","QC",-73.626519,45.614126,"2013",FALSE,NA,24009
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2013-12-10",400,"Guy Gm Marier","J2L2S2","Brome—Missisquoi","Bromont","QC",-72.672101,45.325888,"2013",TRUE,24054,24010
-"Bloc","Bas-Richelieu—Nicolet—Bécancour","2013-12-10",400,"Rémy Rl Lavoie","J3L6B9","Chambly—Borduas","Saint-mathias-sur-richelieu","QC",-73.259392,45.462131,"2013",TRUE,24054,24012
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2013-12-10",400,"Carole Cb Bouchard","J3L6B9","Chambly—Borduas","Saint-mathias-sur-richelieu","QC",-73.259392,45.462131,"2013",TRUE,24054,24012
+"Bloc","Bas-Richelieu—Nicolet—Bécancour","2013-12-10",400,"Rémy Rl Lavoie","J3L6B9","Chambly—Borduas","Saint-mathias-sur-richelieu","QC",-73.259392,45.462131,"2013",TRUE,24054,24012
 "Bloc","Bas-Richelieu—Nicolet—Bécancour","2013-12-10",400,"Daniel Michaud","J4M2T3","Longueuil—Pierre-Boucher","Longueuil","QC",-73.44591,45.544707,"2013",TRUE,24054,24035
 "Bloc",NA,"2013-12-10",500,"Josée Hamel","J6K4L6","Châteauguay—Saint-Constant","Châteauguay","QC",-73.705379,45.358614,"2013",FALSE,NA,24015
 "Bloc",NA,"2013-12-12",400,"Lisette Leblanc","G6V3V6","Lévis—Bellechasse","Lévis","QC",-71.187491,46.805817,"2013",FALSE,NA,24034
