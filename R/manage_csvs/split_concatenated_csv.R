@@ -10,7 +10,6 @@ data_set <- read.csv(
   encoding="UTF-8"
 )
 data_set$contrib.date <- as.Date(data_set$contrib.date)
-data_set <- mutate(data_set, year=strftime(contrib.date, format="%Y"))
 
 log <- data.frame()
 
@@ -21,7 +20,7 @@ for(i in 1:nrow(k$PartyNames))
 
   for(current_year in k$AllContribYears)
   {
-    subset <- filter(data_set, party==party$nick_name, year==current_year)
+    subset <- filter(data_set, party==party$nick_name, contrib.year==current_year)
     file_name <- paste(party$name, '.', current_year, '.csv', sep='')
     log_record <- data.frame(party=party$nick_name, year=current_year, n=nrow(subset))
     log <- rbind(log, log_record)
@@ -32,5 +31,5 @@ for(i in 1:nrow(k$PartyNames))
     )
   }
 }
-
+print(log)
 util$AllRowsAccountedFor(sum(log$n), nrow(data_set))
